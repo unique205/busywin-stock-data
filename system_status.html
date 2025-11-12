@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LIBAS - System Status</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background: #f5f5f5; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .status { padding: 15px; margin: 10px 0; border-radius: 5px; }
+        .online { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .offline { background: #fff3cd; color: #856404; border: 1px solid #ffeaa7; }
+        .error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        .last-sync { font-size: 0.9em; color: #666; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 LIBAS System Status</h1>
+        
+        <div id="syncStatus" class="status">
+            <h3>Sync Status: Checking...</h3>
+        </div>
+        
+        <div id="dataStatus" class="status">
+            <h3>Data Status: Checking...</h3>
+        </div>
+        
+        <div id="offlineInfo" class="status" style="display: none;">
+            <h3>⚠️ Offline Information</h3>
+            <p>When the laptop is closed, sleeping, or offline:</p>
+            <ul>
+                <li>✅ Website continues to work with last data</li>
+                <li>✅ Search and filtering still work</li>
+                <li>🔄 Sync automatically resumes when online</li>
+                <li>💾 No data loss - everything saves locally</li>
+            </ul>
+        </div>
+        
+        <div class="last-sync" id="lastUpdate">
+            Last checked: Loading...
+        </div>
+        
+        <div style="margin-top: 20px;">
+            <button onclick="checkStatus()">🔄 Check Status</button>
+            <button onclick="window.open('https://unique205.github.io/busywin-stock-data/', '_blank')">📱 Open Stock Website</button>
+        </div>
+    </div>
+
+    <script>
+        async function checkStatus() {
+            const syncElement = document.getElementById('syncStatus');
+            const dataElement = document.getElementById('dataStatus');
+            const offlineElement = document.getElementById('offlineInfo');
+            
+            try {
+                // Check GitHub data
+                const response = await fetch('https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js');
+                if (response.ok) {
+                    const jsCode = await response.text();
+                    eval(jsCode);
+                    
+                    const timeDiff = new Date() - new Date(window.lastUpdated);
+                    const minutesAgo = Math.floor(timeDiff / (1000 * 60));
+                    
+                    dataElement.className = 'status online';
+                    dataElement.innerHTML = `
+                        <h3>✅ Data Status: Online</h3>
+                        <p><strong>Items:</strong> ${window.stockData.length}</p>
+                        <p><strong>Last Updated:</strong> ${window.lastUpdated}</p>
+                        <p><strong>Minutes ago:</strong> ${minutesAgo} minutes</p>
+                    `;
+                    
+                    if (minutesAgo > 5) {
+                        syncElement.className = 'status offline';
+                        syncElement.innerHTML = `
+                            <h3>⚠️ Sync Status: Possibly Offline</h3>
+                            <p>Last sync was ${minutesAgo} minutes ago.</p>
+                            <p>The laptop might be closed, sleeping, or offline.</p>
+                        `;
+                        offlineElement.style.display = 'block';
+                    } else {
+                        syncElement.className = 'status online';
+                        syncElement.innerHTML = `
+                            <h3>✅ Sync Status: Active</h3>
+                            <p>Syncing every 25 seconds</p>
+                            <p>Last sync: ${minutesAgo} minutes ago</p>
+                        `;
+                        offlineElement.style.display = 'none';
+                    }
+                }
+            } catch (error) {
+                syncElement.className = 'status error';
+                syncElement.innerHTML = `
+                    <h3>❌ Sync Status: Offline</h3>
+                    <p>Cannot reach GitHub. The laptop is likely:</p>
+                    <ul>
+                        <li>🔌 Turned off or sleeping</li>
+                        <li>📴 No internet connection</li>
+                        <li>💤 Closed lid</li>
+                    </ul>
+                `;
+                offlineElement.style.display = 'block';
+                
+                dataElement.className = 'status offline';
+                dataElement.innerHTML = `
+                    <h3>⚠️ Data Status: Using Cached Data</h3>
+                    <p>Website shows last successfully synced data.</p>
+                    <p>All features remain available.</p>
+                `;
+            }
+            
+            document.getElementById('lastUpdate').textContent = `Last checked: ${new Date().toLocaleString()}`;
+        }
+
+        // Initial check
+        checkStatus();
+        
+        // Auto-check every 30 seconds
+        setInterval(checkStatus, 30000);
+    </script>
+</body>
+</html>
