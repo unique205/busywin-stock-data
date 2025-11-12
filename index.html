@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LIBAS - Live Stock Data</title>
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -15,10 +12,11 @@
         .last-sync { font-size: 0.9rem; color: #6c757d; }
         .stock-positive { color: #198754; }
         .stock-zero { color: #dc3545; }
-        .card { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 1rem; transition: transform 0.2s; }
-        .card:hover { transform: translateY(-2px); }
-        .live-badge { background: #dc3545; animation: pulse 2s infinite; }
+        .card { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 1rem; transition: all 0.3s ease; }
+        .card:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(0,0,0,0.15); }
+        .live-indicator { animation: pulse 2s infinite; }
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+        .update-notification { position: fixed; top: 20px; right: 20px; z-index: 1000; }
     </style>
 </head>
 <body>
@@ -26,11 +24,16 @@
         <div class="container">
             <h1 class="text-center"><i class="fas fa-warehouse me-3"></i>LIBAS Stock Data</h1>
             <div class="text-center">
-                <span class="badge live-badge me-2">LIVE</span>
-                <div id="lastSync" class="last-sync">Loading live data...</div>
-                <div id="connectionStatus" class="last-sync"></div>
+                <div id="lastSync" class="last-sync">Loading data...</div>
+                <div id="connectionStatus" class="last-sync">
+                    <span id="statusIndicator" class="badge bg-secondary">Connecting...</span>
+                </div>
             </div>
         </div>
+    </div>
+
+    <div id="updateNotification" class="update-notification alert alert-success d-none">
+        <i class="fas fa-sync me-2"></i>Data updated successfully!
     </div>
 
     <div class="container mt-4">
@@ -43,28 +46,27 @@
             </div>
         </div>
 
+        <div class="row mb-3">
+            <div class="col-12">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h5 id="itemCount">Items: 0</h5>
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="showOutOfStock" checked>
+                        <label class="form-check-label" for="showOutOfStock">Show out of stock</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="row">
             <div class="col-12">
                 <div id="loading" class="text-center">
                     <div class="spinner-border text-primary" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
-                    <p class="mt-2">Loading live stock data...</p>
+                    <p class="mt-2">Loading stock data...</p>
                 </div>
                 <div id="itemsContainer" class="d-none">
-                    <div class="d-flex justify-content-between align-items-center mb-3">
-                        <h5 id="itemCount">Items: 0</h5>
-                        <div>
-                            <div class="form-check form-switch">
-                                <input class="form-check-input" type="checkbox" id="showOutOfStock">
-                                <label class="form-check-label" for="showOutOfStock">Show out of stock</label>
-                            </div>
-                            <div class="form-check form-switch">
-                                <input class="form-check-input" type="checkbox" id="autoRefresh" checked>
-                                <label class="form-check-label" for="autoRefresh">Auto-refresh every 30s</label>
-                            </div>
-                        </div>
-                    </div>
                     <div id="itemsList"></div>
                 </div>
             </div>
@@ -73,49 +75,89 @@
 
     <script>
         let currentData = [];
-        let lastUpdateTime = '';
-        let autoRefreshInterval = null;
+        let lastDataHash = '';
+        let autoRefreshInterval;
+        let isOnline = true;
 
-        // Load data with cache busting
-        function loadData() {
-            const timestamp = new Date().getTime();
-            const url = `https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js?t=${timestamp}`;
-            
-            fetch(url)
-                .then(response => {
-                    if (!response.ok) throw new Error('Network error');
-                    return response.text();
-                })
-                .then(jsCode => {
-                    eval(jsCode);
-                    currentData = window.stockData || [];
-                    lastUpdateTime = window.lastUpdated || 'Unknown';
-                    displayData();
-                    document.getElementById('connectionStatus').innerHTML = 
-                        '<span class="text-success"><i class="fas fa-wifi"></i> Connected - Live updates active</span>';
-                })
-                .catch(error => {
-                    console.error('Error loading data:', error);
-                    document.getElementById('connectionStatus').innerHTML = 
-                        `<span class="text-warning"><i class="fas fa-exclamation-triangle"></i> Using cached data - ${error.message}</span>`;
-                    // If online load fails, try to use existing data
-                    if (currentData.length > 0) {
-                        displayData();
-                    }
-                });
+        // Initialize the application
+        async function initializeApp() {
+            await loadData();
+            setupAutoRefresh();
+            setupConnectionMonitoring();
         }
 
-        function displayData() {
-            document.getElementById('lastSync').textContent = `Last updated: ${lastUpdateTime}`;
-            document.getElementById('itemCount').textContent = `Items: ${currentData.length}`;
+        // Load data from GitHub
+        async function loadData() {
+            try {
+                showLoading(true);
+                updateStatus('🔄 Loading data...', 'warning');
+                
+                // Add cache busting to prevent browser caching
+                const timestamp = new Date().getTime();
+                const response = await fetch(`https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js?t=${timestamp}`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                const jsCode = await response.text();
+                
+                // Execute the JavaScript to get the data
+                eval(jsCode);
+                
+                // Check if data has changed
+                const newDataHash = generateDataHash(window.stockData);
+                const dataChanged = newDataHash !== lastDataHash;
+                
+                currentData = window.stockData || [];
+                lastDataHash = newDataHash;
+                
+                updateStatus('✅ Connected - Live updates active', 'success');
+                showData(dataChanged);
+                
+                if (dataChanged && currentData.length > 0) {
+                    showUpdateNotification();
+                }
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                updateStatus('❌ Error loading data', 'danger');
+                showLoading(false);
+                
+                // Try again in 10 seconds if error
+                setTimeout(loadData, 10000);
+            }
+        }
+
+        // Show/hide loading indicator
+        function showLoading(show) {
+            document.getElementById('loading').classList.toggle('d-none', !show);
+            document.getElementById('itemsContainer').classList.toggle('d-none', show);
+        }
+
+        // Update connection status
+        function updateStatus(message, type) {
+            const indicator = document.getElementById('statusIndicator');
+            indicator.textContent = message;
+            indicator.className = `badge bg-${type} live-indicator`;
             
-            document.getElementById('loading').classList.add('d-none');
-            document.getElementById('itemsContainer').classList.remove('d-none');
+            document.getElementById('lastSync').textContent = 
+                `Last updated: ${window.lastUpdated || 'Unknown'}`;
+        }
+
+        // Show data with change detection
+        function showData(dataChanged) {
+            showLoading(false);
             
-            renderItems(currentData);
+            if (dataChanged) {
+                document.getElementById('itemCount').textContent = `Items: ${currentData.length}`;
+                renderItems(currentData);
+            }
+            
             setupEventListeners();
         }
 
+        // Render items list
         function renderItems(items) {
             const container = document.getElementById('itemsList');
             const showOutOfStock = document.getElementById('showOutOfStock').checked;
@@ -153,9 +195,54 @@
             document.getElementById('itemCount').textContent = `Items: ${filteredItems.length} (${items.length} total)`;
         }
 
+        // Setup auto-refresh every 30 seconds
+        function setupAutoRefresh() {
+            // Clear existing interval
+            if (autoRefreshInterval) {
+                clearInterval(autoRefreshInterval);
+            }
+            
+            // Check for updates every 30 seconds
+            autoRefreshInterval = setInterval(async () => {
+                if (isOnline) {
+                    await loadData();
+                }
+            }, 30000); // 30 seconds
+        }
+
+        // Monitor internet connection
+        function setupConnectionMonitoring() {
+            window.addEventListener('online', () => {
+                isOnline = true;
+                updateStatus('✅ Connected - Live updates active', 'success');
+                loadData(); // Immediately load data when back online
+            });
+            
+            window.addEventListener('offline', () => {
+                isOnline = false;
+                updateStatus('❌ Offline - Showing cached data', 'warning');
+            });
+        }
+
+        // Show update notification
+        function showUpdateNotification() {
+            const notification = document.getElementById('updateNotification');
+            notification.classList.remove('d-none');
+            
+            setTimeout(() => {
+                notification.classList.add('d-none');
+            }, 3000);
+        }
+
+        // Generate hash for change detection
+        function generateDataHash(data) {
+            return btoa(JSON.stringify(data)).substring(0, 32);
+        }
+
+        // Setup event listeners
         function setupEventListeners() {
-            // Search
-            document.getElementById('searchInput').addEventListener('input', function(e) {
+            // Search functionality
+            document.getElementById('searchInput').oninput = function(e) {
                 const searchTerm = e.target.value.toLowerCase();
                 const filtered = currentData.filter(item => 
                     (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
@@ -163,10 +250,10 @@
                     (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
                 );
                 renderItems(filtered);
-            });
+            };
             
             // Stock filter
-            document.getElementById('showOutOfStock').addEventListener('change', function(e) {
+            document.getElementById('showOutOfStock').onchange = function(e) {
                 const searchTerm = document.getElementById('searchInput').value.toLowerCase();
                 let filtered = currentData;
                 
@@ -183,32 +270,10 @@
                 }
                 
                 renderItems(filtered);
-            });
-            
-            // Auto-refresh
-            document.getElementById('autoRefresh').addEventListener('change', function(e) {
-                if (e.target.checked) {
-                    startAutoRefresh();
-                } else {
-                    stopAutoRefresh();
-                }
-            });
+            };
         }
 
-        function startAutoRefresh() {
-            stopAutoRefresh();
-            autoRefreshInterval = setInterval(loadData, 30000); // 30 seconds
-            document.getElementById('connectionStatus').innerHTML += 
-                ' <span class="text-info"><i class="fas fa-sync-alt"></i> Auto-refresh enabled</span>';
-        }
-
-        function stopAutoRefresh() {
-            if (autoRefreshInterval) {
-                clearInterval(autoRefreshInterval);
-                autoRefreshInterval = null;
-            }
-        }
-
+        // Utility function to escape HTML
         function escapeHtml(unsafe) {
             return unsafe
                 .toString()
@@ -219,16 +284,22 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // Initial load
-        loadData();
-        startAutoRefresh();
+        // Manual refresh function
+        window.manualRefresh = function() {
+            loadData();
+        };
 
-        // Also refresh when page becomes visible
-        document.addEventListener('visibilitychange', function() {
-            if (!document.hidden) {
-                loadData();
-            }
-        });
+        // Initialize the app when page loads
+        document.addEventListener('DOMContentLoaded', initializeApp);
     </script>
+
+    <div class="container mt-4 mb-4">
+        <div class="text-center">
+            <button class="btn btn-primary" onclick="manualRefresh()">
+                <i class="fas fa-sync me-2"></i>Refresh Now
+            </button>
+            <small class="d-block mt-2 text-muted">Auto-refreshes every 30 seconds</small>
+        </div>
+    </div>
 </body>
 </html>
