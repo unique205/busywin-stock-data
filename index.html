@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIBAS - Stock Data</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body { background: #f8f9fa; }
+        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem 0; }
+        .last-sync { font-size: 0.9rem; color: #6c757d; }
+        .stock-positive { color: #198754; }
+        .stock-zero { color: #dc3545; }
+        .card { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 1rem; }
+        .item-image { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1 class="text-center"><i class="fas fa-warehouse me-3"></i>LIBAS Stock Data</h1>
+            <div class="text-center">
+                <div id="lastSync" class="last-sync">Loading data...</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div class="row mb-4">
+            <div class="col-md-8 mx-auto">
+                <div class="input-group">
+                    <span class="input-group-text"><i class="fas fa-search"></i></span>
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search items by name, alias, or group...">
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div id="loading" class="text-center">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="mt-2">Loading stock data...</p>
+                </div>
+                <div id="itemsContainer" class="d-none">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h5 id="itemCount">Items: 0</h5>
+                        <div class="form-check form-switch">
+                            <input class="form-check-input" type="checkbox" id="showOutOfStock">
+                            <label class="form-check-label" for="showOutOfStock">Show out of stock</label>
+                        </div>
+                    </div>
+                    <div id="itemsList"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Load data from GitHub -->
+    <script src="https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js"></script>
+    
+    <script>
+        // Wait for data to load
+        function checkDataLoaded() {
+            if (typeof window.stockData !== 'undefined') {
+                document.getElementById('loading').classList.add('d-none');
+                document.getElementById('itemsContainer').classList.remove('d-none');
+                displayData();
+            } else {
+                setTimeout(checkDataLoaded, 100);
+            }
+        }
+
+        function displayData() {
+            const items = window.stockData || [];
+            const lastUpdate = window.lastUpdated || 'Unknown';
+            
+            // Update last sync
+            document.getElementById('lastSync').textContent = `Last updated: ${lastUpdate}`;
+            document.getElementById('itemCount').textContent = `Items: ${items.length}`;
+            
+            renderItems(items);
+            
+            // Setup search
+            document.getElementById('searchInput').addEventListener('input', function(e) {
+                const searchTerm = e.target.value.toLowerCase();
+                const filtered = items.filter(item => 
+                    (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
+                    (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
+                    (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
+                );
+                renderItems(filtered);
+            });
+            
+            // Setup stock filter
+            document.getElementById('showOutOfStock').addEventListener('change', function(e) {
+                const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+                let filtered = items;
+                
+                if (!e.target.checked) {
+                    filtered = items.filter(item => parseFloat(item.Stock) > 0);
+                }
+                
+                if (searchTerm) {
+                    filtered = filtered.filter(item => 
+                        (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
+                        (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
+                        (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
+                    );
+                }
+                
+                renderItems(filtered);
+            });
+        }
+
+        function renderItems(items) {
+            const container = document.getElementById('itemsList');
+            const showOutOfStock = document.getElementById('showOutOfStock').checked;
+            
+            let filteredItems = items;
+            if (!showOutOfStock) {
+                filteredItems = items.filter(item => parseFloat(item.Stock) > 0);
+            }
+            
+            container.innerHTML = filteredItems.map(item => `
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-md-8">
+                                <h6 class="card-title">${escapeHtml(item.ItemName || 'N/A')}</h6>
+                                <p class="card-text mb-1">
+                                    <small class="text-muted">Alias: ${escapeHtml(item.ItemAlias || 'N/A')}</small>
+                                </p>
+                                <p class="card-text mb-1">
+                                    <small class="text-muted">Group: ${escapeHtml(item.GroupName || 'N/A')}</small>
+                                </p>
+                                <div class="mt-2">
+                                    <span class="badge bg-primary">MRP: ₹${parseFloat(item.Item_MRP || 0).toFixed(2)}</span>
+                                    <span class="badge bg-success ms-1">Sale: ₹${parseFloat(item.Item_Sale_Price || 0).toFixed(2)}</span>
+                                    <span class="badge ${parseFloat(item.Stock) > 0 ? 'bg-success' : 'bg-danger'} ms-1">
+                                        Stock: ${parseFloat(item.Stock || 0)}
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            document.getElementById('itemCount').textContent = `Items: ${filteredItems.length} (${items.length} total)`;
+        }
+
+        function escapeHtml(unsafe) {
+            return unsafe
+                .toString()
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // Start checking for data
+        checkDataLoaded();
+    </script>
+</body>
+</html>
