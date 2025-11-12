@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LIBAS - Stock Data</title>
+    <title>LIBAS - Live Stock Data</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -12,8 +15,10 @@
         .last-sync { font-size: 0.9rem; color: #6c757d; }
         .stock-positive { color: #198754; }
         .stock-zero { color: #dc3545; }
-        .card { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 1rem; }
-        .item-image { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; }
+        .card { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 1rem; transition: transform 0.2s; }
+        .card:hover { transform: translateY(-2px); }
+        .live-badge { background: #dc3545; animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
     </style>
 </head>
 <body>
@@ -21,7 +26,9 @@
         <div class="container">
             <h1 class="text-center"><i class="fas fa-warehouse me-3"></i>LIBAS Stock Data</h1>
             <div class="text-center">
-                <div id="lastSync" class="last-sync">Loading data...</div>
+                <span class="badge live-badge me-2">LIVE</span>
+                <div id="lastSync" class="last-sync">Loading live data...</div>
+                <div id="connectionStatus" class="last-sync"></div>
             </div>
         </div>
     </div>
@@ -42,14 +49,20 @@
                     <div class="spinner-border text-primary" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
-                    <p class="mt-2">Loading stock data...</p>
+                    <p class="mt-2">Loading live stock data...</p>
                 </div>
                 <div id="itemsContainer" class="d-none">
                     <div class="d-flex justify-content-between align-items-center mb-3">
                         <h5 id="itemCount">Items: 0</h5>
-                        <div class="form-check form-switch">
-                            <input class="form-check-input" type="checkbox" id="showOutOfStock">
-                            <label class="form-check-label" for="showOutOfStock">Show out of stock</label>
+                        <div>
+                            <div class="form-check form-switch">
+                                <input class="form-check-input" type="checkbox" id="showOutOfStock">
+                                <label class="form-check-label" for="showOutOfStock">Show out of stock</label>
+                            </div>
+                            <div class="form-check form-switch">
+                                <input class="form-check-input" type="checkbox" id="autoRefresh" checked>
+                                <label class="form-check-label" for="autoRefresh">Auto-refresh every 30s</label>
+                            </div>
                         </div>
                     </div>
                     <div id="itemsList"></div>
@@ -59,74 +72,48 @@
     </div>
 
     <script>
-        // Load data from GitHub using fetch (more reliable)
-        console.log('Loading stock data from GitHub...');
-        
-        fetch('https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Failed to load data: ' + response.status);
-                }
-                return response.text();
-            })
-            .then(jsCode => {
-                console.log('Data loaded successfully, executing...');
-                // Execute the JavaScript code to set window.stockData
-                eval(jsCode);
-                displayData();
-            })
-            .catch(error => {
-                console.error('Error loading data:', error);
-                document.getElementById('loading').innerHTML = 
-                    '<div class="alert alert-danger">Error loading data: ' + error.message + '</div>';
-            });
+        let currentData = [];
+        let lastUpdateTime = '';
+        let autoRefreshInterval = null;
+
+        // Load data with cache busting
+        function loadData() {
+            const timestamp = new Date().getTime();
+            const url = `https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js?t=${timestamp}`;
+            
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) throw new Error('Network error');
+                    return response.text();
+                })
+                .then(jsCode => {
+                    eval(jsCode);
+                    currentData = window.stockData || [];
+                    lastUpdateTime = window.lastUpdated || 'Unknown';
+                    displayData();
+                    document.getElementById('connectionStatus').innerHTML = 
+                        '<span class="text-success"><i class="fas fa-wifi"></i> Connected - Live updates active</span>';
+                })
+                .catch(error => {
+                    console.error('Error loading data:', error);
+                    document.getElementById('connectionStatus').innerHTML = 
+                        `<span class="text-warning"><i class="fas fa-exclamation-triangle"></i> Using cached data - ${error.message}</span>`;
+                    // If online load fails, try to use existing data
+                    if (currentData.length > 0) {
+                        displayData();
+                    }
+                });
+        }
 
         function displayData() {
-            const items = window.stockData || [];
-            const lastUpdate = window.lastUpdated || 'Unknown';
+            document.getElementById('lastSync').textContent = `Last updated: ${lastUpdateTime}`;
+            document.getElementById('itemCount').textContent = `Items: ${currentData.length}`;
             
-            console.log('Displaying data:', items.length, 'items');
-            
-            // Update last sync
-            document.getElementById('lastSync').textContent = `Last updated: ${lastUpdate}`;
-            document.getElementById('itemCount').textContent = `Items: ${items.length}`;
-            
-            // Hide loading, show content
             document.getElementById('loading').classList.add('d-none');
             document.getElementById('itemsContainer').classList.remove('d-none');
             
-            renderItems(items);
-            
-            // Setup search
-            document.getElementById('searchInput').addEventListener('input', function(e) {
-                const searchTerm = e.target.value.toLowerCase();
-                const filtered = items.filter(item => 
-                    (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
-                    (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
-                    (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
-                );
-                renderItems(filtered);
-            });
-            
-            // Setup stock filter
-            document.getElementById('showOutOfStock').addEventListener('change', function(e) {
-                const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-                let filtered = items;
-                
-                if (!e.target.checked) {
-                    filtered = items.filter(item => parseFloat(item.Stock) > 0);
-                }
-                
-                if (searchTerm) {
-                    filtered = filtered.filter(item => 
-                        (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
-                        (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
-                        (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
-                    );
-                }
-                
-                renderItems(filtered);
-            });
+            renderItems(currentData);
+            setupEventListeners();
         }
 
         function renderItems(items) {
@@ -166,6 +153,62 @@
             document.getElementById('itemCount').textContent = `Items: ${filteredItems.length} (${items.length} total)`;
         }
 
+        function setupEventListeners() {
+            // Search
+            document.getElementById('searchInput').addEventListener('input', function(e) {
+                const searchTerm = e.target.value.toLowerCase();
+                const filtered = currentData.filter(item => 
+                    (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
+                    (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
+                    (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
+                );
+                renderItems(filtered);
+            });
+            
+            // Stock filter
+            document.getElementById('showOutOfStock').addEventListener('change', function(e) {
+                const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+                let filtered = currentData;
+                
+                if (!e.target.checked) {
+                    filtered = currentData.filter(item => parseFloat(item.Stock) > 0);
+                }
+                
+                if (searchTerm) {
+                    filtered = filtered.filter(item => 
+                        (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
+                        (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
+                        (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
+                    );
+                }
+                
+                renderItems(filtered);
+            });
+            
+            // Auto-refresh
+            document.getElementById('autoRefresh').addEventListener('change', function(e) {
+                if (e.target.checked) {
+                    startAutoRefresh();
+                } else {
+                    stopAutoRefresh();
+                }
+            });
+        }
+
+        function startAutoRefresh() {
+            stopAutoRefresh();
+            autoRefreshInterval = setInterval(loadData, 30000); // 30 seconds
+            document.getElementById('connectionStatus').innerHTML += 
+                ' <span class="text-info"><i class="fas fa-sync-alt"></i> Auto-refresh enabled</span>';
+        }
+
+        function stopAutoRefresh() {
+            if (autoRefreshInterval) {
+                clearInterval(autoRefreshInterval);
+                autoRefreshInterval = null;
+            }
+        }
+
         function escapeHtml(unsafe) {
             return unsafe
                 .toString()
@@ -175,6 +218,17 @@
                 .replace(/"/g, "&quot;")
                 .replace(/'/g, "&#039;");
         }
+
+        // Initial load
+        loadData();
+        startAutoRefresh();
+
+        // Also refresh when page becomes visible
+        document.addEventListener('visibilitychange', function() {
+            if (!document.hidden) {
+                loadData();
+            }
+        });
     </script>
 </body>
 </html>
