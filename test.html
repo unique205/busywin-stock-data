@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LIBAS Stock - Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .success { color: green; }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+    <h1>LIBAS Stock Data - Test Page</h1>
+    <div id="status">Testing connection...</div>
+    <div id="data"></div>
+
+    <script>
+        // Test loading data from GitHub
+        console.log('Starting data load...');
+        
+        fetch('https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js')
+            .then(response => {
+                console.log('Response status:', response.status);
+                if (!response.ok) {
+                    throw new Error('HTTP error ' + response.status);
+                }
+                return response.text();
+            })
+            .then(jsCode => {
+                console.log('Data loaded successfully');
+                document.getElementById('status').innerHTML = 
+                    '<p class="success">✓ Data loaded successfully from GitHub!</p>';
+                
+                // Execute the JavaScript to get the data
+                eval(jsCode);
+                
+                // Display the data
+                document.getElementById('data').innerHTML = 
+                    `<h3>Loaded ${window.stockData.length} items</h3>
+                     <p>Last updated: ${window.lastUpdated}</p>
+                     <div style="max-height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+                     ${window.stockData.slice(0, 10).map(item => 
+                         `<div style="border-bottom: 1px solid #eee; padding: 5px;">
+                             <strong>${item.ItemName}</strong> - 
+                             MRP: ₹${item.Item_MRP} - 
+                             Stock: <span style="color: ${item.Stock > 0 ? 'green' : 'red'}">${item.Stock}</span>
+                         </div>`
+                     ).join('')}
+                     </div>
+                     <p><em>Showing first 10 of ${window.stockData.length} items</em></p>`;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('status').innerHTML = 
+                    `<p class="error">✗ Error loading data: ${error.message}</p>
+                     <p>Please check:</p>
+                     <ul>
+                         <li>GitHub repository exists</li>
+                         <li>stock_data.js file exists</li>
+                         <li>GitHub Pages is enabled</li>
+                     </ul>`;
+            });
+    </script>
+</body>
+</html>
