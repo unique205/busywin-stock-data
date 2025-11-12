@@ -58,28 +58,42 @@
         </div>
     </div>
 
-    <!-- Load data from GitHub -->
-    <script src="https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js"></script>
-    
     <script>
-        // Wait for data to load
-        function checkDataLoaded() {
-            if (typeof window.stockData !== 'undefined') {
-                document.getElementById('loading').classList.add('d-none');
-                document.getElementById('itemsContainer').classList.remove('d-none');
+        // Load data from GitHub using fetch (more reliable)
+        console.log('Loading stock data from GitHub...');
+        
+        fetch('https://raw.githubusercontent.com/unique205/busywin-stock-data/main/stock_data.js')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load data: ' + response.status);
+                }
+                return response.text();
+            })
+            .then(jsCode => {
+                console.log('Data loaded successfully, executing...');
+                // Execute the JavaScript code to set window.stockData
+                eval(jsCode);
                 displayData();
-            } else {
-                setTimeout(checkDataLoaded, 100);
-            }
-        }
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                document.getElementById('loading').innerHTML = 
+                    '<div class="alert alert-danger">Error loading data: ' + error.message + '</div>';
+            });
 
         function displayData() {
             const items = window.stockData || [];
             const lastUpdate = window.lastUpdated || 'Unknown';
             
+            console.log('Displaying data:', items.length, 'items');
+            
             // Update last sync
             document.getElementById('lastSync').textContent = `Last updated: ${lastUpdate}`;
             document.getElementById('itemCount').textContent = `Items: ${items.length}`;
+            
+            // Hide loading, show content
+            document.getElementById('loading').classList.add('d-none');
+            document.getElementById('itemsContainer').classList.remove('d-none');
             
             renderItems(items);
             
@@ -161,9 +175,6 @@
                 .replace(/"/g, "&quot;")
                 .replace(/'/g, "&#039;");
         }
-
-        // Start checking for data
-        checkDataLoaded();
     </script>
 </body>
 </html>
