@@ -1,9 +1,10 @@
 ﻿<!doctype html>
-<html lang="en"><head><meta charset="utf-8"/><title>BusyWin — Stock (Wholesale & Alerts)</title>
+<html lang="en">
+<head><meta charset="utf-8"/><title>BusyWin — Stock (Wholesale, Alerts & Live Refresh)</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <style>
 body{font-family:Arial,Helvetica,sans-serif;padding:18px;background:#f7f7f7}
-.top{display:flex;gap:12px;align-items:center;margin-bottom:10px}
+.top{display:flex;gap:12px;align-items:center;margin-bottom:10px;flex-wrap:wrap}
 .alert{padding:8px 12px;border-radius:6px;background:#ffefef;border:1px solid #ffcccc;color:#8b0f0f}
 .ok{padding:8px 12px;border-radius:6px;background:#eefaf1;border:1px solid #c7eed2;color:#0b6b2d}
 table{border-collapse:collapse;width:100%;background:white;box-shadow:0 1px 4px rgba(0,0,0,0.06)}
@@ -12,26 +13,42 @@ th{background:#fafafa;position:sticky;top:0;z-index:2}
 .small{font-size:12px;color:#666}
 .stock-low{background:#fff7e6}
 button{cursor:pointer}
+.control-group{display:flex;gap:8px;align-items:center}
 </style>
-</head><body>
-<h2>BusyWin — Stock (Wholesale & Alerts)</h2>
+</head>
+<body>
+<h2>BusyWin — Stock (Wholesale, Alerts & Live Refresh)</h2>
+
 <div class="top">
   <div><strong>Low stock:</strong> <span id="lowCount" class="alert">—</span></div>
-  <div><label>Threshold: <input id="threshold" type="number" value="2" style="width:60px" /></label></div>
-  <div><label>Search: <input id="q" placeholder="name, alias, code" /></label>
-       <label style="margin-left:8px">Min stock: <input id="minStock" type="number" min="0" value="0" style="width:70px" /></label>
-       <button id="refresh" style="margin-left:8px">Refresh</button></div>
-  <div style="margin-left:auto"><button id="exportLow">Download low-stock CSV</button>
-  <span class="small" style="margin-left:8px">(<a id="rawLink" href="stock_data.js" target="_blank">raw</a>)</span></div>
+
+  <div class="control-group"><label>Threshold: <input id="threshold" type="number" value="2" style="width:60px" /></label></div>
+
+  <div class="control-group"><label>Search: <input id="q" placeholder="name, alias, code" /></label>
+    <label>Min stock: <input id="minStock" type="number" min="0" value="0" style="width:70px" /></label>
+    <button id="refresh">Refresh</button></div>
+
+  <div class="control-group">
+    <label><input id="autoRefresh" type="checkbox" /> Auto-refresh</label>
+    <label>Interval (sec): <input id="intervalSec" type="number" min="5" value="60" style="width:70px" /></label>
+    <button id="applyInterval">Apply</button>
+  </div>
+
+  <div style="margin-left:auto" class="control-group">
+    <button id="exportLow">Download low-stock CSV</button>
+    <span class="small" style="margin-left:8px">(<a id="rawLink" href="stock_data.js" target="_blank">raw</a>)</span>
+  </div>
 </div>
 
-<div style="overflow:auto;max-height:68vh"><table id="tbl"><thead>
-<tr><th>#</th><th>ItemName</th><th>Alias</th><th>Group</th><th>MRP</th><th>Sale Price</th><th>Wholesale</th><th>Stock</th><th>LastSync</th></tr>
-</thead><tbody id="body"></tbody></table></div>
+<div style="overflow:auto;max-height:68vh">
+  <table id="tbl"><thead>
+    <tr><th>#</th><th>ItemName</th><th>Alias</th><th>Group</th><th>MRP</th><th>Sale Price</th><th>Wholesale</th><th>Stock</th><th>LastSync</th></tr>
+  </thead><tbody id="body"></tbody></table>
+</div>
 
 <script>
 (function(){
-  let stockDataCache=[];
+  let stockDataCache=[]; let refreshTimer=null;
   function render(items){
     stockDataCache = items||[];
     const tbody=document.getElementById('body'); tbody.innerHTML='';
@@ -40,42 +57,47 @@ button{cursor:pointer}
     const threshold=Number(document.getElementById('threshold').value)||0;
     let idx=0, lowCount=0;
     for(const it of items){
-      if(q){const s=((it.ItemName||'')+' '+(it.ItemAlias||'')+' '+(it.ItemCode||'')).toLowerCase(); if(s.indexOf(q)===-1) continue;}
+      if(q){ const s=((it.ItemName||'')+' '+(it.ItemAlias||'')+' '+(it.ItemCode||'')).toLowerCase(); if(s.indexOf(q)===-1) continue; }
       const stockN=Number(it.Stock)||0; if(stockN<minStock) continue;
       idx++; const tr=document.createElement('tr');
-      if(stockN<=threshold){tr.className='stock-low'; lowCount++;}
-      tr.innerHTML=[`<td>${idx}</td>`,`<td>${it.ItemName||''}</td>`,`<td>${it.ItemAlias||''}</td>`,`<td>${it.GroupName||''}</td>`,`<td>${it.Item_MRP||''}</td>`,`<td>${it.Item_Sale_Price||''}</td>`,`<td>${(it.Item_SelfVal_Price===undefined?'':it.Item_SelfVal_Price)||''}</td>`,`<td>${it.Stock||''}</td>`,`<td>${it.LastSync||''}</td>`].join('');
+      if(stockN<=threshold){ tr.className='stock-low'; lowCount++; }
+      tr.innerHTML=[
+        `<td>${idx}</td>`,`<td>${it.ItemName||''}</td>`,`<td>${it.ItemAlias||''}</td>`,`<td>${it.GroupName||''}</td>`,
+        `<td>${it.Item_MRP||''}</td>`,`<td>${it.Item_Sale_Price||''}</td>`,`<td>${(it.Item_SelfVal_Price===undefined?'':it.Item_SelfVal_Price)||''}</td>`,
+        `<td>${it.Stock||''}</td>`,`<td>${it.LastSync||''}</td>`
+      ].join('');
       tbody.appendChild(tr);
     }
-    const lc=document.getElementById('lowCount'); lc.textContent=lowCount; lc.className = (lowCount>0?'alert':'ok');
+    const lc=document.getElementById('lowCount'); lc.textContent=lowCount; lc.className=(lowCount>0?'alert':'ok');
     if(idx===0) tbody.innerHTML='<tr><td colspan="9" class="small">No items match the filter</td></tr>';
   }
-
   function loadAndRender(){
     const prev=document.getElementById('__stock_js_loader'); if(prev) prev.remove();
     const s=document.createElement('script'); s.id='__stock_js_loader'; s.src='stock_data.js?v='+new Date().getTime();
     s.onload=function(){ try{ if(typeof stockData!=='undefined'){ render(stockData); } else { document.getElementById('body').innerHTML='<tr><td colspan="9">stockData not found in stock_data.js</td></tr>'; } }catch(e){ document.getElementById('body').innerHTML='<tr><td colspan="9">Error:'+e+'</td></tr>' } };
     s.onerror=function(){ document.getElementById('body').innerHTML='<tr><td colspan="9">Failed to load stock_data.js</td></tr>' };
-    document.body.appendChild(s);
-    document.getElementById('rawLink').href='stock_data.js?v='+new Date().getTime();
+    document.body.appendChild(s); document.getElementById('rawLink').href='stock_data.js?v='+new Date().getTime();
   }
-
   function exportLowCSV(){
     const threshold=Number(document.getElementById('threshold').value)||0;
     const rows=[['ItemName','ItemAlias','ItemCode','Stock','Wholesale','SalePrice']];
-    for(const it of stockDataCache){ const stockN=Number(it.Stock)||0; if(stockN<=threshold) rows.push([it.ItemName||'',it.ItemAlias||'',it.ItemCode||'',it.Stock||'',it.Item_SelfVal_Price||'',it.Item_Sale_Price||'']);}
+    for(const it of stockDataCache){ const stockN=Number(it.Stock)||0; if(stockN<=threshold) rows.push([it.ItemName||'',it.ItemAlias||'',it.ItemCode||'',it.Stock||'',it.Item_SelfVal_Price||'',it.Item_Sale_Price||'']); }
     if(rows.length<=1){ alert('No low-stock items'); return; }
     const csv=rows.map(r=>r.map(c=>'"'+String(c).replace(/"/g,'""')+'"').join(',')).join('\n');
-    const blob=new Blob([csv],{type:'text/csv'}); const url=URL.createObjectURL(blob); const a=document.createElement('a'); a.href=url; a.download='low_stock_'+(new Date().toISOString().slice(0,19).replace(/[:T]/g,'-'))+'.csv'; document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+    const blob=new Blob([csv],{type:'text/csv'}); const url=URL.createObjectURL(blob); const a=document.createElement('a'); a.href=url;
+    a.download='low_stock_'+(new Date().toISOString().slice(0,19).replace(/[:T]/g,'-'))+'.csv'; document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
   }
-
-  document.getElementById('refresh').addEventListener('click', loadAndRender);
-  document.getElementById('q').addEventListener('input', function(){ if(window.debounce) clearTimeout(window.debounce); window.debounce = setTimeout(()=>{ if(typeof stockData!=='undefined') render(stockData) },250); });
-  document.getElementById('minStock').addEventListener('input', function(){ if(typeof stockData!=='undefined') render(stockData) });
-  document.getElementById('threshold').addEventListener('input', function(){ if(typeof stockData!=='undefined') render(stockData) });
-  document.getElementById('exportLow').addEventListener('click', exportLowCSV);
-
+  function startAutoRefresh(){ stopAutoRefresh(); const sec=Math.max(5,Number(document.getElementById('intervalSec').value)||60); if(document.getElementById('autoRefresh').checked){ refreshTimer=setInterval(loadAndRender,sec*1000); } }
+  function stopAutoRefresh(){ if(refreshTimer){ clearInterval(refreshTimer); refreshTimer=null; } }
+  document.getElementById('refresh').addEventListener('click',loadAndRender);
+  document.getElementById('q').addEventListener('input',function(){ if(window.debounce) clearTimeout(window.debounce); window.debounce=setTimeout(()=>{ if(typeof stockData!=='undefined') render(stockData) },250);});
+  document.getElementById('minStock').addEventListener('input',function(){ if(typeof stockData!=='undefined') render(stockData) });
+  document.getElementById('threshold').addEventListener('input',function(){ if(typeof stockData!=='undefined') render(stockData) });
+  document.getElementById('exportLow').addEventListener('click',exportLowCSV);
+  document.getElementById('applyInterval').addEventListener('click',startAutoRefresh);
+  document.getElementById('autoRefresh').addEventListener('change',function(){ if(this.checked) startAutoRefresh(); else stopAutoRefresh(); });
   loadAndRender();
 })();
 </script>
-</body></html>
+</body>
+</html>
