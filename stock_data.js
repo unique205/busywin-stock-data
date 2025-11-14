@@ -28160,12 +28160,6 @@
         "LastSync":  "14-11-2025 03:25:07 PM"
     }
 ];
-<<<<<<< HEAD
 
-window.lastUpdated = '14-11-2025 03:25:14 PM';
+window.lastUpdated = '14-11-2025 03:26:14 PM';
 
-=======
-const lastUpdated = "2025-11-14 15:25:08";
-window.stockData = stockData;
-window.lastUpdated = lastUpdated;
->>>>>>> 762ac76517ceea64e7c9757d76b8cec997949917
