@@ -17,6 +17,7 @@
         .live-indicator { animation: pulse 2s infinite; }
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
         .update-notification { position: fixed; top: 20px; right: 20px; z-index: 1000; }
+        .price-badge { font-size: 0.85rem; margin: 2px; }
     </style>
 </head>
 <body>
@@ -42,6 +43,7 @@
                 <div class="input-group">
                     <span class="input-group-text"><i class="fas fa-search"></i></span>
                     <input type="text" id="searchInput" class="form-control" placeholder="Search items by name, alias, or group...">
+                    <span class="input-group-text"><i class="fas fa-barcode"></i></span>
                 </div>
             </div>
         </div>
@@ -84,6 +86,7 @@
             await loadData();
             setupAutoRefresh();
             setupConnectionMonitoring();
+            setupBarcodeScanner();
         }
 
         // Load data from GitHub
@@ -180,12 +183,16 @@
                                     <small class="text-muted">Group: ${escapeHtml(item.GroupName || 'N/A')}</small>
                                 </p>
                                 <div class="mt-2">
-                                    <span class="badge bg-primary">MRP: ₹${parseFloat(item.Item_MRP || 0).toFixed(2)}</span>
-                                    <span class="badge bg-success ms-1">Sale: ₹${parseFloat(item.Item_Sale_Price || 0).toFixed(2)}</span>
-                                    <span class="badge ${parseFloat(item.Stock) > 0 ? 'bg-success' : 'bg-danger'} ms-1">
+                                    <span class="badge bg-primary price-badge">MRP: ₹${parseFloat(item.Item_MRP || 0).toFixed(2)}</span>
+                                    <span class="badge bg-success price-badge">Sale: ₹${parseFloat(item.Item_Sale_Price || 0).toFixed(2)}</span>
+                                    <span class="badge bg-warning text-dark price-badge">Wholesale: ₹${parseFloat(item.Item_SelfVal_Price || 0).toFixed(2)}</span>
+                                    <span class="badge ${parseFloat(item.Stock) > 0 ? 'bg-success' : 'bg-danger'} price-badge">
                                         Stock: ${parseFloat(item.Stock || 0)}
                                     </span>
                                 </div>
+                            </div>
+                            <div class="col-md-4 text-end">
+                                <small class="text-muted">Code: ${escapeHtml(item.ItemCode || 'N/A')}</small>
                             </div>
                         </div>
                     </div>
@@ -193,6 +200,70 @@
             `).join('');
             
             document.getElementById('itemCount').textContent = `Items: ${filteredItems.length} (${items.length} total)`;
+        }
+
+        // Setup barcode scanner functionality
+        function setupBarcodeScanner() {
+            let barcode = '';
+            let lastKeyTime = 0;
+            
+            document.getElementById('searchInput').addEventListener('keydown', function(e) {
+                const currentTime = new Date().getTime();
+                
+                // If time between keys is more than 50ms, reset barcode
+                if (currentTime - lastKeyTime > 50) {
+                    barcode = '';
+                }
+                
+                // Add character to barcode (ignore Enter key)
+                if (e.key !== 'Enter') {
+                    barcode += e.key;
+                }
+                
+                lastKeyTime = currentTime;
+                
+                // If barcode is complete (usually 12-13 digits) and Enter is pressed
+                if (e.key === 'Enter' && barcode.length >= 6) {
+                    searchByBarcode(barcode);
+                    barcode = ''; // Reset barcode
+                    e.preventDefault(); // Prevent form submission
+                }
+            });
+        }
+
+        // Search by barcode/alias
+        function searchByBarcode(barcode) {
+            const searchTerm = barcode.trim();
+            if (!searchTerm) return;
+            
+            const filtered = currentData.filter(item => 
+                (item.ItemAlias && item.ItemAlias.includes(searchTerm)) ||
+                (item.ItemCode && item.ItemCode.includes(searchTerm))
+            );
+            
+            if (filtered.length > 0) {
+                renderItems(filtered);
+                document.getElementById('searchInput').value = searchTerm;
+                
+                // Show found message
+                const originalCount = document.getElementById('itemCount').textContent;
+                document.getElementById('itemCount').textContent = 
+                    `Found: ${filtered.length} item(s) for barcode: ${searchTerm}`;
+                
+                // Reset after 3 seconds
+                setTimeout(() => {
+                    document.getElementById('itemCount').textContent = originalCount;
+                }, 3000);
+            } else {
+                // Show not found message
+                document.getElementById('itemCount').textContent = 
+                    `No items found for barcode: ${searchTerm}`;
+                
+                // Reset after 3 seconds
+                setTimeout(() => {
+                    document.getElementById('itemCount').textContent = `Items: ${currentData.length}`;
+                }, 3000);
+            }
         }
 
         // Setup auto-refresh every 30 seconds
@@ -247,7 +318,8 @@
                 const filtered = currentData.filter(item => 
                     (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
                     (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
-                    (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
+                    (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm)) ||
+                    (item.ItemCode && item.ItemCode.toLowerCase().includes(searchTerm))
                 );
                 renderItems(filtered);
             };
@@ -265,7 +337,8 @@
                     filtered = filtered.filter(item => 
                         (item.ItemName && item.ItemName.toLowerCase().includes(searchTerm)) ||
                         (item.ItemAlias && item.ItemAlias.toLowerCase().includes(searchTerm)) ||
-                        (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm))
+                        (item.GroupName && item.GroupName.toLowerCase().includes(searchTerm)) ||
+                        (item.ItemCode && item.ItemCode.toLowerCase().includes(searchTerm))
                     );
                 }
                 
@@ -299,6 +372,7 @@
                 <i class="fas fa-sync me-2"></i>Refresh Now
             </button>
             <small class="d-block mt-2 text-muted">Auto-refreshes every 30 seconds</small>
+            <small class="d-block mt-1 text-muted">Type barcode and press Enter to scan</small>
         </div>
     </div>
 </body>
