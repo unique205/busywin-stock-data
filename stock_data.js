@@ -1,4 +1,4 @@
-const stockData = [
+﻿const stockData = [
     {
         "ItemName":  "01 LACHA",
         "ItemAlias":  "000001",
@@ -28160,6 +28160,6 @@ const stockData = [
         "LastSync":  "14-11-2025 04:18:05 PM"
     }
 ];
-const lastUpdated = "2025-11-14 16:18:06";
-window.stockData = stockData;
-window.lastUpdated = lastUpdated;
+
+window.lastUpdated = '14-11-2025 04:19:11 PM';
+
