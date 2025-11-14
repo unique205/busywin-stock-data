@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LIBAS Stock</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-    <!-- Add the barcode scanner library -->
-    <script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
+    <!-- Quagga for barcode scanning -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/quagga/0.12.1/quagga.min.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: Arial, sans-serif; background: #f5f5f5; color: #333; }
@@ -30,40 +30,22 @@
         .stock-zero { background: #f8d7da; color: #721c24; }
         .welcome, .no-items { text-align: center; padding: 40px 20px; color: #666; }
         .welcome i, .no-items i { font-size: 48px; margin-bottom: 15px; color: #ccc; }
-        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000; }
-        .modal-content { background: white; margin: 20px; border-radius: 8px; padding: 20px; position: relative; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; }
+        .modal-content { background: white; margin: 20px; border-radius: 8px; padding: 20px; position: relative; max-height: 90vh; overflow-y: auto; }
         .close-btn { position: absolute; top: 15px; right: 15px; background: #dc3545; color: white; border: none; border-radius: 4px; padding: 8px 12px; cursor: pointer; z-index: 10; }
-        .scanner-view { width: 100%; height: 300px; background: #000; border-radius: 6px; margin-bottom: 15px; position: relative; overflow: hidden; }
-        .scan-line { position: absolute; width: 100%; height: 2px; background: #00ff00; top: 50%; animation: scan 2s infinite linear; z-index: 5; }
-        @keyframes scan { 0% { top: 10%; } 50% { top: 90%; } 100% { top: 10%; } }
-        .scanner-status { text-align: center; color: #666; margin-bottom: 15px; }
-        .scanner-frame { 
-            position: absolute; 
-            top: 50%; 
-            left: 50%; 
-            transform: translate(-50%, -50%);
-            width: 250px; 
-            height: 250px; 
-            border: 2px solid #00ff00; 
-            background: transparent;
-            z-index: 5;
-        }
-        #videoElement {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            display: block;
-        }
-        #canvasElement {
-            display: none;
-        }
+        .scanner-view { width: 100%; height: 400px; background: #000; border-radius: 6px; margin-bottom: 15px; position: relative; overflow: hidden; }
+        .scanner-status { text-align: center; color: #666; margin-bottom: 15px; padding: 10px; background: #f8f9fa; border-radius: 4px; }
+        #interactive { width: 100%; height: 100%; }
+        #interactive video { width: 100%; height: 100%; object-fit: cover; }
+        #interactive canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+        .drawingBuffer { position: absolute; top: 0; left: 0; }
     </style>
 </head>
 <body>
     <div class="header"><h1>LIBAS Stock</h1></div>
     <div class="search-box">
         <input type="text" class="search-input" placeholder="Search by name, barcode, or group..." id="searchInput">
-        <button class="scan-btn" id="scanBtn"><i class="fas fa-camera"></i> Scan Barcode/QR Code</button>
+        <button class="scan-btn" id="scanBtn"><i class="fas fa-camera"></i> Scan Barcode</button>
     </div>
     <div class="status" id="status">Loading...</div>
     <div id="content">
@@ -76,16 +58,16 @@
     <div class="modal" id="scannerModal">
         <div class="modal-content">
             <button class="close-btn" id="closeScanner"><i class="fas fa-times"></i> Close</button>
-            <h3 style="margin-bottom: 15px;">Barcode & QR Code Scanner</h3>
+            <h3 style="margin-bottom: 15px;">Barcode Scanner</h3>
             
-            <div class="scanner-view" id="scannerView">
-                <video id="videoElement" playsinline autoplay></video>
-                <canvas id="canvasElement"></canvas>
-                <div class="scanner-frame"></div>
-                <div class="scan-line"></div>
+            <div class="scanner-view">
+                <div id="interactive" class="viewport"></div>
             </div>
             
-            <div class="scanner-status" id="scannerStatus">Click to start camera...</div>
+            <div class="scanner-status" id="scannerStatus">
+                <i class="fas fa-info-circle"></i> Point camera at barcode
+                <br><small>Supports EAN-13, UPC, Code-128, and more</small>
+            </div>
             
             <div id="scanResult" style="display: none;">
                 <div class="item-card" id="scannedItem"></div>
@@ -95,12 +77,9 @@
 
     <script>
         let currentData = [];
-        let cameraStream = null;
-        let videoElement = null;
-        let canvasElement = null;
-        let canvasContext = null;
-        let scanning = false;
-        let scanningInterval = null;
+        let isScanning = false;
+        let lastScannedCode = null;
+        let scanTimeout = null;
 
         // ULTRA-FAST DATA LOADING
         async function loadData() {
@@ -147,135 +126,118 @@
             });
         }
 
-        // REAL BARCODE/QR CODE SCANNER
-        async function openScanner() {
-            const modal = document.getElementById('scannerModal');
-            modal.style.display = 'block';
+        // BARCODE SCANNER
+        function openScanner() {
+            document.getElementById('scannerModal').style.display = 'block';
             document.getElementById('scanResult').style.display = 'none';
-            document.getElementById('scannerStatus').textContent = 'Starting camera...';
+            document.getElementById('scannerStatus').innerHTML = '<i class="fas fa-spinner fa-spin"></i> Starting camera...';
             
-            videoElement = document.getElementById('videoElement');
-            canvasElement = document.getElementById('canvasElement');
-            canvasContext = canvasElement.getContext('2d');
-            
-            await startCamera();
+            startBarcodeScanner();
         }
 
         function closeScanner() {
-            const modal = document.getElementById('scannerModal');
-            modal.style.display = 'none';
-            stopCamera();
+            document.getElementById('scannerModal').style.display = 'none';
+            stopBarcodeScanner();
         }
 
-        async function startCamera() {
-            try {
-                // Stop any existing stream first
-                stopCamera();
-                
-                const constraints = {
-                    video: {
-                        facingMode: { ideal: 'environment' },
-                        width: { ideal: 1280 },
-                        height: { ideal: 720 }
-                    }
-                };
-                
-                const stream = await navigator.mediaDevices.getUserMedia(constraints);
-                cameraStream = stream;
-                videoElement.srcObject = stream;
-                
-                // Wait for video to be ready
-                videoElement.onloadedmetadata = () => {
-                    videoElement.play().then(() => {
-                        document.getElementById('scannerStatus').textContent = 'Camera ready! Point at a barcode or QR code...';
-                        startScanning();
-                    }).catch(err => {
-                        console.error('Video play error:', err);
-                        document.getElementById('scannerStatus').textContent = 'Error starting video. Please try again.';
-                    });
-                };
-                
-            } catch (error) {
-                console.error('Camera error:', error);
-                let errorMessage = 'Camera access denied. ';
-                if (error.name === 'NotAllowedError') {
-                    errorMessage += 'Please allow camera permissions in your browser settings.';
-                } else if (error.name === 'NotFoundError') {
-                    errorMessage += 'No camera found on this device.';
-                } else {
-                    errorMessage += 'Error: ' + error.message;
-                }
-                document.getElementById('scannerStatus').textContent = errorMessage;
-            }
-        }
-
-        function stopCamera() {
-            scanning = false;
+        function startBarcodeScanner() {
+            isScanning = true;
+            lastScannedCode = null;
             
-            if (scanningInterval) {
-                clearInterval(scanningInterval);
-                scanningInterval = null;
-            }
-            
-            if (cameraStream) {
-                cameraStream.getTracks().forEach(track => track.stop());
-                cameraStream = null;
-            }
-            
-            if (videoElement) {
-                videoElement.srcObject = null;
-            }
-        }
-
-        function startScanning() {
-            scanning = true;
-            scanFrame();
-        }
-
-        function scanFrame() {
-            if (!scanning || !videoElement) return;
-            
-            if (videoElement.readyState === videoElement.HAVE_ENOUGH_DATA) {
-                // Set canvas dimensions to match video
-                canvasElement.width = videoElement.videoWidth;
-                canvasElement.height = videoElement.videoHeight;
-                
-                // Draw video frame to canvas
-                canvasContext.drawImage(videoElement, 0, 0, canvasElement.width, canvasElement.height);
-                
-                // Get image data
-                const imageData = canvasContext.getImageData(0, 0, canvasElement.width, canvasElement.height);
-                
-                // Try to detect QR code using jsQR
-                const code = jsQR(imageData.data, imageData.width, imageData.height, {
-                    inversionAttempts: "dontInvert",
-                });
-                
-                if (code && code.data) {
-                    handleCodeDetected(code.data);
+            Quagga.init({
+                inputStream: {
+                    name: "Live",
+                    type: "LiveStream",
+                    target: document.querySelector('#interactive'),
+                    constraints: {
+                        width: 640,
+                        height: 480,
+                        facingMode: "environment"
+                    },
+                },
+                decoder: {
+                    readers: [
+                        "ean_reader",
+                        "ean_8_reader",
+                        "code_128_reader",
+                        "code_39_reader",
+                        "code_39_vin_reader",
+                        "codabar_reader",
+                        "upc_reader",
+                        "upc_e_reader",
+                        "i2of5_reader"
+                    ]
+                },
+                locate: true,
+                locator: {
+                    patchSize: "medium",
+                    halfSample: true
+                },
+                numOfWorkers: 2,
+                frequency: 10,
+            }, function(err) {
+                if (err) {
+                    console.error('Quagga init error:', err);
+                    document.getElementById('scannerStatus').innerHTML = 
+                        '<i class="fas fa-exclamation-triangle"></i> Camera access denied or not available.<br><small>Please allow camera permissions.</small>';
                     return;
                 }
+                
+                console.log("Quagga initialization finished. Ready to start");
+                Quagga.start();
+                document.getElementById('scannerStatus').innerHTML = 
+                    '<i class="fas fa-camera"></i> Camera ready! Point at barcode<br><small>Hold steady for best results</small>';
+            });
+
+            Quagga.onDetected(handleBarcodeDetected);
+        }
+
+        function stopBarcodeScanner() {
+            isScanning = false;
+            lastScannedCode = null;
+            
+            if (scanTimeout) {
+                clearTimeout(scanTimeout);
+                scanTimeout = null;
             }
             
-            // Continue scanning
-            if (scanning) {
-                requestAnimationFrame(scanFrame);
+            if (Quagga) {
+                Quagga.stop();
+                Quagga.offDetected(handleBarcodeDetected);
             }
         }
 
-        function handleCodeDetected(code) {
-            console.log('Code detected:', code);
-            scanning = false;
+        function handleBarcodeDetected(result) {
+            if (!isScanning) return;
             
-            // Search for item by ItemAlias
-            const item = currentData.find(i => i.ItemAlias && i.ItemAlias.toString() === code.toString());
+            const code = result.codeResult.code;
+            
+            // Prevent duplicate scans
+            if (code === lastScannedCode) return;
+            
+            // Validate barcode quality
+            if (result.codeResult.quality && result.codeResult.quality < 0.65) {
+                return; // Skip low quality scans
+            }
+            
+            lastScannedCode = code;
+            console.log('Barcode detected:', code);
+            
+            // Stop scanning temporarily
+            isScanning = false;
+            
+            // Search for item
+            const item = currentData.find(i => 
+                i.ItemAlias && i.ItemAlias.toString().trim() === code.trim()
+            );
             
             const scannerStatus = document.getElementById('scannerStatus');
             const scanResult = document.getElementById('scanResult');
             const scannedItem = document.getElementById('scannedItem');
             
             if (item) {
-                scannerStatus.innerHTML = `<span style="color: #28a745;"><i class="fas fa-check-circle"></i> Found: ${escapeHtml(code)}</span>`;
+                // Play success feedback
+                scannerStatus.innerHTML = `<span style="color: #28a745;"><i class="fas fa-check-circle"></i> <strong>Found!</strong> ${escapeHtml(code)}</span>`;
                 
                 scannedItem.innerHTML = `
                     <div class="item-name">${escapeHtml(item.ItemName)}</div>
@@ -290,24 +252,24 @@
                 
                 scanResult.style.display = 'block';
                 
-                // Update the main search
+                // Update main search
                 document.getElementById('searchInput').value = code;
                 performSearch();
                 
                 // Auto close after 3 seconds
-                setTimeout(() => {
+                scanTimeout = setTimeout(() => {
                     closeScanner();
                 }, 3000);
                 
             } else {
-                scannerStatus.innerHTML = `<span style="color: #dc3545;"><i class="fas fa-times-circle"></i> Code scanned: ${escapeHtml(code)}<br>Not found in inventory</span>`;
+                scannerStatus.innerHTML = `<span style="color: #dc3545;"><i class="fas fa-times-circle"></i> Barcode: ${escapeHtml(code)}<br><small>Not found in inventory</small></span>`;
                 
                 // Resume scanning after 2 seconds
-                setTimeout(() => {
+                scanTimeout = setTimeout(() => {
                     if (document.getElementById('scannerModal').style.display === 'block') {
-                        scannerStatus.textContent = 'Scanning... Point at another code';
-                        scanning = true;
-                        scanFrame();
+                        isScanning = true;
+                        lastScannedCode = null;
+                        scannerStatus.innerHTML = '<i class="fas fa-camera"></i> Scanning... Point at another barcode';
                     }
                 }, 2000);
             }
