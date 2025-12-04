@@ -8,7 +8,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1800",
         "Stock":  "15",
         "ItemCode":  "2220",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "02 LACHA",
@@ -19,7 +19,7 @@ const stockData = [
         "Item_SelfVal_Price":  "7500",
         "Stock":  "0",
         "ItemCode":  "2221",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "03 LACHA",
@@ -30,7 +30,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4125",
         "Stock":  "0",
         "ItemCode":  "2222",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "04 LACHA",
@@ -41,7 +41,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4875",
         "Stock":  "0",
         "ItemCode":  "2223",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "05 LACHA",
@@ -52,7 +52,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4500",
         "Stock":  "-1",
         "ItemCode":  "2224",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "06 LACHA",
@@ -63,7 +63,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4500",
         "Stock":  "0",
         "ItemCode":  "2225",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "07 LACHA",
@@ -74,7 +74,7 @@ const stockData = [
         "Item_SelfVal_Price":  "6750",
         "Stock":  "-1",
         "ItemCode":  "2226",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "08 LACHA",
@@ -85,7 +85,7 @@ const stockData = [
         "Item_SelfVal_Price":  "9750",
         "Stock":  "-1",
         "ItemCode":  "2227",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "09 LACHA",
@@ -96,7 +96,7 @@ const stockData = [
         "Item_SelfVal_Price":  "8250",
         "Stock":  "-2",
         "ItemCode":  "2228",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "10 LACHA",
@@ -107,7 +107,7 @@ const stockData = [
         "Item_SelfVal_Price":  "7500",
         "Stock":  "0",
         "ItemCode":  "2229",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "11 LACHA",
@@ -118,7 +118,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4875",
         "Stock":  "0",
         "ItemCode":  "2230",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "12 LACHA",
@@ -129,7 +129,7 @@ const stockData = [
         "Item_SelfVal_Price":  "6300",
         "Stock":  "0",
         "ItemCode":  "2231",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "13 LACHA",
@@ -140,7 +140,7 @@ const stockData = [
         "Item_SelfVal_Price":  "6000",
         "Stock":  "0",
         "ItemCode":  "2232",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "14 LACHA",
@@ -151,7 +151,7 @@ const stockData = [
         "Item_SelfVal_Price":  "11250",
         "Stock":  "0",
         "ItemCode":  "2233",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "15 LACHA",
@@ -162,7 +162,7 @@ const stockData = [
         "Item_SelfVal_Price":  "6300",
         "Stock":  "0",
         "ItemCode":  "2234",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "7 Clouds",
@@ -173,7 +173,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "-1",
         "ItemCode":  "2871",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Aaj Tak VC",
@@ -184,7 +184,7 @@ const stockData = [
         "Item_SelfVal_Price":  "343.5",
         "Stock":  "0",
         "ItemCode":  "1733",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "AARJU BHUMI",
@@ -195,7 +195,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1467",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Aarohi",
@@ -206,7 +206,7 @@ const stockData = [
         "Item_SelfVal_Price":  "945",
         "Stock":  "0",
         "ItemCode":  "2917",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Aarti Turkish Towel",
@@ -217,7 +217,7 @@ const stockData = [
         "Item_SelfVal_Price":  "50",
         "Stock":  "702",
         "ItemCode":  "3693",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Aatish",
@@ -228,7 +228,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1895.625",
         "Stock":  "0",
         "ItemCode":  "3038",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Abc Karma",
@@ -239,7 +239,7 @@ const stockData = [
         "Item_SelfVal_Price":  "286.5",
         "Stock":  "-1",
         "ItemCode":  "2908",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "ABC Rutba",
@@ -250,7 +250,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "3441",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Activa Astar",
@@ -261,7 +261,7 @@ const stockData = [
         "Item_SelfVal_Price":  "20.81",
         "Stock":  "2146",
         "ItemCode":  "1707",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Af Sana",
@@ -272,7 +272,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "13",
         "ItemCode":  "3371",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "AFSANA",
@@ -283,7 +283,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2314",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Agarwal Pure Cotton Dupatta Printed",
@@ -294,7 +294,7 @@ const stockData = [
         "Item_SelfVal_Price":  "42.75",
         "Stock":  "0",
         "ItemCode":  "1379",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Agarwal Pure Cotton Dupatta Printed Two",
@@ -305,7 +305,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2331",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Agarwal Slub Cotton Vintage Type",
@@ -316,7 +316,7 @@ const stockData = [
         "Item_SelfVal_Price":  "231",
         "Stock":  "0",
         "ItemCode":  "1392",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ahd Chiffon Dupatta",
@@ -327,7 +327,7 @@ const stockData = [
         "Item_SelfVal_Price":  "370",
         "Stock":  "10",
         "ItemCode":  "3725",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ahd Reyon Dupatta",
@@ -338,7 +338,7 @@ const stockData = [
         "Item_SelfVal_Price":  "430",
         "Stock":  "36",
         "ItemCode":  "3705",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Aheri Dupatta",
@@ -349,7 +349,7 @@ const stockData = [
         "Item_SelfVal_Price":  "36",
         "Stock":  "1023",
         "ItemCode":  "1300",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Airtel Pari Fab",
@@ -360,7 +360,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1485",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Akanksha Print",
@@ -371,7 +371,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1590",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Akasa KC",
@@ -382,7 +382,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1335",
         "Stock":  "0",
         "ItemCode":  "1739",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Al Minah Heavy XL",
@@ -393,7 +393,7 @@ const stockData = [
         "Item_SelfVal_Price":  "250",
         "Stock":  "6",
         "ItemCode":  "3748",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Al Minah Xl Maknah",
@@ -404,7 +404,7 @@ const stockData = [
         "Item_SelfVal_Price":  "260",
         "Stock":  "6",
         "ItemCode":  "3746",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Al Minah XL Sada",
@@ -415,7 +415,7 @@ const stockData = [
         "Item_SelfVal_Price":  "220",
         "Stock":  "0",
         "ItemCode":  "3747",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Alia Masti",
@@ -426,7 +426,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "0",
         "ItemCode":  "1252",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Alina 1",
@@ -437,7 +437,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "-4",
         "ItemCode":  "3352",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Alina 2",
@@ -448,7 +448,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2289.375",
         "Stock":  "-2",
         "ItemCode":  "3353",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Alina 3",
@@ -459,7 +459,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2244.375",
         "Stock":  "-1",
         "ItemCode":  "3354",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "ALINA 4",
@@ -470,7 +470,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2244.375",
         "Stock":  "0",
         "ItemCode":  "3301",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Alina Jack 2",
@@ -481,7 +481,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2289.375",
         "Stock":  "-2",
         "ItemCode":  "3416",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Alina Jacket 1",
@@ -492,7 +492,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2311.875",
         "Stock":  "0",
         "ItemCode":  "3417",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Aliya Masti",
@@ -503,7 +503,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "0",
         "ItemCode":  "1251",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Amazon",
@@ -514,7 +514,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1895.625",
         "Stock":  "-4",
         "ItemCode":  "3039",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "AMD Bottom Work",
@@ -525,7 +525,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "1994",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "AMD Plain",
@@ -536,7 +536,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "1993",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "AMD WORK",
@@ -547,7 +547,7 @@ const stockData = [
         "Item_SelfVal_Price":  "195",
         "Stock":  "-6",
         "ItemCode":  "1992",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Anamika GK",
@@ -558,7 +558,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "1939",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Anika SNT",
@@ -569,7 +569,7 @@ const stockData = [
         "Item_SelfVal_Price":  "459",
         "Stock":  "0",
         "ItemCode":  "1726",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Anjumi Jam Tai",
@@ -580,7 +580,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "0",
         "ItemCode":  "3121",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Anjumi Khathi",
@@ -591,7 +591,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "3122",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "ANOKHI",
@@ -602,7 +602,7 @@ const stockData = [
         "Item_SelfVal_Price":  "399",
         "Stock":  "0",
         "ItemCode":  "2643",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Anusha",
@@ -613,7 +613,7 @@ const stockData = [
         "Item_SelfVal_Price":  "725.625",
         "Stock":  "0",
         "ItemCode":  "3015",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Archies",
@@ -624,7 +624,7 @@ const stockData = [
         "Item_SelfVal_Price":  "343.5",
         "Stock":  "0",
         "ItemCode":  "1608",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Baby Silk Lump",
@@ -635,7 +635,7 @@ const stockData = [
         "Item_SelfVal_Price":  "26.4375",
         "Stock":  "0",
         "ItemCode":  "1253",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Balma SVT",
@@ -646,7 +646,7 @@ const stockData = [
         "Item_SelfVal_Price":  "663.75",
         "Stock":  "0",
         "ItemCode":  "1680",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Barsaat diksha",
@@ -657,7 +657,7 @@ const stockData = [
         "Item_SelfVal_Price":  "467.25",
         "Stock":  "0",
         "ItemCode":  "1730",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BB Shah",
@@ -668,7 +668,7 @@ const stockData = [
         "Item_SelfVal_Price":  "213.75",
         "Stock":  "0",
         "ItemCode":  "1706",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BB Shah Prema",
@@ -679,7 +679,7 @@ const stockData = [
         "Item_SelfVal_Price":  "236.25",
         "Stock":  "0",
         "ItemCode":  "2371",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhagya Laxmi Alfino",
@@ -690,7 +690,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "2",
         "ItemCode":  "3383",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bharti Om",
@@ -701,7 +701,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "1792",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhavri GF",
@@ -712,7 +712,7 @@ const stockData = [
         "Item_SelfVal_Price":  "512.25",
         "Stock":  "0",
         "ItemCode":  "1742",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Alankar",
@@ -723,7 +723,7 @@ const stockData = [
         "Item_SelfVal_Price":  "547.5",
         "Stock":  "0",
         "ItemCode":  "1658",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Bandhan",
@@ -734,7 +734,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1935",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BHUMI BAZIGAR",
@@ -745,7 +745,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "2328",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Chhabili",
@@ -756,7 +756,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "0",
         "ItemCode":  "3292",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Farida",
@@ -767,7 +767,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1951",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Mastani",
@@ -778,7 +778,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1595",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BHUMI PALAK",
@@ -789,7 +789,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2324",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Rajkumari",
@@ -800,7 +800,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "3257",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Sahnaaj",
@@ -811,7 +811,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "3256",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Super Star",
@@ -822,7 +822,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.875",
         "Stock":  "4",
         "ItemCode":  "3258",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Sweet Look",
@@ -833,7 +833,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1952",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bhumi Zoomer",
@@ -844,7 +844,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1671",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Black Bery",
@@ -855,7 +855,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2613",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BLACK DRESS",
@@ -866,7 +866,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "2",
         "ItemCode":  "2162",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Blouse",
@@ -877,7 +877,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-37",
         "ItemCode":  "2340",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BMW GK",
@@ -888,7 +888,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1377",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "BMW Plain",
@@ -899,7 +899,7 @@ const stockData = [
         "Item_SelfVal_Price":  "24",
         "Stock":  "1839.65",
         "ItemCode":  "1298",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Bobby Jasoos",
@@ -910,7 +910,7 @@ const stockData = [
         "Item_SelfVal_Price":  "303.75",
         "Stock":  "0",
         "ItemCode":  "1698",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Boby Jasoos",
@@ -921,7 +921,7 @@ const stockData = [
         "Item_SelfVal_Price":  "303.75",
         "Stock":  "0",
         "ItemCode":  "1697",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Britannia GK",
@@ -932,7 +932,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1378",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Burj Khalifa",
@@ -943,7 +943,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "1",
         "ItemCode":  "2898",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Butter Paneer",
@@ -954,7 +954,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "1985",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Campus",
@@ -965,7 +965,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2899",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Camric Duptta",
@@ -976,7 +976,7 @@ const stockData = [
         "Item_SelfVal_Price":  "125",
         "Stock":  "0",
         "ItemCode":  "3749",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Car Advance",
@@ -987,7 +987,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3270",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chahat Jaam Mix",
@@ -998,7 +998,7 @@ const stockData = [
         "Item_SelfVal_Price":  "305",
         "Stock":  "158",
         "ItemCode":  "3651",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chahat Jaam Mix 01",
@@ -1009,7 +1009,7 @@ const stockData = [
         "Item_SelfVal_Price":  "305",
         "Stock":  "-18",
         "ItemCode":  "3670",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chahat Jaam Mix 02",
@@ -1020,7 +1020,7 @@ const stockData = [
         "Item_SelfVal_Price":  "305",
         "Stock":  "-6",
         "ItemCode":  "3671",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chahat Jaam Mix 03",
@@ -1031,7 +1031,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-6",
         "ItemCode":  "3672",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chaka Chak JF",
@@ -1042,7 +1042,7 @@ const stockData = [
         "Item_SelfVal_Price":  "446.25",
         "Stock":  "0",
         "ItemCode":  "1499",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chhabra Super Star",
@@ -1053,7 +1053,7 @@ const stockData = [
         "Item_SelfVal_Price":  "422.25",
         "Stock":  "0",
         "ItemCode":  "1418",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chhabra Welcome",
@@ -1064,7 +1064,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1417",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chicken CD",
@@ -1075,7 +1075,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "3447",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "CHIKNA KAPDA",
@@ -1086,7 +1086,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1.5",
         "ItemCode":  "2148",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Chikni Chameli",
@@ -1097,7 +1097,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2658",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "CHITRA",
@@ -1108,7 +1108,7 @@ const stockData = [
         "Item_SelfVal_Price":  "425",
         "Stock":  "8",
         "ItemCode":  "4015",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "CHUNRI",
@@ -1119,7 +1119,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "2704",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Classic",
@@ -1130,7 +1130,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "2597",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "CM palazzo MT",
@@ -1141,7 +1141,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1677",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Coconut",
@@ -1152,7 +1152,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "2420",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cotton 150 Wala",
@@ -1163,7 +1163,7 @@ const stockData = [
         "Item_SelfVal_Price":  "150",
         "Stock":  "-32",
         "ItemCode":  "3284",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cotton 2.25 Dupatta",
@@ -1174,7 +1174,7 @@ const stockData = [
         "Item_SelfVal_Price":  "120",
         "Stock":  "36",
         "ItemCode":  "3538",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cotton 2.25 Dupatta BLACK",
@@ -1185,7 +1185,7 @@ const stockData = [
         "Item_SelfVal_Price":  "110",
         "Stock":  "26",
         "ItemCode":  "3679",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cotton 2.25 Dupatta WHITE",
@@ -1196,7 +1196,7 @@ const stockData = [
         "Item_SelfVal_Price":  "110",
         "Stock":  "14",
         "ItemCode":  "3678",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cotton Dupatta Pure Printed",
@@ -1207,7 +1207,7 @@ const stockData = [
         "Item_SelfVal_Price":  "45",
         "Stock":  "0",
         "ItemCode":  "1299",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "COTTON SUITE",
@@ -1218,7 +1218,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "1991",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Crazy Bite",
@@ -1229,7 +1229,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1068.75",
         "Stock":  "1",
         "ItemCode":  "2918",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cross Pattern Plazo",
@@ -1240,7 +1240,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1987.5",
         "Stock":  "0",
         "ItemCode":  "3212",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Crunchy",
@@ -1251,7 +1251,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2749",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Crunchy 0001",
@@ -1262,7 +1262,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "3280",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Cruncy 0002",
@@ -1273,7 +1273,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1445.625",
         "Stock":  "0",
         "ItemCode":  "3281",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "CTN CLOTH",
@@ -1284,7 +1284,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2572",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ctn Meter Cloth",
@@ -1295,7 +1295,7 @@ const stockData = [
         "Item_SelfVal_Price":  "60",
         "Stock":  "-2",
         "ItemCode":  "3186",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Darjiling GK",
@@ -1306,7 +1306,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "0",
         "ItemCode":  "1938",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Dastar",
@@ -1317,7 +1317,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2692",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Deepak Sona Chandi",
@@ -1328,7 +1328,7 @@ const stockData = [
         "Item_SelfVal_Price":  "355",
         "Stock":  "57",
         "ItemCode":  "3650",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Deposit",
@@ -1339,7 +1339,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2671",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Angel",
@@ -1350,7 +1350,7 @@ const stockData = [
         "Item_SelfVal_Price":  "238.5",
         "Stock":  "0",
         "ItemCode":  "1279",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Charmi",
@@ -1361,7 +1361,7 @@ const stockData = [
         "Item_SelfVal_Price":  "231",
         "Stock":  "0",
         "ItemCode":  "1278",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Mehbuba",
@@ -1372,7 +1372,7 @@ const stockData = [
         "Item_SelfVal_Price":  "242.25",
         "Stock":  "1",
         "ItemCode":  "1282",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Rasgulla",
@@ -1383,7 +1383,7 @@ const stockData = [
         "Item_SelfVal_Price":  "247.5",
         "Stock":  "0",
         "ItemCode":  "1645",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Shamita",
@@ -1394,7 +1394,7 @@ const stockData = [
         "Item_SelfVal_Price":  "242.25",
         "Stock":  "0",
         "ItemCode":  "1276",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Surbhi",
@@ -1405,7 +1405,7 @@ const stockData = [
         "Item_SelfVal_Price":  "238.5",
         "Stock":  "0",
         "ItemCode":  "1275",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Varsha",
@@ -1416,7 +1416,7 @@ const stockData = [
         "Item_SelfVal_Price":  "238.5",
         "Stock":  "0",
         "ItemCode":  "1281",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Yogita",
@@ -1427,7 +1427,7 @@ const stockData = [
         "Item_SelfVal_Price":  "234.75",
         "Stock":  "0",
         "ItemCode":  "1277",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Desai Zoya",
@@ -1438,7 +1438,7 @@ const stockData = [
         "Item_SelfVal_Price":  "231",
         "Stock":  "0",
         "ItemCode":  "1280",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Devika",
@@ -1449,7 +1449,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "1615",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DF MAGIC",
@@ -1460,7 +1460,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2288",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DF SAKHI SAHELI",
@@ -1471,7 +1471,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2286",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Dipka Magic",
@@ -1482,7 +1482,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2254",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DIPKA SAKHI SAHELI",
@@ -1493,7 +1493,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2256",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Disha IPL",
@@ -1504,7 +1504,7 @@ const stockData = [
         "Item_SelfVal_Price":  "480",
         "Stock":  "0",
         "ItemCode":  "1876",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DIVYA SNAPCHAT",
@@ -1515,7 +1515,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2274",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Dorinier",
@@ -1526,7 +1526,7 @@ const stockData = [
         "Item_SelfVal_Price":  "100",
         "Stock":  "20",
         "ItemCode":  "3646",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DTS AIZAL",
@@ -1537,7 +1537,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2842",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DTS ASIFFA",
@@ -1548,7 +1548,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2617",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DTS RUKSHAR",
@@ -1559,7 +1559,7 @@ const stockData = [
         "Item_SelfVal_Price":  "466.5",
         "Stock":  "0",
         "ItemCode":  "2510",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Dubai Special",
@@ -1570,7 +1570,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1540",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "DUPATTA",
@@ -1581,7 +1581,7 @@ const stockData = [
         "Item_SelfVal_Price":  "52.5",
         "Stock":  "-24",
         "ItemCode":  "2668",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Durga",
@@ -1592,7 +1592,7 @@ const stockData = [
         "Item_SelfVal_Price":  "112.5",
         "Stock":  "0",
         "ItemCode":  "1724",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Eena",
@@ -1603,7 +1603,7 @@ const stockData = [
         "Item_SelfVal_Price":  "997.5",
         "Stock":  "0",
         "ItemCode":  "1479",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Elios",
@@ -1614,7 +1614,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1563.75",
         "Stock":  "0",
         "ItemCode":  "3035",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ena",
@@ -1625,7 +1625,7 @@ const stockData = [
         "Item_SelfVal_Price":  "997.5",
         "Stock":  "0",
         "ItemCode":  "1480",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Eva Simon",
@@ -1636,7 +1636,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "1",
         "ItemCode":  "3422",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Eva Vanrtara",
@@ -1647,7 +1647,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "2",
         "ItemCode":  "3423",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Fifa GF",
@@ -1658,7 +1658,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "1738",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "FIRDOS METER",
@@ -1669,7 +1669,7 @@ const stockData = [
         "Item_SelfVal_Price":  "45",
         "Stock":  "72",
         "ItemCode":  "3659",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Firdous To Firdous",
@@ -1680,7 +1680,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "1232",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Fire SNT",
@@ -1691,7 +1691,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1542",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Firebolt",
@@ -1702,7 +1702,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2005",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "FISH",
@@ -1713,7 +1713,7 @@ const stockData = [
         "Item_SelfVal_Price":  "937.5",
         "Stock":  "0",
         "ItemCode":  "2011",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Five Star Sweet Choice Pakistani Suit",
@@ -1724,7 +1724,7 @@ const stockData = [
         "Item_SelfVal_Price":  "703.5",
         "Stock":  "0",
         "ItemCode":  "1230",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Frock",
@@ -1735,7 +1735,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2343",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "G 35",
@@ -1746,7 +1746,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2034",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "G30",
@@ -1757,7 +1757,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2048",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "G35",
@@ -1768,7 +1768,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2049",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "G50",
@@ -1779,7 +1779,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "1",
         "ItemCode":  "2055",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "G55",
@@ -1790,7 +1790,7 @@ const stockData = [
         "Item_SelfVal_Price":  "487.5",
         "Stock":  "0",
         "ItemCode":  "2047",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GAA Jaam",
@@ -1801,7 +1801,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1579",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gadar",
@@ -1812,7 +1812,7 @@ const stockData = [
         "Item_SelfVal_Price":  "956.25",
         "Stock":  "-2",
         "ItemCode":  "2247",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gadar pant trouser",
@@ -1823,7 +1823,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1008.75",
         "Stock":  "0",
         "ItemCode":  "1862",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gadar Pent",
@@ -1834,7 +1834,7 @@ const stockData = [
         "Item_SelfVal_Price":  "933.75",
         "Stock":  "0",
         "ItemCode":  "3003",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gadar-2",
@@ -1845,7 +1845,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "1605",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Galaxy Fashion GF Dupatta",
@@ -1856,7 +1856,7 @@ const stockData = [
         "Item_SelfVal_Price":  "115",
         "Stock":  "296",
         "ItemCode":  "3642",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARARA",
@@ -1867,7 +1867,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1",
         "ItemCode":  "2056",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA devi",
@@ -1878,7 +1878,7 @@ const stockData = [
         "Item_SelfVal_Price":  "425",
         "Stock":  "30",
         "ItemCode":  "3700",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA HIRA",
@@ -1889,7 +1889,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365",
         "Stock":  "-1",
         "ItemCode":  "3604",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA JHIL MIL",
@@ -1900,7 +1900,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "29",
         "ItemCode":  "3595",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA LAL PARI",
@@ -1911,7 +1911,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365",
         "Stock":  "0",
         "ItemCode":  "3605",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA QUEEN",
@@ -1922,7 +1922,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365",
         "Stock":  "3",
         "ItemCode":  "3606",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Garima Rani",
@@ -1933,7 +1933,7 @@ const stockData = [
         "Item_SelfVal_Price":  "400",
         "Stock":  "2",
         "ItemCode":  "3594",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Garima Rashmalai",
@@ -1944,7 +1944,7 @@ const stockData = [
         "Item_SelfVal_Price":  "303.75",
         "Stock":  "0",
         "ItemCode":  "2186",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA SHEHNAZ",
@@ -1955,7 +1955,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2257",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARIMA ZUBEIDA",
@@ -1966,7 +1966,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "5",
         "ItemCode":  "3635",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARMIA GULZAR 6886",
@@ -1977,7 +1977,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2159",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARMIA GULZAR 8313",
@@ -1988,7 +1988,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2155",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARMIA GULZAR 8325",
@@ -1999,7 +1999,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2157",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARMIA GULZAR 8338",
@@ -2010,7 +2010,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2158",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARMIA GULZAR 8381",
@@ -2021,7 +2021,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2156",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GARMIA GULZAR 8443",
@@ -2032,7 +2032,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2154",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GC Bisleri",
@@ -2043,7 +2043,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2536",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GC Freedom Farshi Sharara",
@@ -2054,7 +2054,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2250",
         "Stock":  "0",
         "ItemCode":  "1945",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GC Haier",
@@ -2065,7 +2065,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2362.5",
         "Stock":  "0",
         "ItemCode":  "1947",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GC Kamna",
@@ -2076,7 +2076,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2537",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GC Lemon",
@@ -2087,7 +2087,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2306.25",
         "Stock":  "0",
         "ItemCode":  "1948",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GC Priyagold",
@@ -2098,7 +2098,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2538",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GENTS SUITE",
@@ -2109,7 +2109,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2794",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GEROJET CLOTH",
@@ -2120,7 +2120,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2150",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF aafreen",
@@ -2131,7 +2131,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "2241",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF AARDHYA",
@@ -2142,7 +2142,7 @@ const stockData = [
         "Item_SelfVal_Price":  "671.25",
         "Stock":  "1",
         "ItemCode":  "2036",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Ahuja",
@@ -2153,7 +2153,7 @@ const stockData = [
         "Item_SelfVal_Price":  "749.25",
         "Stock":  "0",
         "ItemCode":  "1835",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF All in One",
@@ -2164,7 +2164,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.75",
         "Stock":  "0",
         "ItemCode":  "1812",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF ALL IS WELL",
@@ -2175,7 +2175,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2575",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF amber",
@@ -2186,7 +2186,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2239",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Angoori",
@@ -2197,7 +2197,7 @@ const stockData = [
         "Item_SelfVal_Price":  "753.75",
         "Stock":  "0",
         "ItemCode":  "1393",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Anju",
@@ -2208,7 +2208,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1240",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Anokhi",
@@ -2219,7 +2219,7 @@ const stockData = [
         "Item_SelfVal_Price":  "612.75",
         "Stock":  "1",
         "ItemCode":  "2374",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Apney",
@@ -2230,7 +2230,7 @@ const stockData = [
         "Item_SelfVal_Price":  "747.75",
         "Stock":  "0",
         "ItemCode":  "2912",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Army Braso",
@@ -2241,7 +2241,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1557",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Babli",
@@ -2252,7 +2252,7 @@ const stockData = [
         "Item_SelfVal_Price":  "446.25",
         "Stock":  "0",
         "ItemCode":  "1868",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Badam Shek",
@@ -2263,7 +2263,7 @@ const stockData = [
         "Item_SelfVal_Price":  "825",
         "Stock":  "0",
         "ItemCode":  "1953",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Bagban",
@@ -2274,7 +2274,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1328",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Bale Bale",
@@ -2285,7 +2285,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1870",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Bawaal",
@@ -2296,7 +2296,7 @@ const stockData = [
         "Item_SelfVal_Price":  "745",
         "Stock":  "4",
         "ItemCode":  "1932",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Betab",
@@ -2307,7 +2307,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "1242",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF BHAI JAAN",
@@ -2318,7 +2318,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "2040",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Boat",
@@ -2329,7 +2329,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "1840",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Caliber",
@@ -2340,7 +2340,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2916",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Center Fresh",
@@ -2351,7 +2351,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.5",
         "Stock":  "0",
         "ItemCode":  "2187",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF CHINGARI",
@@ -2362,7 +2362,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "1",
         "ItemCode":  "2042",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF CINEMEX",
@@ -2373,7 +2373,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2020",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF City Plus",
@@ -2384,7 +2384,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "1",
         "ItemCode":  "1245",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Cobra",
@@ -2395,7 +2395,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1831",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF COTTON CHICKEN",
@@ -2406,7 +2406,7 @@ const stockData = [
         "Item_SelfVal_Price":  "310",
         "Stock":  "48",
         "ItemCode":  "3657",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Darshana",
@@ -2417,7 +2417,7 @@ const stockData = [
         "Item_SelfVal_Price":  "765",
         "Stock":  "0",
         "ItemCode":  "1815",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF DHARA",
@@ -2428,7 +2428,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "2776",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Dhun",
@@ -2439,7 +2439,7 @@ const stockData = [
         "Item_SelfVal_Price":  "770.25",
         "Stock":  "0",
         "ItemCode":  "2892",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Dream",
@@ -2450,7 +2450,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1836",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF DREAM 11",
@@ -2461,7 +2461,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2037",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Dyana",
@@ -2472,7 +2472,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1817",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Faridha",
@@ -2483,7 +2483,7 @@ const stockData = [
         "Item_SelfVal_Price":  "624",
         "Stock":  "0",
         "ItemCode":  "2240",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Forever",
@@ -2494,7 +2494,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1471",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Fuljhadi",
@@ -2505,7 +2505,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2188",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF GAYTRI",
@@ -2516,7 +2516,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "7",
         "ItemCode":  "4073",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Genius",
@@ -2527,7 +2527,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1962",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Glamour",
@@ -2538,7 +2538,7 @@ const stockData = [
         "Item_SelfVal_Price":  "817.5",
         "Stock":  "1",
         "ItemCode":  "1839",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Glorious",
@@ -2549,7 +2549,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2062",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Green city",
@@ -2560,7 +2560,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "1855",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Gun Gun",
@@ -2571,7 +2571,7 @@ const stockData = [
         "Item_SelfVal_Price":  "485",
         "Stock":  "20",
         "ItemCode":  "1527",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Gungun",
@@ -2582,7 +2582,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1528",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Hanspriya",
@@ -2593,7 +2593,7 @@ const stockData = [
         "Item_SelfVal_Price":  "840",
         "Stock":  "0",
         "ItemCode":  "1854",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Hatim",
@@ -2604,7 +2604,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "1",
         "ItemCode":  "2404",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Hayat",
@@ -2615,7 +2615,7 @@ const stockData = [
         "Item_SelfVal_Price":  "716.25",
         "Stock":  "0",
         "ItemCode":  "1468",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Heer Ranjha",
@@ -2626,7 +2626,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1236",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Hemani",
@@ -2637,7 +2637,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "2189",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Hetal",
@@ -2648,7 +2648,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "1380",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Hunger",
@@ -2659,7 +2659,7 @@ const stockData = [
         "Item_SelfVal_Price":  "761.25",
         "Stock":  "0",
         "ItemCode":  "1933",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Ishq",
@@ -2670,7 +2670,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1329",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Jalebi",
@@ -2681,7 +2681,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.75",
         "Stock":  "0",
         "ItemCode":  "1330",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Janam",
@@ -2692,7 +2692,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.75",
         "Stock":  "0",
         "ItemCode":  "1244",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Jannat",
@@ -2703,7 +2703,7 @@ const stockData = [
         "Item_SelfVal_Price":  "782.25",
         "Stock":  "0",
         "ItemCode":  "1813",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF JASSI",
@@ -2714,7 +2714,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "2781",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF JHALAK",
@@ -2725,7 +2725,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2338",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Joker",
@@ -2736,7 +2736,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1333",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF kaju",
@@ -2747,7 +2747,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "2238",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Kalyan",
@@ -2758,7 +2758,7 @@ const stockData = [
         "Item_SelfVal_Price":  "753.75",
         "Stock":  "0",
         "ItemCode":  "1818",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Kantra",
@@ -2769,7 +2769,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1243",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Kashmiri Queen",
@@ -2780,7 +2780,7 @@ const stockData = [
         "Item_SelfVal_Price":  "747.75",
         "Stock":  "-1",
         "ItemCode":  "2915",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Kathakali",
@@ -2791,7 +2791,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "1327",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF KING",
@@ -2802,7 +2802,7 @@ const stockData = [
         "Item_SelfVal_Price":  "680",
         "Stock":  "11",
         "ItemCode":  "4063",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Kites",
@@ -2813,7 +2813,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2249",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Kusum",
@@ -2824,7 +2824,7 @@ const stockData = [
         "Item_SelfVal_Price":  "825",
         "Stock":  "0",
         "ItemCode":  "1871",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF LEFT AND RIGHT",
@@ -2835,7 +2835,7 @@ const stockData = [
         "Item_SelfVal_Price":  "690",
         "Stock":  "0",
         "ItemCode":  "2161",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Liza",
@@ -2846,7 +2846,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1238",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Luxury",
@@ -2857,7 +2857,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1241",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Magic Box",
@@ -2868,7 +2868,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1847",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Mahi",
@@ -2879,7 +2879,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2348",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Mam Saab",
@@ -2890,7 +2890,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1955",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Manchali",
@@ -2901,7 +2901,7 @@ const stockData = [
         "Item_SelfVal_Price":  "855",
         "Stock":  "0",
         "ItemCode":  "2911",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF mango bite",
@@ -2912,7 +2912,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "1",
         "ItemCode":  "2242",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Milk Cake",
@@ -2923,7 +2923,7 @@ const stockData = [
         "Item_SelfVal_Price":  "825",
         "Stock":  "0",
         "ItemCode":  "1954",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Mitu",
@@ -2934,7 +2934,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1239",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Money Plan",
@@ -2945,7 +2945,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1869",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Mustari",
@@ -2956,7 +2956,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.75",
         "Stock":  "0",
         "ItemCode":  "1216",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Namkin",
@@ -2967,7 +2967,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1829",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF NenTara",
@@ -2978,7 +2978,7 @@ const stockData = [
         "Item_SelfVal_Price":  "753.75",
         "Stock":  "0",
         "ItemCode":  "1816",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Nikhar",
@@ -2989,7 +2989,7 @@ const stockData = [
         "Item_SelfVal_Price":  "795",
         "Stock":  "0",
         "ItemCode":  "1470",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF NOVELTY",
@@ -3000,7 +3000,7 @@ const stockData = [
         "Item_SelfVal_Price":  "567.75",
         "Stock":  "0",
         "ItemCode":  "2291",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Parrot",
@@ -3011,7 +3011,7 @@ const stockData = [
         "Item_SelfVal_Price":  "753.75",
         "Stock":  "0",
         "ItemCode":  "1332",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Pepsi",
@@ -3022,7 +3022,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1473",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF PINEAPPLE",
@@ -3033,7 +3033,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2043",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF RAJ DHANI",
@@ -3044,7 +3044,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "2039",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF RAMBO",
@@ -3055,7 +3055,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2050",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Raseeda",
@@ -3066,7 +3066,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1383",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Rayna",
@@ -3077,7 +3077,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "0",
         "ItemCode":  "1832",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Reshma",
@@ -3088,7 +3088,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "1",
         "ItemCode":  "3506",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Rock Star",
@@ -3099,7 +3099,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "1996",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Royal Enfield",
@@ -3110,7 +3110,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1331",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Royalty",
@@ -3121,7 +3121,7 @@ const stockData = [
         "Item_SelfVal_Price":  "917.25",
         "Stock":  "0",
         "ItemCode":  "1326",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Rukmani",
@@ -3132,7 +3132,7 @@ const stockData = [
         "Item_SelfVal_Price":  "708.75",
         "Stock":  "0",
         "ItemCode":  "2914",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Ruksana",
@@ -3143,7 +3143,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1819",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF SADAK",
@@ -3154,7 +3154,7 @@ const stockData = [
         "Item_SelfVal_Price":  "815.25",
         "Stock":  "0",
         "ItemCode":  "2870",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Safari",
@@ -3165,7 +3165,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "1814",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Sahira",
@@ -3176,7 +3176,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1031.25",
         "Stock":  "0",
         "ItemCode":  "1789",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF SEJAL",
@@ -3187,7 +3187,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "0",
         "ItemCode":  "2300",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Setu",
@@ -3198,7 +3198,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1469",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Shefali",
@@ -3209,7 +3209,7 @@ const stockData = [
         "Item_SelfVal_Price":  "466.5",
         "Stock":  "0",
         "ItemCode":  "2236",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Shilpa",
@@ -3220,7 +3220,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1853",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Ship",
@@ -3231,7 +3231,7 @@ const stockData = [
         "Item_SelfVal_Price":  "783.75",
         "Stock":  "0",
         "ItemCode":  "1828",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Shringar",
@@ -3242,7 +3242,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1852",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Sky",
@@ -3253,7 +3253,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1957",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Snapchat",
@@ -3264,7 +3264,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1867",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Sohile",
@@ -3275,7 +3275,7 @@ const stockData = [
         "Item_SelfVal_Price":  "972.75",
         "Stock":  "0",
         "ItemCode":  "2910",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gf Sona hi Sona",
@@ -3286,7 +3286,7 @@ const stockData = [
         "Item_SelfVal_Price":  "648.75",
         "Stock":  "0",
         "ItemCode":  "2061",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Sufiyna",
@@ -3297,7 +3297,7 @@ const stockData = [
         "Item_SelfVal_Price":  "770.25",
         "Stock":  "0",
         "ItemCode":  "2913",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Suger",
@@ -3308,7 +3308,7 @@ const stockData = [
         "Item_SelfVal_Price":  "761.25",
         "Stock":  "0",
         "ItemCode":  "1866",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Sujata",
@@ -3319,7 +3319,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1834",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Super Deluxe",
@@ -3330,7 +3330,7 @@ const stockData = [
         "Item_SelfVal_Price":  "708.75",
         "Stock":  "1",
         "ItemCode":  "2893",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Sweet Look",
@@ -3341,7 +3341,7 @@ const stockData = [
         "Item_SelfVal_Price":  "885",
         "Stock":  "0",
         "ItemCode":  "1956",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Tajmahal",
@@ -3352,7 +3352,7 @@ const stockData = [
         "Item_SelfVal_Price":  "883.5",
         "Stock":  "0",
         "ItemCode":  "1237",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Toofan Mail",
@@ -3363,7 +3363,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1558",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Tum Bin",
@@ -3374,7 +3374,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1381",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Twelth Pass",
@@ -3385,7 +3385,7 @@ const stockData = [
         "Item_SelfVal_Price":  "697.5",
         "Stock":  "0",
         "ItemCode":  "2002",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF TWISHA",
@@ -3396,7 +3396,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2266",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF udan khatola",
@@ -3407,7 +3407,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2237",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF UNICORN",
@@ -3418,7 +3418,7 @@ const stockData = [
         "Item_SelfVal_Price":  "671.25",
         "Stock":  "0",
         "ItemCode":  "2045",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Vichitra",
@@ -3429,7 +3429,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1474",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Vichitra Pepsi",
@@ -3440,7 +3440,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1475",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Vichitra Toofan",
@@ -3451,7 +3451,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1559",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Visha",
@@ -3462,7 +3462,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1830",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF VIVO",
@@ -3473,7 +3473,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2038",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF VOLVO",
@@ -3484,7 +3484,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2219",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF White House",
@@ -3495,7 +3495,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2235",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF White Rose",
@@ -3506,7 +3506,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1472",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Zalima",
@@ -3517,7 +3517,7 @@ const stockData = [
         "Item_SelfVal_Price":  "828.75",
         "Stock":  "0",
         "ItemCode":  "1833",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GF Zarina",
@@ -3528,7 +3528,7 @@ const stockData = [
         "Item_SelfVal_Price":  "827.25",
         "Stock":  "0",
         "ItemCode":  "1382",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GG MAHI",
@@ -3539,7 +3539,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "2330",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK AADHYA",
@@ -3550,7 +3550,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "1",
         "ItemCode":  "3841",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Aag Ka Gola",
@@ -3561,7 +3561,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1450",
         "Stock":  "0",
         "ItemCode":  "3737",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Aaghyat",
@@ -3572,7 +3572,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1600",
         "Stock":  "0",
         "ItemCode":  "3738",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK ABHIMAN",
@@ -3583,7 +3583,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1050",
         "Stock":  "2",
         "ItemCode":  "3785",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Ahuja",
@@ -3594,7 +3594,7 @@ const stockData = [
         "Item_SelfVal_Price":  "657.75",
         "Stock":  "0",
         "ItemCode":  "3068",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Ajnabi",
@@ -3605,7 +3605,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1322",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Ajuba",
@@ -3616,7 +3616,7 @@ const stockData = [
         "Item_SelfVal_Price":  "925",
         "Stock":  "0",
         "ItemCode":  "3778",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK AKARSH",
@@ -3627,7 +3627,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "2",
         "ItemCode":  "3840",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK AMRUT",
@@ -3638,7 +3638,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "4",
         "ItemCode":  "3759",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Arbuda",
@@ -3649,7 +3649,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1981",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Best Luck",
@@ -3660,7 +3660,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "1404",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Black Tea",
@@ -3671,7 +3671,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590",
         "Stock":  "4",
         "ItemCode":  "3816",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK BOND",
@@ -3682,7 +3682,7 @@ const stockData = [
         "Item_SelfVal_Price":  "935",
         "Stock":  "4",
         "ItemCode":  "4019",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK BUGATI",
@@ -3693,7 +3693,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1600",
         "Stock":  "0",
         "ItemCode":  "3739",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK CBZ",
@@ -3704,7 +3704,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "4",
         "ItemCode":  "3765",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK ceat",
@@ -3715,7 +3715,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1809",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Chilly",
@@ -3726,7 +3726,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2198",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK chup chupke",
@@ -3737,7 +3737,7 @@ const stockData = [
         "Item_SelfVal_Price":  "657.75",
         "Stock":  "0",
         "ItemCode":  "2243",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK CIPRA",
@@ -3748,7 +3748,7 @@ const stockData = [
         "Item_SelfVal_Price":  "577.5",
         "Stock":  "0",
         "ItemCode":  "2104",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK COMMANDO",
@@ -3759,7 +3759,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "4",
         "ItemCode":  "3760",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Curve",
@@ -3770,7 +3770,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "3345",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK DEV-D",
@@ -3781,7 +3781,7 @@ const stockData = [
         "Item_SelfVal_Price":  "790",
         "Stock":  "0",
         "ItemCode":  "4056",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Dhama Dham",
@@ -3792,7 +3792,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "0",
         "ItemCode":  "3436",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK DHISOOM",
@@ -3803,7 +3803,7 @@ const stockData = [
         "Item_SelfVal_Price":  "655",
         "Stock":  "4",
         "ItemCode":  "4047",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Dil Dariya",
@@ -3814,7 +3814,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.88",
         "Stock":  "5",
         "ItemCode":  "2287",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Dove",
@@ -3825,7 +3825,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2207",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK FIFA",
@@ -3836,7 +3836,7 @@ const stockData = [
         "Item_SelfVal_Price":  "790",
         "Stock":  "5",
         "ItemCode":  "4046",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Fiza",
@@ -3847,7 +3847,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "-1",
         "ItemCode":  "2193",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Gabgubai",
@@ -3858,7 +3858,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "2347",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Gangubai",
@@ -3869,7 +3869,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "2321",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK GARIMA",
@@ -3880,7 +3880,7 @@ const stockData = [
         "Item_SelfVal_Price":  "750",
         "Stock":  "0",
         "ItemCode":  "4058",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Good Luck",
@@ -3891,7 +3891,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "2",
         "ItemCode":  "2349",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Gudiya",
@@ -3902,7 +3902,7 @@ const stockData = [
         "Item_SelfVal_Price":  "715",
         "Stock":  "0",
         "ItemCode":  "3733",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Humraaz",
@@ -3913,7 +3913,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2253",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK IIFA",
@@ -3924,7 +3924,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "4",
         "ItemCode":  "3764",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Inayat Fish Pant Trouser",
@@ -3935,7 +3935,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "1563",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Ishq",
@@ -3946,7 +3946,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "2197",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK ISHQ VISQ",
@@ -3957,7 +3957,7 @@ const stockData = [
         "Item_SelfVal_Price":  "760",
         "Stock":  "4",
         "ItemCode":  "4057",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Jagran",
@@ -3968,7 +3968,7 @@ const stockData = [
         "Item_SelfVal_Price":  "933.75",
         "Stock":  "0",
         "ItemCode":  "1979",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Jannat",
@@ -3979,7 +3979,7 @@ const stockData = [
         "Item_SelfVal_Price":  "467.25",
         "Stock":  "0",
         "ItemCode":  "1233",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK JET AIRWAYS",
@@ -3990,7 +3990,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1698.75",
         "Stock":  "0",
         "ItemCode":  "3075",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK JOKER",
@@ -4001,7 +4001,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2512",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Kallakar",
@@ -4012,7 +4012,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "2",
         "ItemCode":  "2006",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Karishma",
@@ -4023,7 +4023,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2191",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Karnavati",
@@ -4034,7 +4034,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590.625",
         "Stock":  "3",
         "ItemCode":  "3065",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK KASAM",
@@ -4045,7 +4045,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2511",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK KITES",
@@ -4056,7 +4056,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "2251",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Kudrt",
@@ -4067,7 +4067,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "-1",
         "ItemCode":  "3170",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Kuwet",
@@ -4078,7 +4078,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "2199",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK KYRA",
@@ -4089,7 +4089,7 @@ const stockData = [
         "Item_SelfVal_Price":  "655",
         "Stock":  "4",
         "ItemCode":  "4048",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK lovasa",
@@ -4100,7 +4100,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1807",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK MADHUMATI",
@@ -4111,7 +4111,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2301",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK MAHARAJ",
@@ -4122,7 +4122,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2337",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Maira",
@@ -4133,7 +4133,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590",
         "Stock":  "8",
         "ItemCode":  "3815",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Malta",
@@ -4144,7 +4144,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1310.625",
         "Stock":  "0",
         "ItemCode":  "3348",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK MAQBOOL",
@@ -4155,7 +4155,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "0",
         "ItemCode":  "3761",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK matuki",
@@ -4166,7 +4166,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1808",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK MEESHO",
@@ -4177,7 +4177,7 @@ const stockData = [
         "Item_SelfVal_Price":  "560",
         "Stock":  "6",
         "ItemCode":  "3660",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK MIX",
@@ -4188,7 +4188,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2524",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Mogra",
@@ -4199,7 +4199,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "2196",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Moorpich",
@@ -4210,7 +4210,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1766",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Neoxn",
@@ -4221,7 +4221,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1023.75",
         "Stock":  "0",
         "ItemCode":  "2402",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Nexon",
@@ -4232,7 +4232,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1023.75",
         "Stock":  "0",
         "ItemCode":  "2487",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Nisha",
@@ -4243,7 +4243,7 @@ const stockData = [
         "Item_SelfVal_Price":  "980",
         "Stock":  "0",
         "ItemCode":  "3736",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Padmavati",
@@ -4254,7 +4254,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "1406",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Pant Trouser",
@@ -4265,7 +4265,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "1859",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Paper work",
@@ -4276,7 +4276,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1810",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Piku",
@@ -4287,7 +4287,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1050",
         "Stock":  "-1",
         "ItemCode":  "3784",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Polo Sport",
@@ -4298,7 +4298,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590.625",
         "Stock":  "2",
         "ItemCode":  "3066",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Preeti",
@@ -4309,7 +4309,7 @@ const stockData = [
         "Item_SelfVal_Price":  "681",
         "Stock":  "0",
         "ItemCode":  "1407",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Prime",
@@ -4320,7 +4320,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1980",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK QUEEN",
@@ -4331,7 +4331,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "4",
         "ItemCode":  "3763",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Rambha Fish Pant Trouser",
@@ -4342,7 +4342,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "1562",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Rebal",
@@ -4353,7 +4353,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590.625",
         "Stock":  "4",
         "ItemCode":  "3063",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Red Rose",
@@ -4364,7 +4364,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2206",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Ridhi",
@@ -4375,7 +4375,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "3346",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK ROMIYO",
@@ -4386,7 +4386,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2035",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Royal",
@@ -4397,7 +4397,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "1623",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK RUN",
@@ -4408,7 +4408,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "4",
         "ItemCode":  "3762",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK RUTU",
@@ -4419,7 +4419,7 @@ const stockData = [
         "Item_SelfVal_Price":  "900",
         "Stock":  "4",
         "ItemCode":  "4018",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Sangita",
@@ -4430,7 +4430,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1806",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Sara",
@@ -4441,7 +4441,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "0",
         "ItemCode":  "3438",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK SCION",
@@ -4452,7 +4452,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "4",
         "ItemCode":  "3875",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Sitare",
@@ -4463,7 +4463,7 @@ const stockData = [
         "Item_SelfVal_Price":  "715",
         "Stock":  "0",
         "ItemCode":  "3732",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gk Son Pari",
@@ -4474,7 +4474,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1050",
         "Stock":  "0",
         "ItemCode":  "3786",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK SONET",
@@ -4485,7 +4485,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2513",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Spark",
@@ -4496,7 +4496,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590.625",
         "Stock":  "4",
         "ItemCode":  "3064",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK SUITE",
@@ -4507,7 +4507,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2268",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Tamasha",
@@ -4518,7 +4518,7 @@ const stockData = [
         "Item_SelfVal_Price":  "956.25",
         "Stock":  "0",
         "ItemCode":  "2407",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Tiffany",
@@ -4529,7 +4529,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1405",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK TIMBER",
@@ -4540,7 +4540,7 @@ const stockData = [
         "Item_SelfVal_Price":  "780",
         "Stock":  "7",
         "ItemCode":  "4076",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Toffy",
@@ -4551,7 +4551,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1811",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Torento",
@@ -4562,7 +4562,7 @@ const stockData = [
         "Item_SelfVal_Price":  "657.75",
         "Stock":  "0",
         "ItemCode":  "2184",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK TOSHIBA",
@@ -4573,7 +4573,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "4",
         "ItemCode":  "3867",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Tum Bin",
@@ -4584,7 +4584,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2368",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Vipul",
@@ -4595,7 +4595,7 @@ const stockData = [
         "Item_SelfVal_Price":  "636",
         "Stock":  "0",
         "ItemCode":  "1408",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK WHITE HOUSE",
@@ -4606,7 +4606,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1025",
         "Stock":  "2",
         "ItemCode":  "4039",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Zaira",
@@ -4617,7 +4617,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "0",
         "ItemCode":  "3437",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK ZIYAFAT",
@@ -4628,7 +4628,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2215",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GK Ziyarat",
@@ -4639,7 +4639,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2192",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GN College Dupatta",
@@ -4650,7 +4650,7 @@ const stockData = [
         "Item_SelfVal_Price":  "80",
         "Stock":  "49",
         "ItemCode":  "3542",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Amrita",
@@ -4661,7 +4661,7 @@ const stockData = [
         "Item_SelfVal_Price":  "736.5",
         "Stock":  "-1",
         "ItemCode":  "2879",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Apple jam",
@@ -4672,7 +4672,7 @@ const stockData = [
         "Item_SelfVal_Price":  "749.25",
         "Stock":  "0",
         "ItemCode":  "1756",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Barfi",
@@ -4683,7 +4683,7 @@ const stockData = [
         "Item_SelfVal_Price":  "736.5",
         "Stock":  "0",
         "ItemCode":  "2880",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA CAMRIC AEKTA",
@@ -4694,7 +4694,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.5",
         "Stock":  "0",
         "ItemCode":  "2305",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA CHINON PAL",
@@ -4705,7 +4705,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590",
         "Stock":  "0",
         "ItemCode":  "3884",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA CHINON SUNAYNA",
@@ -4716,7 +4716,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590",
         "Stock":  "0",
         "ItemCode":  "3885",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Classic Fox",
@@ -4727,7 +4727,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759.75",
         "Stock":  "0",
         "ItemCode":  "1759",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Dharmendar",
@@ -4738,7 +4738,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "1",
         "ItemCode":  "2902",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Firdos Dimpal",
@@ -4749,7 +4749,7 @@ const stockData = [
         "Item_SelfVal_Price":  "783.75",
         "Stock":  "0",
         "ItemCode":  "1872",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Firdos Neeta",
@@ -4760,7 +4760,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "2556",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Firdos Patang",
@@ -4771,7 +4771,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "2560",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Firdos Raja",
@@ -4782,7 +4782,7 @@ const stockData = [
         "Item_SelfVal_Price":  "749.25",
         "Stock":  "0",
         "ItemCode":  "1995",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Fox Ganga",
@@ -4793,7 +4793,7 @@ const stockData = [
         "Item_SelfVal_Price":  "832.5",
         "Stock":  "0",
         "ItemCode":  "1874",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Fox Hirva",
@@ -4804,7 +4804,7 @@ const stockData = [
         "Item_SelfVal_Price":  "922.5",
         "Stock":  "0",
         "ItemCode":  "2558",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Fox Kajal",
@@ -4815,7 +4815,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "2557",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Fox Tulsi",
@@ -4826,7 +4826,7 @@ const stockData = [
         "Item_SelfVal_Price":  "888.75",
         "Stock":  "0",
         "ItemCode":  "2559",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Jaam",
@@ -4837,7 +4837,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "2561",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Jam Galaxy",
@@ -4848,7 +4848,7 @@ const stockData = [
         "Item_SelfVal_Price":  "736.5",
         "Stock":  "0",
         "ItemCode":  "2907",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA JAM GEETA",
@@ -4859,7 +4859,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "2",
         "ItemCode":  "3899",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA JAM HANIYA",
@@ -4870,7 +4870,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "1",
         "ItemCode":  "3903",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Jimmychoo Ranchi",
@@ -4881,7 +4881,7 @@ const stockData = [
         "Item_SelfVal_Price":  "984.75",
         "Stock":  "0",
         "ItemCode":  "1875",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Jitendar",
@@ -4892,7 +4892,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "9",
         "ItemCode":  "2901",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Mahima firdous",
@@ -4903,7 +4903,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759.75",
         "Stock":  "0",
         "ItemCode":  "1757",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Mengo jam",
@@ -4914,7 +4914,7 @@ const stockData = [
         "Item_SelfVal_Price":  "749.25",
         "Stock":  "0",
         "ItemCode":  "1755",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX",
@@ -4925,7 +4925,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410",
         "Stock":  "102",
         "ItemCode":  "3652",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 01",
@@ -4936,7 +4936,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "23",
         "ItemCode":  "3661",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 02",
@@ -4947,7 +4947,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "12",
         "ItemCode":  "3662",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 03",
@@ -4958,7 +4958,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "10",
         "ItemCode":  "3663",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 04",
@@ -4969,7 +4969,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "3",
         "ItemCode":  "3664",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 05",
@@ -4980,7 +4980,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "9",
         "ItemCode":  "3665",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 06",
@@ -4991,7 +4991,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "15",
         "ItemCode":  "3666",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA MIX 07",
@@ -5002,7 +5002,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3667",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Ranchi jam",
@@ -5013,7 +5013,7 @@ const stockData = [
         "Item_SelfVal_Price":  "749.25",
         "Stock":  "0",
         "ItemCode":  "1758",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Sanam",
@@ -5024,7 +5024,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "2903",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Simmer Angel",
@@ -5035,7 +5035,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1046.25",
         "Stock":  "0",
         "ItemCode":  "1873",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA SINDOOR",
@@ -5046,7 +5046,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590",
         "Stock":  "4",
         "ItemCode":  "3886",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA Star Jorjat Stree",
@@ -5057,7 +5057,7 @@ const stockData = [
         "Item_SelfVal_Price":  "855",
         "Stock":  "0",
         "ItemCode":  "2555",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GNA SUHANI",
@@ -5068,7 +5068,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "2306",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gold Chance",
@@ -5079,7 +5079,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "1544",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gold Remove",
@@ -5090,7 +5090,7 @@ const stockData = [
         "Item_SelfVal_Price":  "457.5",
         "Stock":  "0",
         "ItemCode":  "1960",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Golden Pant Trouser Zarkan Work",
@@ -5101,7 +5101,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1222",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Good luck GK",
@@ -5112,7 +5112,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1740",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gsf Dupatta",
@@ -5123,7 +5123,7 @@ const stockData = [
         "Item_SelfVal_Price":  "70",
         "Stock":  "1398",
         "ItemCode":  "3545",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GT Noorie",
@@ -5134,7 +5134,7 @@ const stockData = [
         "Item_SelfVal_Price":  "367.5",
         "Stock":  "0",
         "ItemCode":  "2495",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "GT Sanam",
@@ -5145,7 +5145,7 @@ const stockData = [
         "Item_SelfVal_Price":  "367.5",
         "Stock":  "0",
         "ItemCode":  "2496",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gulzar Rayon",
@@ -5156,7 +5156,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2177",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Gumnam",
@@ -5167,7 +5167,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2535",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Handkerchief",
@@ -5178,7 +5178,7 @@ const stockData = [
         "Item_SelfVal_Price":  "10",
         "Stock":  "-33",
         "ItemCode":  "1722",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "HASINA",
@@ -5189,7 +5189,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "13",
         "ItemCode":  "3890",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Headcap",
@@ -5200,7 +5200,7 @@ const stockData = [
         "Item_SelfVal_Price":  "40",
         "Stock":  "35",
         "ItemCode":  "3751",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Muslin Suit",
@@ -5211,7 +5211,7 @@ const stockData = [
         "Item_SelfVal_Price":  "309",
         "Stock":  "0",
         "ItemCode":  "2581",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 01",
@@ -5222,7 +5222,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2100",
         "Stock":  "0",
         "ItemCode":  "3089",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 02",
@@ -5233,7 +5233,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1950",
         "Stock":  "2",
         "ItemCode":  "3090",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 03",
@@ -5244,7 +5244,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2005.3125",
         "Stock":  "0",
         "ItemCode":  "3091",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 04",
@@ -5255,7 +5255,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2005.3125",
         "Stock":  "0",
         "ItemCode":  "3092",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 05",
@@ -5266,7 +5266,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2241.5625",
         "Stock":  "0",
         "ItemCode":  "3093",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 06",
@@ -5277,7 +5277,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2773.125",
         "Stock":  "0",
         "ItemCode":  "3094",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 07",
@@ -5288,7 +5288,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2359.6875",
         "Stock":  "0",
         "ItemCode":  "3095",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 08",
@@ -5299,7 +5299,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2064",
         "Stock":  "0",
         "ItemCode":  "3096",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 09",
@@ -5310,7 +5310,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2064",
         "Stock":  "0",
         "ItemCode":  "3097",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Heavy Zara 10",
@@ -5321,7 +5321,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1769.0625",
         "Stock":  "6",
         "ItemCode":  "3098",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Hira",
@@ -5332,7 +5332,7 @@ const stockData = [
         "Item_SelfVal_Price":  "129.375",
         "Stock":  "0",
         "ItemCode":  "1715",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Honda GK",
@@ -5343,7 +5343,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1498",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Hotstar VT",
@@ -5354,7 +5354,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "1679",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "HP Heera Jam",
@@ -5365,7 +5365,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1247",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "HP Hira Dola 2nd suit",
@@ -5376,7 +5376,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1655",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "HP SUITE",
@@ -5387,7 +5387,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2021",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "HP SUITE 2",
@@ -5398,7 +5398,7 @@ const stockData = [
         "Item_SelfVal_Price":  "487.5",
         "Stock":  "0",
         "ItemCode":  "2022",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "HUF Dupatta",
@@ -5409,7 +5409,7 @@ const stockData = [
         "Item_SelfVal_Price":  "80",
         "Stock":  "96",
         "ItemCode":  "3543",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ice Cub",
@@ -5420,7 +5420,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1636",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ice Pop",
@@ -5431,7 +5431,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1635",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Inaya Rajwadi",
@@ -5442,7 +5442,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "-3",
         "ItemCode":  "3358",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Inaya Suite",
@@ -5453,7 +5453,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1",
         "ItemCode":  "3211",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "INDIGO",
@@ -5464,7 +5464,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2641",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innaya Bits",
@@ -5475,7 +5475,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "3277",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innaya Gudgudi",
@@ -5486,7 +5486,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "-1",
         "ItemCode":  "3252",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innaya Mongra Chinon",
@@ -5497,7 +5497,7 @@ const stockData = [
         "Item_SelfVal_Price":  "663.75",
         "Stock":  "0",
         "ItemCode":  "3279",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innaya Nonstop",
@@ -5508,7 +5508,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.375",
         "Stock":  "0",
         "ItemCode":  "3251",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innaya Rajwadi",
@@ -5519,7 +5519,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "3278",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innaya Super 30",
@@ -5530,7 +5530,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "-1",
         "ItemCode":  "3273",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innu Batik",
@@ -5541,7 +5541,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "3004",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Innu Batik Masti",
@@ -5552,7 +5552,7 @@ const stockData = [
         "Item_SelfVal_Price":  "501",
         "Stock":  "0",
         "ItemCode":  "1351",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "INNU BELLA",
@@ -5563,7 +5563,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "0",
         "ItemCode":  "3215",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Instagram Om",
@@ -5574,7 +5574,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759.75",
         "Stock":  "0",
         "ItemCode":  "1732",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Iznik 1182B",
@@ -5585,7 +5585,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1406.25",
         "Stock":  "0",
         "ItemCode":  "3100",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jaam Akansha",
@@ -5596,7 +5596,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1456",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jaam Ctn Suite",
@@ -5607,7 +5607,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "3391",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jaam Khathli",
@@ -5618,7 +5618,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "0",
         "ItemCode":  "3392",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jaam Print",
@@ -5629,7 +5629,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.62",
         "Stock":  "3",
         "ItemCode":  "3357",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jaam Simba",
@@ -5640,7 +5640,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1457",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JAAM ZARKAN SUITE",
@@ -5651,7 +5651,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2018",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jackpot",
@@ -5662,7 +5662,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1316.25",
         "Stock":  "-1",
         "ItemCode":  "3374",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jam Cotton Red",
@@ -5673,7 +5673,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2252",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jambo GK",
@@ -5684,7 +5684,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1490",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jayveelon JV Camric",
@@ -5695,7 +5695,7 @@ const stockData = [
         "Item_SelfVal_Price":  "376.875",
         "Stock":  "-2",
         "ItemCode":  "3056",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JBT TIGER",
@@ -5706,7 +5706,7 @@ const stockData = [
         "Item_SelfVal_Price":  "475",
         "Stock":  "8",
         "ItemCode":  "3980",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JBT TITAN",
@@ -5717,7 +5717,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "8",
         "ItemCode":  "4074",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JBT WHITE PARI",
@@ -5728,7 +5728,7 @@ const stockData = [
         "Item_SelfVal_Price":  "505",
         "Stock":  "0",
         "ItemCode":  "4062",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Butterfly",
@@ -5739,7 +5739,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1306",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Chandani",
@@ -5750,7 +5750,7 @@ const stockData = [
         "Item_SelfVal_Price":  "558.75",
         "Stock":  "0",
         "ItemCode":  "1626",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Dipti",
@@ -5761,7 +5761,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1341",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Ful Jadi",
@@ -5772,7 +5772,7 @@ const stockData = [
         "Item_SelfVal_Price":  "568.5",
         "Stock":  "0",
         "ItemCode":  "1385",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Ful Zadi",
@@ -5783,7 +5783,7 @@ const stockData = [
         "Item_SelfVal_Price":  "568.5",
         "Stock":  "0",
         "ItemCode":  "1386",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Gudiya",
@@ -5794,7 +5794,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1307",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Ice Cream",
@@ -5805,7 +5805,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1531",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF JALEBI BAI",
@@ -5816,7 +5816,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2046",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Kohinoor",
@@ -5827,7 +5827,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "1530",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF MAAZA",
@@ -5838,7 +5838,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1734",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Parvat",
@@ -5849,7 +5849,7 @@ const stockData = [
         "Item_SelfVal_Price":  "502.5",
         "Stock":  "0",
         "ItemCode":  "1624",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Popcorn",
@@ -5860,7 +5860,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1221",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Queen",
@@ -5871,7 +5871,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2175",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Rang Rasiya",
@@ -5882,7 +5882,7 @@ const stockData = [
         "Item_SelfVal_Price":  "468.75",
         "Stock":  "0",
         "ItemCode":  "1984",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Roli Moli",
@@ -5893,7 +5893,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "1625",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Sia",
@@ -5904,7 +5904,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "0",
         "ItemCode":  "1387",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Skoda",
@@ -5915,7 +5915,7 @@ const stockData = [
         "Item_SelfVal_Price":  "546",
         "Stock":  "0",
         "ItemCode":  "1220",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF STUDIO",
@@ -5926,7 +5926,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.25",
         "Stock":  "0",
         "ItemCode":  "2674",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Sunshine",
@@ -5937,7 +5937,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "0",
         "ItemCode":  "1344",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Supriya",
@@ -5948,7 +5948,7 @@ const stockData = [
         "Item_SelfVal_Price":  "557.25",
         "Stock":  "0",
         "ItemCode":  "1342",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Vanshika",
@@ -5959,7 +5959,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1309",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Varnika",
@@ -5970,7 +5970,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "2176",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF weekend",
@@ -5981,7 +5981,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1987",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Zara Hatke",
@@ -5992,7 +5992,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1308",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JF Zoya",
@@ -6003,7 +6003,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1343",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JIMI CHUG VISCOSE",
@@ -6014,7 +6014,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "2565",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD ACHIEVER",
@@ -6025,7 +6025,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "2629",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Amala",
@@ -6036,7 +6036,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.375",
         "Stock":  "0",
         "ItemCode":  "3467",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Aparna",
@@ -6047,7 +6047,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.375",
         "Stock":  "0",
         "ItemCode":  "3465",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD BLACK",
@@ -6058,7 +6058,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2859",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD BLACK JACK",
@@ -6069,7 +6069,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2864",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Cadbury",
@@ -6080,7 +6080,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2991",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD CHALLENGER",
@@ -6091,7 +6091,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2869",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Chandrika",
@@ -6102,7 +6102,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "-1",
         "ItemCode":  "2583",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Dal Lake",
@@ -6113,7 +6113,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "3",
         "ItemCode":  "2989",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Gangajal",
@@ -6124,7 +6124,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "0",
         "ItemCode":  "1628",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Kaju",
@@ -6135,7 +6135,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "2582",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD LEXUS",
@@ -6146,7 +6146,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "2631",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Love Boy",
@@ -6157,7 +6157,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.375",
         "Stock":  "0",
         "ItemCode":  "3468",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Manmeet",
@@ -6168,7 +6168,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "4",
         "ItemCode":  "2987",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Mapping",
@@ -6179,7 +6179,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2992",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Maurya",
@@ -6190,7 +6190,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.375",
         "Stock":  "0",
         "ItemCode":  "3466",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jmd Mehbooba",
@@ -6201,7 +6201,7 @@ const stockData = [
         "Item_SelfVal_Price":  "375.6",
         "Stock":  "3",
         "ItemCode":  "3557",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Milk Shake",
@@ -6212,7 +6212,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2990",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Reet",
@@ -6223,7 +6223,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2988",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Rudraksh",
@@ -6234,7 +6234,7 @@ const stockData = [
         "Item_SelfVal_Price":  "356.25",
         "Stock":  "0",
         "ItemCode":  "1593",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Sanam",
@@ -6245,7 +6245,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.38",
         "Stock":  "1",
         "ItemCode":  "3461",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Sarthi",
@@ -6256,7 +6256,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2993",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jmd Shehzada",
@@ -6267,7 +6267,7 @@ const stockData = [
         "Item_SelfVal_Price":  "456",
         "Stock":  "5",
         "ItemCode":  "3556",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jmd Shipra",
@@ -6278,7 +6278,7 @@ const stockData = [
         "Item_SelfVal_Price":  "375.6",
         "Stock":  "0",
         "ItemCode":  "3558",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Suhagan",
@@ -6289,7 +6289,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.375",
         "Stock":  "0",
         "ItemCode":  "3464",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Tarana",
@@ -6300,7 +6300,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "2584",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD VIMOCHAN",
@@ -6311,7 +6311,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2860",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JMD Yahoo",
@@ -6322,7 +6322,7 @@ const stockData = [
         "Item_SelfVal_Price":  "351.75",
         "Stock":  "0",
         "ItemCode":  "2994",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS CRYSTAL",
@@ -6333,7 +6333,7 @@ const stockData = [
         "Item_SelfVal_Price":  "473.25",
         "Stock":  "0",
         "ItemCode":  "2702",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS Dominos",
@@ -6344,7 +6344,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2660",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS Kanchan",
@@ -6355,7 +6355,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2875",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS Kheer",
@@ -6366,7 +6366,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "0",
         "ItemCode":  "2616",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS MAHI",
@@ -6377,7 +6377,7 @@ const stockData = [
         "Item_SelfVal_Price":  "473.25",
         "Stock":  "0",
         "ItemCode":  "2701",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS MANALI",
@@ -6388,7 +6388,7 @@ const stockData = [
         "Item_SelfVal_Price":  "473.25",
         "Stock":  "0",
         "ItemCode":  "2630",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS MONACO",
@@ -6399,7 +6399,7 @@ const stockData = [
         "Item_SelfVal_Price":  "473.25",
         "Stock":  "0",
         "ItemCode":  "2703",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS Saachi",
@@ -6410,7 +6410,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2876",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JS Vedant",
@@ -6421,7 +6421,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2877",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Al Noor",
@@ -6432,7 +6432,7 @@ const stockData = [
         "Item_SelfVal_Price":  "483.75",
         "Stock":  "0",
         "ItemCode":  "3453",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Allever",
@@ -6443,7 +6443,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "0",
         "ItemCode":  "3451",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Ankita",
@@ -6454,7 +6454,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2105",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jt Atrangi",
@@ -6465,7 +6465,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3472",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Belaa",
@@ -6476,7 +6476,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "0",
         "ItemCode":  "3450",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT BROWN BEAUTY",
@@ -6487,7 +6487,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "3460",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Gulmohar",
@@ -6498,7 +6498,7 @@ const stockData = [
         "Item_SelfVal_Price":  "483.75",
         "Stock":  "0",
         "ItemCode":  "3454",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Pakeeza",
@@ -6509,7 +6509,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "1",
         "ItemCode":  "3452",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Shabana",
@@ -6520,7 +6520,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "3449",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JT Titli",
@@ -6531,7 +6531,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354.38",
         "Stock":  "0",
         "ItemCode":  "3448",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jt Zara",
@@ -6542,7 +6542,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1",
         "ItemCode":  "2149",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Jumbo GK",
@@ -6553,7 +6553,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1491",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JUST TRYING 2",
@@ -6564,7 +6564,7 @@ const stockData = [
         "Item_SelfVal_Price":  "92.25",
         "Stock":  "0",
         "ItemCode":  "2634",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "JUST TRYING SF",
@@ -6575,7 +6575,7 @@ const stockData = [
         "Item_SelfVal_Price":  "101.25",
         "Stock":  "0",
         "ItemCode":  "2633",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "K.K.U Air India",
@@ -6586,7 +6586,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "2078",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kashka Dupatta",
@@ -6597,7 +6597,7 @@ const stockData = [
         "Item_SelfVal_Price":  "125",
         "Stock":  "6",
         "ItemCode":  "3744",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kashmira XL Makhna",
@@ -6608,7 +6608,7 @@ const stockData = [
         "Item_SelfVal_Price":  "230",
         "Stock":  "6",
         "ItemCode":  "3750",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KASMIRI DHAGA WORK PEPLUM",
@@ -6619,7 +6619,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2264",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KASMIRI TROUSER",
@@ -6630,7 +6630,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1389.375",
         "Stock":  "0",
         "ItemCode":  "3393",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kavita EID SPECIAL Burberry",
@@ -6641,7 +6641,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "1925",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kbi 6100",
@@ -6652,7 +6652,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1186.875",
         "Stock":  "0",
         "ItemCode":  "3351",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KBI 6111",
@@ -6663,7 +6663,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1276.875",
         "Stock":  "0",
         "ItemCode":  "3271",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KBI 6177",
@@ -6674,7 +6674,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1220.625",
         "Stock":  "-1",
         "ItemCode":  "3363",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11641",
@@ -6685,7 +6685,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "2133",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11647",
@@ -6696,7 +6696,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "2131",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11649",
@@ -6707,7 +6707,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "2132",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11667",
@@ -6718,7 +6718,7 @@ const stockData = [
         "Item_SelfVal_Price":  "691.5",
         "Stock":  "0",
         "ItemCode":  "2119",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11669",
@@ -6729,7 +6729,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714",
         "Stock":  "0",
         "ItemCode":  "2118",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11671",
@@ -6740,7 +6740,7 @@ const stockData = [
         "Item_SelfVal_Price":  "330",
         "Stock":  "2",
         "ItemCode":  "3561",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11672",
@@ -6751,7 +6751,7 @@ const stockData = [
         "Item_SelfVal_Price":  "330",
         "Stock":  "1",
         "ItemCode":  "3563",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 11674",
@@ -6762,7 +6762,7 @@ const stockData = [
         "Item_SelfVal_Price":  "330",
         "Stock":  "0",
         "ItemCode":  "3560",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc 11675",
@@ -6773,7 +6773,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "1",
         "ItemCode":  "3571",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 1191",
@@ -6784,7 +6784,7 @@ const stockData = [
         "Item_SelfVal_Price":  "330",
         "Stock":  "1",
         "ItemCode":  "3562",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 13453",
@@ -6795,7 +6795,7 @@ const stockData = [
         "Item_SelfVal_Price":  "464.625",
         "Stock":  "0",
         "ItemCode":  "3342",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 13454",
@@ -6806,7 +6806,7 @@ const stockData = [
         "Item_SelfVal_Price":  "464.625",
         "Stock":  "1",
         "ItemCode":  "3339",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 13455",
@@ -6817,7 +6817,7 @@ const stockData = [
         "Item_SelfVal_Price":  "464.625",
         "Stock":  "0",
         "ItemCode":  "3340",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 13456",
@@ -6828,7 +6828,7 @@ const stockData = [
         "Item_SelfVal_Price":  "464.625",
         "Stock":  "0",
         "ItemCode":  "3343",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC 9XM",
@@ -6839,7 +6839,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1267.5",
         "Stock":  "0",
         "ItemCode":  "1838",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Aaira",
@@ -6850,7 +6850,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "2986",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Aankh Micholi",
@@ -6861,7 +6861,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "2431",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Aanvi",
@@ -6872,7 +6872,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1548.75",
         "Stock":  "0",
         "ItemCode":  "1823",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ablah Plazo",
@@ -6883,7 +6883,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1974",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Adiva plazo",
@@ -6894,7 +6894,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1975",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Afaaf plazo",
@@ -6905,7 +6905,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1972",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Afra Tafri",
@@ -6916,7 +6916,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670.625",
         "Stock":  "0",
         "ItemCode":  "3183",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Aida Plazo",
@@ -6927,7 +6927,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1973",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ainaz",
@@ -6938,7 +6938,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "0",
         "ItemCode":  "1598",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Aizaz",
@@ -6949,7 +6949,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "1",
         "ItemCode":  "2687",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Akasa",
@@ -6960,7 +6960,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1335",
         "Stock":  "1",
         "ItemCode":  "1902",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Al Falah",
@@ -6971,7 +6971,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2433",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Al Habibi",
@@ -6982,7 +6982,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1248.75",
         "Stock":  "0",
         "ItemCode":  "1908",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Al Minaah",
@@ -6993,7 +6993,7 @@ const stockData = [
         "Item_SelfVal_Price":  "967.5",
         "Stock":  "0",
         "ItemCode":  "3055",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Al Mizhar",
@@ -7004,7 +7004,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1778",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ALBEELA RAHI",
@@ -7015,7 +7015,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1035",
         "Stock":  "0",
         "ItemCode":  "2298",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Aldeenar",
@@ -7026,7 +7026,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "1666",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Alfiya",
@@ -7037,7 +7037,7 @@ const stockData = [
         "Item_SelfVal_Price":  "650",
         "Stock":  "2",
         "ItemCode":  "3304",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Alice",
@@ -7048,7 +7048,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1299.75",
         "Stock":  "0",
         "ItemCode":  "1356",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC All in one",
@@ -7059,7 +7059,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.5",
         "Stock":  "0",
         "ItemCode":  "2602",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Almas",
@@ -7070,7 +7070,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1087.5",
         "Stock":  "0",
         "ItemCode":  "1898",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ALMIR",
@@ -7081,7 +7081,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2688",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC AlRaso",
@@ -7092,7 +7092,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1074",
         "Stock":  "1",
         "ItemCode":  "2426",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC AMROzIA",
@@ -7103,7 +7103,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "4",
         "ItemCode":  "3615",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ancher",
@@ -7114,7 +7114,7 @@ const stockData = [
         "Item_SelfVal_Price":  "973.5",
         "Stock":  "0",
         "ItemCode":  "1370",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ANGEL BERRY",
@@ -7125,7 +7125,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1280",
         "Stock":  "4",
         "ItemCode":  "3993",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ankhiya Gulabi",
@@ -7136,7 +7136,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1788.75",
         "Stock":  "0",
         "ItemCode":  "2662",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Anusheh",
@@ -7147,7 +7147,7 @@ const stockData = [
         "Item_SelfVal_Price":  "894",
         "Stock":  "0",
         "ItemCode":  "2542",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Arbaaz",
@@ -7158,7 +7158,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.875",
         "Stock":  "0",
         "ItemCode":  "3412",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ARSHIYA",
@@ -7169,7 +7169,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1276.5",
         "Stock":  "0",
         "ItemCode":  "2628",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Arwa Burberry",
@@ -7180,7 +7180,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1672.5",
         "Stock":  "0",
         "ItemCode":  "1611",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ASHQ",
@@ -7191,7 +7191,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1845",
         "Stock":  "0",
         "ItemCode":  "2281",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ateera",
@@ -7202,7 +7202,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1338.75",
         "Stock":  "0",
         "ItemCode":  "1367",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Atoot Rishta",
@@ -7213,7 +7213,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "0",
         "ItemCode":  "2891",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Audi",
@@ -7224,7 +7224,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1383.75",
         "Stock":  "0",
         "ItemCode":  "1883",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Avantika",
@@ -7235,7 +7235,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "1889",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Azari",
@@ -7246,7 +7246,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "2",
         "ItemCode":  "2731",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC AZBAN",
@@ -7257,7 +7257,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1164",
         "Stock":  "0",
         "ItemCode":  "2293",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC AZFAR",
@@ -7268,7 +7268,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1692.75",
         "Stock":  "0",
         "ItemCode":  "2170",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Azizi",
@@ -7279,7 +7279,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1822.5",
         "Stock":  "0",
         "ItemCode":  "2440",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Azmeen",
@@ -7290,7 +7290,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.5",
         "Stock":  "0",
         "ItemCode":  "2430",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Baadshaho",
@@ -7301,7 +7301,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "1",
         "ItemCode":  "1363",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Baby Girl",
@@ -7312,7 +7312,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2484",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Baby Jhon",
@@ -7323,7 +7323,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "3361",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Badal",
@@ -7334,7 +7334,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2100",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Badshah",
@@ -7345,7 +7345,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1362",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BAHEEJA",
@@ -7356,7 +7356,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2569",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Band Baaja",
@@ -7367,7 +7367,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344.375",
         "Stock":  "0",
         "ItemCode":  "3049",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bandagi",
@@ -7378,7 +7378,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2657",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Banjara",
@@ -7389,7 +7389,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "-3",
         "ItemCode":  "2654",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BANJARA HILLS",
@@ -7400,7 +7400,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1690",
         "Stock":  "3",
         "ItemCode":  "4050",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BARZAKH",
@@ -7411,7 +7411,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2332",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Basundi Firdous",
@@ -7422,7 +7422,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "1319",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BEETE LAMHE",
@@ -7433,7 +7433,7 @@ const stockData = [
         "Item_SelfVal_Price":  "570",
         "Stock":  "0",
         "ItemCode":  "3861",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Behnaz",
@@ -7444,7 +7444,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1346.25",
         "Stock":  "0",
         "ItemCode":  "1976",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Behrukh",
@@ -7455,7 +7455,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2545",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bekarar",
@@ -7466,7 +7466,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1333.5",
         "Stock":  "0",
         "ItemCode":  "1415",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Belimaa white suit",
@@ -7477,7 +7477,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1896",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Berries",
@@ -7488,7 +7488,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1335",
         "Stock":  "0",
         "ItemCode":  "1843",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BERRY BRUST",
@@ -7499,7 +7499,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "0",
         "ItemCode":  "3769",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BEST CHOICE",
@@ -7510,7 +7510,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1450",
         "Stock":  "4",
         "ItemCode":  "4055",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BEST NAME",
@@ -7521,7 +7521,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "0",
         "ItemCode":  "3687",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BEST VOICE",
@@ -7532,7 +7532,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1385",
         "Stock":  "4",
         "ItemCode":  "3611",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Best Wishes",
@@ -7543,7 +7543,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "3",
         "ItemCode":  "3727",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bhagam Bhag",
@@ -7554,7 +7554,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1788.75",
         "Stock":  "0",
         "ItemCode":  "2940",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BHEEJA",
@@ -7565,7 +7565,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2571",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bidipta",
@@ -7576,7 +7576,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "1665",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Big screen",
@@ -7587,7 +7587,7 @@ const stockData = [
         "Item_SelfVal_Price":  "715",
         "Stock":  "0",
         "ItemCode":  "3729",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bindiya Chamke",
@@ -7598,7 +7598,7 @@ const stockData = [
         "Item_SelfVal_Price":  "666.75",
         "Stock":  "-1",
         "ItemCode":  "2937",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BIRD SOUND",
@@ -7609,7 +7609,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "0",
         "ItemCode":  "3686",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bit Coin",
@@ -7620,7 +7620,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344.375",
         "Stock":  "0",
         "ItemCode":  "3025",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Black Cherry",
@@ -7631,7 +7631,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1704.375",
         "Stock":  "0",
         "ItemCode":  "3079",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BLACK ICE",
@@ -7642,7 +7642,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2250",
         "Stock":  "0",
         "ItemCode":  "3770",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BlackBerry",
@@ -7653,7 +7653,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2525.625",
         "Stock":  "0",
         "ItemCode":  "3184",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BLINK SWITCH",
@@ -7664,7 +7664,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "3918",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BLOCKBUSTER",
@@ -7675,7 +7675,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1287.75",
         "Stock":  "4",
         "ItemCode":  "2826",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Blue Bell",
@@ -7686,7 +7686,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2362.5",
         "Stock":  "0",
         "ItemCode":  "2882",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Blue City",
@@ -7697,7 +7697,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1068.75",
         "Stock":  "0",
         "ItemCode":  "3162",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Blue Whale",
@@ -7708,7 +7708,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1300",
         "Stock":  "-1",
         "ItemCode":  "3710",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bolero",
@@ -7719,7 +7719,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "0",
         "ItemCode":  "3176",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BREEZE SIP",
@@ -7730,7 +7730,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1070",
         "Stock":  "0",
         "ItemCode":  "3970",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BRIDAL DRESS",
@@ -7741,7 +7741,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2250",
         "Stock":  "4",
         "ItemCode":  "4030",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bridal Queen",
@@ -7752,7 +7752,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "1",
         "ItemCode":  "2497",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BRIGHT FLOWER",
@@ -7763,7 +7763,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1580",
         "Stock":  "3",
         "ItemCode":  "3990",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BRILLIANT (W PURSE)",
@@ -7774,7 +7774,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2150",
         "Stock":  "3",
         "ItemCode":  "3690",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BROWN BREAD",
@@ -7785,7 +7785,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1815",
         "Stock":  "4",
         "ItemCode":  "3919",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Bulandiya",
@@ -7796,7 +7796,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1681.875",
         "Stock":  "4",
         "ItemCode":  "3030",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC BULLET TRAIN",
@@ -7807,7 +7807,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2330",
         "Stock":  "4",
         "ItemCode":  "4051",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CAFE DILWALE",
@@ -7818,7 +7818,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1160",
         "Stock":  "4",
         "ItemCode":  "3984",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Candy Bite",
@@ -7829,7 +7829,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "3163",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CANDY HEART",
@@ -7840,7 +7840,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "4",
         "ItemCode":  "4065",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CASA CRAFT",
@@ -7851,7 +7851,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1750",
         "Stock":  "-1",
         "ItemCode":  "3894",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Cello",
@@ -7862,7 +7862,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1301.25",
         "Stock":  "0",
         "ItemCode":  "1803",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chahatein",
@@ -7873,7 +7873,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1260",
         "Stock":  "0",
         "ItemCode":  "2601",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chaiya Chaiya",
@@ -7884,7 +7884,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2013.75",
         "Stock":  "2",
         "ItemCode":  "3002",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Champions",
@@ -7895,7 +7895,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1726.875",
         "Stock":  "0",
         "ItemCode":  "3034",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CHANCHAL",
@@ -7906,7 +7906,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1181.25",
         "Stock":  "0",
         "ItemCode":  "1841",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chand",
@@ -7917,7 +7917,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1098.75",
         "Stock":  "0",
         "ItemCode":  "1916",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chand ka Tukda",
@@ -7928,7 +7928,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "1",
         "ItemCode":  "3032",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CHEESECAKE",
@@ -7939,7 +7939,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2165.25",
         "Stock":  "0",
         "ItemCode":  "2843",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chennai express",
@@ -7950,7 +7950,7 @@ const stockData = [
         "Item_SelfVal_Price":  "832.5",
         "Stock":  "0",
         "ItemCode":  "1915",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CHERRY MERRY",
@@ -7961,7 +7961,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1450",
         "Stock":  "4",
         "ItemCode":  "4054",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Chill Beat",
@@ -7972,7 +7972,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1465",
         "Stock":  "4",
         "ItemCode":  "3912",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CHILL BERRY",
@@ -7983,7 +7983,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "3",
         "ItemCode":  "3767",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CHILL UP",
@@ -7994,7 +7994,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1650",
         "Stock":  "4",
         "ItemCode":  "3846",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Choco Cream",
@@ -8005,7 +8005,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1704.375",
         "Stock":  "1",
         "ItemCode":  "3077",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chunnari Chamke",
@@ -8016,7 +8016,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "7",
         "ItemCode":  "3775",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Chutney Shambhar",
@@ -8027,7 +8027,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1850",
         "Stock":  "0",
         "ItemCode":  "3409",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CLASSIC MUSIC",
@@ -8038,7 +8038,7 @@ const stockData = [
         "Item_SelfVal_Price":  "570",
         "Stock":  "3",
         "ItemCode":  "3859",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Cock Studio",
@@ -8049,7 +8049,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "1884",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COCKTAIL PARTY",
@@ -8060,7 +8060,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "0",
         "ItemCode":  "2836",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COFEE COOL",
@@ -8071,7 +8071,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3873",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Comedy Circle",
@@ -8082,7 +8082,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "4",
         "ItemCode":  "3776",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COOKIE CRAZE",
@@ -8093,7 +8093,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "3",
         "ItemCode":  "3795",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Cookies",
@@ -8104,7 +8104,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1395",
         "Stock":  "0",
         "ItemCode":  "3026",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COOL BREEZE",
@@ -8115,7 +8115,7 @@ const stockData = [
         "Item_SelfVal_Price":  "825",
         "Stock":  "4",
         "ItemCode":  "3943",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COOLE BERY",
@@ -8126,7 +8126,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1270",
         "Stock":  "4",
         "ItemCode":  "3991",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COOLE CAFE",
@@ -8137,7 +8137,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "5",
         "ItemCode":  "3682",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Coolie",
@@ -8148,7 +8148,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490",
         "Stock":  "4",
         "ItemCode":  "3680",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Cooling Chilled",
@@ -8159,7 +8159,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1750",
         "Stock":  "4",
         "ItemCode":  "3723",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC COOLZEN",
@@ -8170,7 +8170,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1935",
         "Stock":  "2",
         "ItemCode":  "3893",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc cornetto",
@@ -8181,7 +8181,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2000",
         "Stock":  "-1",
         "ItemCode":  "3384",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Costa Waterfall",
@@ -8192,7 +8192,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "3",
         "ItemCode":  "3721",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CREMONA",
@@ -8203,7 +8203,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1435",
         "Stock":  "4",
         "ItemCode":  "4001",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Creta",
@@ -8214,7 +8214,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "4",
         "ItemCode":  "3177",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC CRYSTILE BREEZE",
@@ -8225,7 +8225,7 @@ const stockData = [
         "Item_SelfVal_Price":  "800",
         "Stock":  "4",
         "ItemCode":  "3844",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Daawat e ishq",
@@ -8236,7 +8236,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2551",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DAIJAAN",
@@ -8247,7 +8247,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "3",
         "ItemCode":  "3965",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DALCHINI",
@@ -8258,7 +8258,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1479",
         "Stock":  "0",
         "ItemCode":  "2279",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dashing",
@@ -8269,7 +8269,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2050",
         "Stock":  "0",
         "ItemCode":  "3408",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Deewanapan",
@@ -8280,7 +8280,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119",
         "Stock":  "0",
         "ItemCode":  "2182",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DESI DABANGG",
@@ -8291,7 +8291,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1470",
         "Stock":  "4",
         "ItemCode":  "3995",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DESI LOOK",
@@ -8302,7 +8302,7 @@ const stockData = [
         "Item_SelfVal_Price":  "866.25",
         "Stock":  "0",
         "ItemCode":  "2838",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DESI RANGREZ",
@@ -8313,7 +8313,7 @@ const stockData = [
         "Item_SelfVal_Price":  "860",
         "Stock":  "4",
         "ItemCode":  "4008",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dhak Dhak",
@@ -8324,7 +8324,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1215",
         "Stock":  "0",
         "ItemCode":  "1324",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DHANA DHAN",
@@ -8335,7 +8335,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.25",
         "Stock":  "0",
         "ItemCode":  "1249",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DHOL NAGADE",
@@ -8346,7 +8346,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "4",
         "ItemCode":  "2676",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dhoom Machale",
@@ -8357,7 +8357,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2345.625",
         "Stock":  "0",
         "ItemCode":  "2982",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DIGITAL LOOK",
@@ -8368,7 +8368,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1220",
         "Stock":  "0",
         "ItemCode":  "3968",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dil Befikre",
@@ -8379,7 +8379,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2430",
         "Stock":  "0",
         "ItemCode":  "3033",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DIL DHADAKNE DO",
@@ -8390,7 +8390,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "2",
         "ItemCode":  "2837",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dil Diwana",
@@ -8401,7 +8401,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1515",
         "Stock":  "0",
         "ItemCode":  "1893",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dil e Dastoor",
@@ -8412,7 +8412,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1608.75",
         "Stock":  "0",
         "ItemCode":  "2549",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DIL E GULZAR",
@@ -8423,7 +8423,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1600",
         "Stock":  "1",
         "ItemCode":  "2552",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DIL JANIYA",
@@ -8434,7 +8434,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2725",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DIL KE ISHARE",
@@ -8445,7 +8445,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344",
         "Stock":  "1",
         "ItemCode":  "2824",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dil ki Khwahish",
@@ -8456,7 +8456,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.25",
         "Stock":  "0",
         "ItemCode":  "2655",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DILARA",
@@ -8467,7 +8467,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2787",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dilawar",
@@ -8478,7 +8478,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1548.75",
         "Stock":  "0",
         "ItemCode":  "1825",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dilchaspi",
@@ -8489,7 +8489,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1125",
         "Stock":  "0",
         "ItemCode":  "2364",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dilwar",
@@ -8500,7 +8500,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1548.75",
         "Stock":  "0",
         "ItemCode":  "1824",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Display",
@@ -8511,7 +8511,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "2",
         "ItemCode":  "3823",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dollars",
@@ -8522,7 +8522,7 @@ const stockData = [
         "Item_SelfVal_Price":  "873.75",
         "Stock":  "0",
         "ItemCode":  "1914",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Dolphin",
@@ -8533,7 +8533,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "0",
         "ItemCode":  "3709",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DOLPHINE",
@@ -8544,7 +8544,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.25",
         "Stock":  "0",
         "ItemCode":  "2117",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Dosti Fm",
@@ -8555,7 +8555,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2300",
         "Stock":  "3",
         "ItemCode":  "3910",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dosti Yaari",
@@ -8566,7 +8566,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "1",
         "ItemCode":  "2980",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dosti Yari",
@@ -8577,7 +8577,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "0",
         "ItemCode":  "3180",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Dulari",
@@ -8588,7 +8588,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1290",
         "Stock":  "0",
         "ItemCode":  "1534",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC DUR E FISHAN",
@@ -8599,7 +8599,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2335",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Duracell",
@@ -8610,7 +8610,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1267.5",
         "Stock":  "4",
         "ItemCode":  "1804",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Eimaan",
@@ -8621,7 +8621,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1275",
         "Stock":  "0",
         "ItemCode":  "1906",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ek Taara",
@@ -8632,7 +8632,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1141.5",
         "Stock":  "0",
         "ItemCode":  "2663",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Election",
@@ -8643,7 +8643,7 @@ const stockData = [
         "Item_SelfVal_Price":  "915",
         "Stock":  "0",
         "ItemCode":  "1928",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Emoji",
@@ -8654,7 +8654,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "3717",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Enfield",
@@ -8665,7 +8665,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119.375",
         "Stock":  "0",
         "ItemCode":  "3160",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Eva Belen",
@@ -8676,7 +8676,7 @@ const stockData = [
         "Item_SelfVal_Price":  "858.75",
         "Stock":  "0",
         "ItemCode":  "1412",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Eva Rehu",
@@ -8687,7 +8687,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2091",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Evening",
@@ -8698,7 +8698,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1387.5",
         "Stock":  "0",
         "ItemCode":  "1769",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Everyday",
@@ -8709,7 +8709,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1301.25",
         "Stock":  "0",
         "ItemCode":  "1802",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Faabis",
@@ -8720,7 +8720,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2227.5",
         "Stock":  "0",
         "ItemCode":  "1601",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Faaiz",
@@ -8731,7 +8731,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "0",
         "ItemCode":  "1887",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fabis",
@@ -8742,7 +8742,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2306.25",
         "Stock":  "0",
         "ItemCode":  "1705",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Face Time",
@@ -8753,7 +8753,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2622",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FACETIME",
@@ -8764,7 +8764,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2829",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fahar",
@@ -8775,7 +8775,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1524",
         "Stock":  "2",
         "ItemCode":  "2421",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FALISHA",
@@ -8786,7 +8786,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1479",
         "Stock":  "0",
         "ItemCode":  "2278",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FARIDA",
@@ -8797,7 +8797,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "4",
         "ItemCode":  "2409",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FARIS",
@@ -8808,7 +8808,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2290",
         "Stock":  "6",
         "ItemCode":  "3689",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Farmaish",
@@ -8819,7 +8819,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1141.5",
         "Stock":  "0",
         "ItemCode":  "2664",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Farrey",
@@ -8830,7 +8830,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1215",
         "Stock":  "0",
         "ItemCode":  "1325",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FARZAM",
@@ -8841,7 +8841,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344",
         "Stock":  "3",
         "ItemCode":  "2712",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Farzanab",
@@ -8852,7 +8852,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2547",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FASHION ROCK",
@@ -8863,7 +8863,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670",
         "Stock":  "2",
         "ItemCode":  "3992",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Favourite",
@@ -8874,7 +8874,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2075.625",
         "Stock":  "0",
         "ItemCode":  "3349",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fawwaz",
@@ -8885,7 +8885,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2336",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fazail",
@@ -8896,7 +8896,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1492.5",
         "Stock":  "0",
         "ItemCode":  "2363",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ferika",
@@ -8907,7 +8907,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "1353",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Feriya",
@@ -8918,7 +8918,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1563.75",
         "Stock":  "0",
         "ItemCode":  "1780",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fidaa Tujhpe",
@@ -8929,7 +8929,7 @@ const stockData = [
         "Item_SelfVal_Price":  "916.5",
         "Stock":  "0",
         "ItemCode":  "2592",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FIRE BOULT",
@@ -8940,7 +8940,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1355.625",
         "Stock":  "4",
         "ItemCode":  "2805",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fire Fighter",
@@ -8951,7 +8951,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "0",
         "ItemCode":  "3708",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Firooz",
@@ -8962,7 +8962,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1605",
         "Stock":  "0",
         "ItemCode":  "1781",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC firoz",
@@ -8973,7 +8973,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1605",
         "Stock":  "0",
         "ItemCode":  "1773",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FIRST CHOICE",
@@ -8984,7 +8984,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2707",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FLAME BERRY",
@@ -8995,7 +8995,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3960",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FLAMINGO",
@@ -9006,7 +9006,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3849",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Flower Bucket",
@@ -9017,7 +9017,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "2",
         "ItemCode":  "2411",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FOIL BALL",
@@ -9028,7 +9028,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "1",
         "ItemCode":  "3735",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FREE START",
@@ -9039,7 +9039,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1700",
         "Stock":  "2",
         "ItemCode":  "4053",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FULL EPISODE",
@@ -9050,7 +9050,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1250",
         "Stock":  "8",
         "ItemCode":  "3610",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Fulzar",
@@ -9061,7 +9061,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "1368",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC FUN BEGINS",
@@ -9072,7 +9072,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "1",
         "ItemCode":  "2833",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Fun World",
@@ -9083,7 +9083,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "3726",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Funny Jokes",
@@ -9094,7 +9094,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1833.75",
         "Stock":  "0",
         "ItemCode":  "2944",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Funny Moments",
@@ -9105,7 +9105,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2000",
         "Stock":  "-1",
         "ItemCode":  "3386",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Gamila",
@@ -9116,7 +9116,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "1619",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Gazir",
@@ -9127,7 +9127,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1743.75",
         "Stock":  "0",
         "ItemCode":  "2480",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GEMINI",
@@ -9138,7 +9138,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "4",
         "ItemCode":  "3614",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Genda Fool",
@@ -9149,7 +9149,7 @@ const stockData = [
         "Item_SelfVal_Price":  "666.75",
         "Stock":  "0",
         "ItemCode":  "2647",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Genelia",
@@ -9160,7 +9160,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1209.75",
         "Stock":  "0",
         "ItemCode":  "1217",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GLOBE",
@@ -9171,7 +9171,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.25",
         "Stock":  "0",
         "ItemCode":  "2123",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GLOSSY GRACE",
@@ -9182,7 +9182,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1325",
         "Stock":  "4",
         "ItemCode":  "3957",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GOLDEN CUP",
@@ -9193,7 +9193,7 @@ const stockData = [
         "Item_SelfVal_Price":  "740",
         "Stock":  "0",
         "ItemCode":  "3837",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Golden Gate",
@@ -9204,7 +9204,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "0",
         "ItemCode":  "3716",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GOLDEN VOICE",
@@ -9215,7 +9215,7 @@ const stockData = [
         "Item_SelfVal_Price":  "850",
         "Stock":  "4",
         "ItemCode":  "3945",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Good Luck",
@@ -9226,7 +9226,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.38",
         "Stock":  "7",
         "ItemCode":  "3338",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GORA MUKHDA",
@@ -9237,7 +9237,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1276.5",
         "Stock":  "0",
         "ItemCode":  "2839",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GRACEFULL",
@@ -9248,7 +9248,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1100",
         "Stock":  "3",
         "ItemCode":  "3852",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Grand Walk",
@@ -9259,7 +9259,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "1",
         "ItemCode":  "3821",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GUL BAHAR",
@@ -9270,7 +9270,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1035",
         "Stock":  "0",
         "ItemCode":  "2294",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Gulab E Nawabi",
@@ -9281,7 +9281,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "3",
         "ItemCode":  "3800",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GULSANA",
@@ -9292,7 +9292,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1675",
         "Stock":  "3",
         "ItemCode":  "4005",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Gumnam",
@@ -9303,7 +9303,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "0",
         "ItemCode":  "2494",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Gurbaz",
@@ -9314,7 +9314,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1414",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Gurnazar",
@@ -9325,7 +9325,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1300",
         "Stock":  "1",
         "ItemCode":  "2895",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC GUZARISH",
@@ -9336,7 +9336,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1535.25",
         "Stock":  "0",
         "ItemCode":  "2280",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HAJRAH",
@@ -9347,7 +9347,7 @@ const stockData = [
         "Item_SelfVal_Price":  "657.75",
         "Stock":  "-2",
         "ItemCode":  "2145",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hamdard",
@@ -9358,7 +9358,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1676.25",
         "Stock":  "0",
         "ItemCode":  "2203",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hamish",
@@ -9369,7 +9369,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1108.125",
         "Stock":  "0",
         "ItemCode":  "3044",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HAPPY CONE",
@@ -9380,7 +9380,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1640",
         "Stock":  "2",
         "ItemCode":  "3842",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HAPPY LIFE",
@@ -9391,7 +9391,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3958",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HAPPY POINT",
@@ -9402,7 +9402,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2100",
         "Stock":  "4",
         "ItemCode":  "4071",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Harlyn",
@@ -9413,7 +9413,7 @@ const stockData = [
         "Item_SelfVal_Price":  "952.5",
         "Stock":  "0",
         "ItemCode":  "1621",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Harry Potter",
@@ -9424,7 +9424,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "0",
         "ItemCode":  "3237",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC hasiba",
@@ -9435,7 +9435,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1605",
         "Stock":  "0",
         "ItemCode":  "1772",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hasina-e-Jahan",
@@ -9446,7 +9446,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1676.25",
         "Stock":  "0",
         "ItemCode":  "2202",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hats Off",
@@ -9457,7 +9457,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.38",
         "Stock":  "8",
         "ItemCode":  "3344",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Haule Haule",
@@ -9468,7 +9468,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2632.5",
         "Stock":  "0",
         "ItemCode":  "2979",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HAWAIN",
@@ -9479,7 +9479,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1215",
         "Stock":  "0",
         "ItemCode":  "2292",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hazim",
@@ -9490,7 +9490,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2169",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Heart Beat",
@@ -9501,7 +9501,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1676.25",
         "Stock":  "0",
         "ItemCode":  "3001",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Heena",
@@ -9512,7 +9512,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1383.75",
         "Stock":  "0",
         "ItemCode":  "3179",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hero Hindustani",
@@ -9523,7 +9523,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2418.75",
         "Stock":  "1",
         "ItemCode":  "3046",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hidaya",
@@ -9534,7 +9534,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119",
         "Stock":  "4",
         "ItemCode":  "2427",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc High Power",
@@ -9545,7 +9545,7 @@ const stockData = [
         "Item_SelfVal_Price":  "715",
         "Stock":  "2",
         "ItemCode":  "3728",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc High Speed",
@@ -9556,7 +9556,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "0",
         "ItemCode":  "3822",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hirika",
@@ -9567,7 +9567,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "1357",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hollywood Hungama",
@@ -9578,7 +9578,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2235",
         "Stock":  "0",
         "ItemCode":  "1970",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hollywood style",
@@ -9589,7 +9589,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2238.75",
         "Stock":  "0",
         "ItemCode":  "1602",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hooriya",
@@ -9600,7 +9600,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "2732",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HUBOOR",
@@ -9611,7 +9611,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "3609",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Humdum",
@@ -9622,7 +9622,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1141.5",
         "Stock":  "0",
         "ItemCode":  "2618",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hungama",
@@ -9633,7 +9633,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2238.75",
         "Stock":  "0",
         "ItemCode":  "1603",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HUNTER",
@@ -9644,7 +9644,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "4",
         "ItemCode":  "3685",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Husn Pari",
@@ -9655,7 +9655,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2216.25",
         "Stock":  "0",
         "ItemCode":  "2520",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Husna",
@@ -9666,7 +9666,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1368.75",
         "Stock":  "0",
         "ItemCode":  "1618",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Hussna",
@@ -9677,7 +9677,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1368.75",
         "Stock":  "0",
         "ItemCode":  "1617",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HUZAIRA",
@@ -9688,7 +9688,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.5",
         "Stock":  "0",
         "ItemCode":  "2822",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC HYBRID",
@@ -9699,7 +9699,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1000",
         "Stock":  "0",
         "ItemCode":  "3656",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ibrar",
@@ -9710,7 +9710,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1743.75",
         "Stock":  "0",
         "ItemCode":  "2479",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ICON WEAR",
@@ -9721,7 +9721,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1180",
         "Stock":  "4",
         "ItemCode":  "3848",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC IMAGICA",
@@ -9732,7 +9732,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.25",
         "Stock":  "0",
         "ItemCode":  "2115",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Imroz",
@@ -9743,7 +9743,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "2544",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Indori Bhel",
@@ -9754,7 +9754,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1096.875",
         "Stock":  "0",
         "ItemCode":  "3159",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ishq Deewangi",
@@ -9765,7 +9765,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2656",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ISHQ DI BAAJIYAN",
@@ -9776,7 +9776,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2723",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Ishq Express",
@@ -9787,7 +9787,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1300",
         "Stock":  "1",
         "ItemCode":  "3555",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ishq Junoon",
@@ -9798,7 +9798,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1276.5",
         "Stock":  "4",
         "ItemCode":  "2894",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ISHQ KHUDA",
@@ -9809,7 +9809,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1035",
         "Stock":  "0",
         "ItemCode":  "2299",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ISHQ MEETHA",
@@ -9820,7 +9820,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "2821",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ishq Vishq",
@@ -9831,7 +9831,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.5",
         "Stock":  "0",
         "ItemCode":  "2946",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ISHQ WAFA",
@@ -9842,7 +9842,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1230",
         "Stock":  "0",
         "ItemCode":  "3972",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Istabraq",
@@ -9853,7 +9853,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1387.5",
         "Stock":  "0",
         "ItemCode":  "2361",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Jaadugar",
@@ -9864,7 +9864,7 @@ const stockData = [
         "Item_SelfVal_Price":  "400",
         "Stock":  "10",
         "ItemCode":  "3698",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC jaafar",
@@ -9875,7 +9875,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "0",
         "ItemCode":  "1886",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Jaam Mix Suit (72x2p)",
@@ -9886,7 +9886,7 @@ const stockData = [
         "Item_SelfVal_Price":  "557.25",
         "Stock":  "0",
         "ItemCode":  "1250",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC JAANE JANA",
@@ -9897,7 +9897,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1750",
         "Stock":  "4",
         "ItemCode":  "2743",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Jaane man",
@@ -9908,7 +9908,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1335",
         "Stock":  "0",
         "ItemCode":  "1885",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Jazari",
@@ -9919,7 +9919,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1323.75",
         "Stock":  "1",
         "ItemCode":  "2367",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC JAZIYA",
@@ -9930,7 +9930,7 @@ const stockData = [
         "Item_SelfVal_Price":  "832.5",
         "Stock":  "0",
         "ItemCode":  "2114",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Jhalak Asherfi",
@@ -9941,7 +9941,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "2594",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC JHALAK DIKHLAJA",
@@ -9952,7 +9952,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759.375",
         "Stock":  "0",
         "ItemCode":  "2798",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC JITNI DAFA",
@@ -9963,7 +9963,7 @@ const stockData = [
         "Item_SelfVal_Price":  "570",
         "Stock":  "4",
         "ItemCode":  "3860",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC JIZAAN",
@@ -9974,7 +9974,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2418.75",
         "Stock":  "1",
         "ItemCode":  "2738",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Jodha Akbar",
@@ -9985,7 +9985,7 @@ const stockData = [
         "Item_SelfVal_Price":  "715",
         "Stock":  "1",
         "ItemCode":  "3730",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC JORDAAR JODI",
@@ -9996,7 +9996,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "3",
         "ItemCode":  "2834",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Juhu Beach",
@@ -10007,7 +10007,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.625",
         "Stock":  "0",
         "ItemCode":  "3407",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KAHANI SUNO",
@@ -10018,7 +10018,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "2",
         "ItemCode":  "2801",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KAJU KISHMISH",
@@ -10029,7 +10029,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "3592",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kaju Paneer",
@@ -10040,7 +10040,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1181.25",
         "Stock":  "0",
         "ItemCode":  "3164",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kalakand",
@@ -10051,7 +10051,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1417.5",
         "Stock":  "0",
         "ItemCode":  "3024",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KALEEREIN",
@@ -10062,7 +10062,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119",
         "Stock":  "0",
         "ItemCode":  "2719",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KALI ZULFEIN",
@@ -10073,7 +10073,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1800",
         "Stock":  "1",
         "ItemCode":  "2786",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kashfa",
@@ -10084,7 +10084,7 @@ const stockData = [
         "Item_SelfVal_Price":  "973.5",
         "Stock":  "1",
         "ItemCode":  "1364",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kastiyan",
@@ -10095,7 +10095,7 @@ const stockData = [
         "Item_SelfVal_Price":  "666.75",
         "Stock":  "0",
         "ItemCode":  "2652",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kayan",
@@ -10106,7 +10106,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.5",
         "Stock":  "0",
         "ItemCode":  "2422",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kenzo",
@@ -10117,7 +10117,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1312.5",
         "Stock":  "0",
         "ItemCode":  "1600",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Khakra",
@@ -10128,7 +10128,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2156.25",
         "Stock":  "0",
         "ItemCode":  "1963",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KHUSHIYAN TERI",
@@ -10139,7 +10139,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2710",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KHWAB SARAYE",
@@ -10150,7 +10150,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1845",
         "Stock":  "0",
         "ItemCode":  "2282",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Khwabdeeda",
@@ -10161,7 +10161,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2291.25",
         "Stock":  "0",
         "ItemCode":  "2370",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KHWABEEDA",
@@ -10172,7 +10172,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2277.75",
         "Stock":  "0",
         "ItemCode":  "2678",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kimaya",
@@ -10183,7 +10183,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2064.38",
         "Stock":  "0",
         "ItemCode":  "3350",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC KINNA SONA",
@@ -10194,7 +10194,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2722",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kirtan",
@@ -10205,7 +10205,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2216.25",
         "Stock":  "0",
         "ItemCode":  "1912",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kitna Haseen",
@@ -10216,7 +10216,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2013.75",
         "Stock":  "0",
         "ItemCode":  "2942",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Koka",
@@ -10227,7 +10227,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1248.75",
         "Stock":  "0",
         "ItemCode":  "2179",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Kubera",
@@ -10238,7 +10238,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "4",
         "ItemCode":  "3718",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Kulfreeze",
@@ -10249,7 +10249,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1702",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Lady Special",
@@ -10260,7 +10260,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2483",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC LAGDI LAHORI",
@@ -10271,7 +10271,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1479",
         "Stock":  "4",
         "ItemCode":  "2828",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Lamets",
@@ -10282,7 +10282,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1181.25",
         "Stock":  "0",
         "ItemCode":  "1904",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Lariqa",
@@ -10293,7 +10293,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "0",
         "ItemCode":  "2432",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Lazzat",
@@ -10304,7 +10304,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "2360",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Light Up",
@@ -10315,7 +10315,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2154.375",
         "Stock":  "0",
         "ItemCode":  "3418",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Likely",
@@ -10326,7 +10326,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "3",
         "ItemCode":  "2650",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Lime Juice",
@@ -10337,7 +10337,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1728.75",
         "Stock":  "0",
         "ItemCode":  "1858",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC LOADED NACHOS",
@@ -10348,7 +10348,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1000",
         "Stock":  "4",
         "ItemCode":  "3855",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC LONG DRIVE",
@@ -10359,7 +10359,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1800",
         "Stock":  "0",
         "ItemCode":  "2785",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Lotus",
@@ -10370,7 +10370,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "1",
         "ItemCode":  "3396",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Love Mashup",
@@ -10381,7 +10381,7 @@ const stockData = [
         "Item_SelfVal_Price":  "927.75",
         "Stock":  "0",
         "ItemCode":  "2952",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Lubena",
@@ -10392,7 +10392,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "1903",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MADRAS CAFE",
@@ -10403,7 +10403,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2150",
         "Stock":  "3",
         "ItemCode":  "3838",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Maestro",
@@ -10414,7 +10414,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "3174",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Magical",
@@ -10425,7 +10425,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2075.625",
         "Stock":  "0",
         "ItemCode":  "3300",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mahala",
@@ -10436,7 +10436,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "1900",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mahira",
@@ -10447,7 +10447,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "1890",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MAHIYAA",
@@ -10458,7 +10458,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1260",
         "Stock":  "0",
         "ItemCode":  "2619",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MAIN LADAVA",
@@ -10469,7 +10469,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344",
         "Stock":  "0",
         "ItemCode":  "2825",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mainu Mileya",
@@ -10480,7 +10480,7 @@ const stockData = [
         "Item_SelfVal_Price":  "916.5",
         "Stock":  "0",
         "ItemCode":  "2603",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MALAK",
@@ -10491,7 +10491,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.25",
         "Stock":  "0",
         "ItemCode":  "2116",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Malamaal Weekly",
@@ -10502,7 +10502,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1046.25",
         "Stock":  "0",
         "ItemCode":  "3181",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Malaya",
@@ -10513,7 +10513,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1368.75",
         "Stock":  "0",
         "ItemCode":  "1613",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MAN JOGIYA",
@@ -10524,7 +10524,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2724",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mango Dolly",
@@ -10535,7 +10535,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "3053",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MANGO MASTANI",
@@ -10546,7 +10546,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1000",
         "Stock":  "4",
         "ItemCode":  "3851",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mannar",
@@ -10557,7 +10557,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1316.25",
         "Stock":  "0",
         "ItemCode":  "1360",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MANNARA",
@@ -10568,7 +10568,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2709",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mansoor",
@@ -10579,7 +10579,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1428.75",
         "Stock":  "0",
         "ItemCode":  "2548",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MANWA LAGE",
@@ -10590,7 +10590,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "2",
         "ItemCode":  "3630",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Manwar",
@@ -10601,7 +10601,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1316.25",
         "Stock":  "0",
         "ItemCode":  "1361",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Marathon",
@@ -10612,7 +10612,7 @@ const stockData = [
         "Item_SelfVal_Price":  "873.75",
         "Stock":  "0",
         "ItemCode":  "1913",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MAREEZ E ISHQ",
@@ -10623,7 +10623,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "0",
         "ItemCode":  "2740",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Martial",
@@ -10634,7 +10634,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1192.5",
         "Stock":  "0",
         "ItemCode":  "1905",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MARTON",
@@ -10645,7 +10645,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2175",
         "Stock":  "4",
         "ItemCode":  "3999",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MASALA FRIES",
@@ -10656,7 +10656,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490",
         "Stock":  "0",
         "ItemCode":  "3681",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mashq",
@@ -10667,7 +10667,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2546",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Mast Toli",
@@ -10678,7 +10678,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1700",
         "Stock":  "0",
         "ItemCode":  "3812",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Mastana Dil",
@@ -10689,7 +10689,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1600",
         "Stock":  "3",
         "ItemCode":  "3757",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Master Piece",
@@ -10700,7 +10700,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1715.625",
         "Stock":  "0",
         "ItemCode":  "3217",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MASTI KA TADKA",
@@ -10711,7 +10711,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1625",
         "Stock":  "2",
         "ItemCode":  "4011",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MASTI RIDE",
@@ -10722,7 +10722,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2220",
         "Stock":  "4",
         "ItemCode":  "3987",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MAUSAM MAGIC",
@@ -10733,7 +10733,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1430",
         "Stock":  "3",
         "ItemCode":  "4010",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mayyan",
@@ -10744,7 +10744,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1477",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mazin",
@@ -10755,7 +10755,7 @@ const stockData = [
         "Item_SelfVal_Price":  "916.5",
         "Stock":  "1",
         "ItemCode":  "2541",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MAZNEEN",
@@ -10766,7 +10766,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344",
         "Stock":  "0",
         "ItemCode":  "2708",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MEGA STAR",
@@ -10777,7 +10777,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1355.62",
         "Stock":  "4",
         "ItemCode":  "2806",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MEHKA DIL",
@@ -10788,7 +10788,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2240",
         "Stock":  "0",
         "ItemCode":  "4029",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MEHRANG",
@@ -10799,7 +10799,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2418.75",
         "Stock":  "0",
         "ItemCode":  "2739",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MEHRNAAZ",
@@ -10810,7 +10810,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670.25",
         "Stock":  "0",
         "ItemCode":  "2550",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MELODY MIX",
@@ -10821,7 +10821,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1450",
         "Stock":  "4",
         "ItemCode":  "3914",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC mention",
@@ -10832,7 +10832,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "0",
         "ItemCode":  "1771",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MERI HEERIYE",
@@ -10843,7 +10843,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "2",
         "ItemCode":  "2745",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mihar",
@@ -10854,7 +10854,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1775",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MIHRAN",
@@ -10865,7 +10865,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.25",
         "Stock":  "3",
         "ItemCode":  "2714",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MILKY WAY",
@@ -10876,7 +10876,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "4",
         "ItemCode":  "3872",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Milkybar",
@@ -10887,7 +10887,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1125",
         "Stock":  "0",
         "ItemCode":  "1865",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Miller",
@@ -10898,7 +10898,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "1413",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MINT TWIST",
@@ -10909,7 +10909,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "3",
         "ItemCode":  "3766",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MINTY WAVE",
@@ -10920,7 +10920,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1125",
         "Stock":  "4",
         "ItemCode":  "4000",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Mirror Magic",
@@ -10931,7 +10931,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "0",
         "ItemCode":  "3820",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MISS UNIVERSE",
@@ -10942,7 +10942,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "4",
         "ItemCode":  "3684",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Missam",
@@ -10953,7 +10953,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670.25",
         "Stock":  "0",
         "ItemCode":  "2443",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MITHAI",
@@ -10964,7 +10964,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2717",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mitwa",
@@ -10975,7 +10975,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1478",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mizhgan",
@@ -10986,7 +10986,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1717.5",
         "Stock":  "0",
         "ItemCode":  "2365",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mohra",
@@ -10997,7 +10997,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1951.875",
         "Stock":  "0",
         "ItemCode":  "3305",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MOIVE OFFER",
@@ -11008,7 +11008,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1625",
         "Stock":  "4",
         "ItemCode":  "4009",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Momos",
@@ -11019,7 +11019,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1260",
         "Stock":  "0",
         "ItemCode":  "1911",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Monera",
@@ -11030,7 +11030,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "2366",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MONSOON VALLEY",
@@ -11041,7 +11041,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1450",
         "Stock":  "4",
         "ItemCode":  "3941",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MUBASHERA",
@@ -11052,7 +11052,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1428.75",
         "Stock":  "0",
         "ItemCode":  "2644",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mufaza",
@@ -11063,7 +11063,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1726.875",
         "Stock":  "0",
         "ItemCode":  "3216",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Muhsin",
@@ -11074,7 +11074,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "1",
         "ItemCode":  "2171",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MUMBAI SAGA",
@@ -11085,7 +11085,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2150",
         "Stock":  "0",
         "ItemCode":  "3612",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MUQABIL",
@@ -11096,7 +11096,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1215",
         "Stock":  "0",
         "ItemCode":  "2296",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mushaira",
@@ -11107,7 +11107,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1265.625",
         "Stock":  "0",
         "ItemCode":  "3182",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MUSHEER",
@@ -11118,7 +11118,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "2172",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC MUSIC MASTI",
@@ -11129,7 +11129,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2200",
         "Stock":  "2",
         "ItemCode":  "3613",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Musical Chair",
@@ -11140,7 +11140,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1827.75",
         "Stock":  "0",
         "ItemCode":  "2574",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Muzahira",
@@ -11151,7 +11151,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "0",
         "ItemCode":  "2493",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Myreen",
@@ -11162,7 +11162,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.5",
         "Stock":  "4",
         "ItemCode":  "2423",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Mysore Masala",
@@ -11173,7 +11173,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2156.25",
         "Stock":  "0",
         "ItemCode":  "1967",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NAAZO",
@@ -11184,7 +11184,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2531.25",
         "Stock":  "0",
         "ItemCode":  "2611",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NAIN LADAVA",
@@ -11195,7 +11195,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344",
         "Stock":  "2",
         "ItemCode":  "2830",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Nain Matakka",
@@ -11206,7 +11206,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2362.5",
         "Stock":  "0",
         "ItemCode":  "2605",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NAKHRE TERE",
@@ -11217,7 +11217,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1771.875",
         "Stock":  "0",
         "ItemCode":  "2799",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NAZARA",
@@ -11228,7 +11228,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1425",
         "Stock":  "6",
         "ItemCode":  "3683",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Nazimi",
@@ -11239,7 +11239,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "4",
         "ItemCode":  "2434",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NAZUK",
@@ -11250,7 +11250,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1479",
         "Stock":  "0",
         "ItemCode":  "2277",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC News paper",
@@ -11261,7 +11261,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1267.5",
         "Stock":  "0",
         "ItemCode":  "1827",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Next Level",
@@ -11272,7 +11272,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "6",
         "ItemCode":  "2981",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Nighat",
@@ -11283,7 +11283,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "2362",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Nike",
@@ -11294,7 +11294,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1605",
         "Stock":  "0",
         "ItemCode":  "1820",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Nizaal",
@@ -11305,7 +11305,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "0",
         "ItemCode":  "2428",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Nizwa",
@@ -11316,7 +11316,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1153.5",
         "Stock":  "0",
         "ItemCode":  "1366",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NOBLE LIGHT",
@@ -11327,7 +11327,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2290",
         "Stock":  "1",
         "ItemCode":  "3688",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NON STOP",
@@ -11338,7 +11338,7 @@ const stockData = [
         "Item_SelfVal_Price":  "990",
         "Stock":  "3",
         "ItemCode":  "3966",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NOODLE NATION",
@@ -11349,7 +11349,7 @@ const stockData = [
         "Item_SelfVal_Price":  "870",
         "Stock":  "4",
         "ItemCode":  "4007",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Noor E Fashion",
@@ -11360,7 +11360,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1248.75",
         "Stock":  "0",
         "ItemCode":  "2345",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NOOR E GuLAAB",
@@ -11371,7 +11371,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1625",
         "Stock":  "3",
         "ItemCode":  "3856",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC NOORALI",
@@ -11382,7 +11382,7 @@ const stockData = [
         "Item_SelfVal_Price":  "961.5",
         "Stock":  "4",
         "ItemCode":  "2827",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC O Diwana",
@@ -11393,7 +11393,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1344",
         "Stock":  "4",
         "ItemCode":  "2896",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC O MAAHI",
@@ -11404,7 +11404,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1968.75",
         "Stock":  "0",
         "ItemCode":  "2735",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC O SAHIBA",
@@ -11415,7 +11415,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "0",
         "ItemCode":  "2802",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC O SAJNI RE",
@@ -11426,7 +11426,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1968.75",
         "Stock":  "1",
         "ItemCode":  "2734",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Orange Juice",
@@ -11437,7 +11437,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1096.875",
         "Stock":  "0",
         "ItemCode":  "3161",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Orient",
@@ -11448,7 +11448,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "8",
         "ItemCode":  "3421",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Outlook",
@@ -11459,7 +11459,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2000",
         "Stock":  "1",
         "ItemCode":  "3796",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pacific Osian",
@@ -11470,7 +11470,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1728.75",
         "Stock":  "0",
         "ItemCode":  "1856",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pakiza",
@@ -11481,7 +11481,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "1892",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Paksima",
@@ -11492,7 +11492,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "2410",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PALKON TALE",
@@ -11503,7 +11503,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1299.375",
         "Stock":  "0",
         "ItemCode":  "2807",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Paneer Dhosa",
@@ -11514,7 +11514,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2235",
         "Stock":  "0",
         "ItemCode":  "1968",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Panipuri",
@@ -11525,7 +11525,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "2",
         "ItemCode":  "3294",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Param Sundari",
@@ -11536,7 +11536,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2290",
         "Stock":  "0",
         "ItemCode":  "3713",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PARDESIYA",
@@ -11547,7 +11547,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "2",
         "ItemCode":  "3621",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Parle Magic",
@@ -11558,7 +11558,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1726.875",
         "Stock":  "0",
         "ItemCode":  "3219",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Passbook",
@@ -11569,7 +11569,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1125",
         "Stock":  "0",
         "ItemCode":  "1864",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pasta",
@@ -11580,7 +11580,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1703",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Patang",
@@ -11591,7 +11591,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1968.75",
         "Stock":  "0",
         "ItemCode":  "3048",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pawri",
@@ -11602,7 +11602,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "1668",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Paytm",
@@ -11613,7 +11613,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "1857",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pear",
@@ -11624,7 +11624,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1560",
         "Stock":  "0",
         "ItemCode":  "1599",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PEHLI NAZAR",
@@ -11635,7 +11635,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1715.25",
         "Stock":  "1",
         "ItemCode":  "2697",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pehrava",
@@ -11646,7 +11646,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1481.25",
         "Stock":  "0",
         "ItemCode":  "2359",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PEPLUM",
@@ -11657,7 +11657,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2258",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Peppermint",
@@ -11668,7 +11668,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1704.375",
         "Stock":  "3",
         "ItemCode":  "3078",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Performance",
@@ -11679,7 +11679,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2351.25",
         "Stock":  "0",
         "ItemCode":  "1894",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pernia",
@@ -11690,7 +11690,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1260",
         "Stock":  "0",
         "ItemCode":  "1765",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PIN BALL",
@@ -11701,7 +11701,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1690",
         "Stock":  "4",
         "ItemCode":  "4049",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pinnaple Punch",
@@ -11712,7 +11712,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3801",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PIYA ALBELA",
@@ -11723,7 +11723,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119",
         "Stock":  "0",
         "ItemCode":  "2718",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Platina",
@@ -11734,7 +11734,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1848.75",
         "Stock":  "-1",
         "ItemCode":  "3158",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Pocket Full",
@@ -11745,7 +11745,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1750",
         "Stock":  "2",
         "ItemCode":  "3722",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Poker",
@@ -11756,7 +11756,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "4",
         "ItemCode":  "3420",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Pop up",
@@ -11767,7 +11767,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1260",
         "Stock":  "0",
         "ItemCode":  "1764",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Poppy",
@@ -11778,7 +11778,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2030",
         "Stock":  "2",
         "ItemCode":  "3797",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Portfolio",
@@ -11789,7 +11789,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "3703",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC POWER BOOM",
@@ -11800,7 +11800,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1560",
         "Stock":  "3",
         "ItemCode":  "3915",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Puffcorn",
@@ -11811,7 +11811,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1121.25",
         "Stock":  "0",
         "ItemCode":  "1842",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PURE GOLD",
@@ -11822,7 +11822,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1640",
         "Stock":  "4",
         "ItemCode":  "3989",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC PYAAR KE PAL",
@@ -11833,7 +11833,7 @@ const stockData = [
         "Item_SelfVal_Price":  "866.25",
         "Stock":  "0",
         "ItemCode":  "2841",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC QANDEEL",
@@ -11844,7 +11844,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "3",
         "ItemCode":  "3608",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Qawwali",
@@ -11855,7 +11855,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "0",
         "ItemCode":  "2941",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Quality",
@@ -11866,7 +11866,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "0",
         "ItemCode":  "1770",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC QURESHI",
@@ -11877,7 +11877,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1479",
         "Stock":  "3",
         "ItemCode":  "2295",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RAAH BHULEYA",
@@ -11888,7 +11888,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1287.75",
         "Stock":  "2",
         "ItemCode":  "2823",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Raahil",
@@ -11899,7 +11899,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2227.5",
         "Stock":  "0",
         "ItemCode":  "1604",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rabdi Jalebi",
@@ -11910,7 +11910,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1317.75",
         "Stock":  "0",
         "ItemCode":  "3157",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rabeel",
@@ -11921,7 +11921,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1248.75",
         "Stock":  "0",
         "ItemCode":  "2180",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rabhya",
@@ -11932,7 +11932,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1176",
         "Stock":  "0",
         "ItemCode":  "1358",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rabia",
@@ -11943,7 +11943,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1176",
         "Stock":  "0",
         "ItemCode":  "1359",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RABICA",
@@ -11954,7 +11954,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2570.25",
         "Stock":  "0",
         "ItemCode":  "2788",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Rafee",
@@ -11965,7 +11965,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1786",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rahat",
@@ -11976,7 +11976,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1893.75",
         "Stock":  "0",
         "ItemCode":  "2481",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rahmir",
@@ -11987,7 +11987,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1395",
         "Stock":  "0",
         "ItemCode":  "2429",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Rainbow Cake",
@@ -11998,7 +11998,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "0",
         "ItemCode":  "3715",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rajbhog",
@@ -12009,7 +12009,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "1",
         "ItemCode":  "1656",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rangeen",
@@ -12020,7 +12020,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2632.5",
         "Stock":  "0",
         "ItemCode":  "2984",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RANGOONI",
@@ -12031,7 +12031,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2050",
         "Stock":  "2",
         "ItemCode":  "3891",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RANIA",
@@ -12042,7 +12042,7 @@ const stockData = [
         "Item_SelfVal_Price":  "657.75",
         "Stock":  "1",
         "ItemCode":  "2143",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rasgulla",
@@ -12053,7 +12053,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "3023",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rashed",
@@ -12064,7 +12064,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "1596",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RASINA",
@@ -12075,7 +12075,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1827.75",
         "Stock":  "-3",
         "ItemCode":  "2698",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rasm O Riwaaz",
@@ -12086,7 +12086,7 @@ const stockData = [
         "Item_SelfVal_Price":  "916.5",
         "Stock":  "0",
         "ItemCode":  "2604",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rasna",
@@ -12097,7 +12097,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1417.5",
         "Stock":  "0",
         "ItemCode":  "3028",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Red Bull",
@@ -12108,7 +12108,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3303",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Reebok",
@@ -12119,7 +12119,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1605",
         "Stock":  "0",
         "ItemCode":  "1821",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC REST BOX",
@@ -12130,7 +12130,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1530",
         "Stock":  "4",
         "ItemCode":  "3917",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RESTART",
@@ -12141,7 +12141,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1050",
         "Stock":  "3",
         "ItemCode":  "3655",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Revella",
@@ -12152,7 +12152,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1276.5",
         "Stock":  "0",
         "ItemCode":  "2424",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC REWA",
@@ -12163,7 +12163,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "1",
         "ItemCode":  "2093",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Rewards",
@@ -12174,7 +12174,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1856.25",
         "Stock":  "0",
         "ItemCode":  "3387",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RICH BERRIES",
@@ -12185,7 +12185,7 @@ const stockData = [
         "Item_SelfVal_Price":  "980",
         "Stock":  "3",
         "ItemCode":  "3973",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rich Chocolate",
@@ -12196,7 +12196,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "3",
         "ItemCode":  "3794",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rishteh",
@@ -12207,7 +12207,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2362.5",
         "Stock":  "0",
         "ItemCode":  "2606",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RIVER LINE",
@@ -12218,7 +12218,7 @@ const stockData = [
         "Item_SelfVal_Price":  "800",
         "Stock":  "0",
         "ItemCode":  "3839",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC RIZWANA",
@@ -12229,7 +12229,7 @@ const stockData = [
         "Item_SelfVal_Price":  "941.25",
         "Stock":  "0",
         "ItemCode":  "2144",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Robo Car",
@@ -12240,7 +12240,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1415",
         "Stock":  "0",
         "ItemCode":  "3711",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rochas",
@@ -12251,7 +12251,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1198.5",
         "Stock":  "0",
         "ItemCode":  "1219",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Rock Trex",
@@ -12262,7 +12262,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1425",
         "Stock":  "4",
         "ItemCode":  "3913",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ROCKET RIDER",
@@ -12273,7 +12273,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2025",
         "Stock":  "3",
         "ItemCode":  "3998",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Romaisha",
@@ -12284,7 +12284,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2165.25",
         "Stock":  "0",
         "ItemCode":  "2978",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rooh Afza",
@@ -12295,7 +12295,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1417.5",
         "Stock":  "-2",
         "ItemCode":  "3027",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Roop Mastana",
@@ -12306,7 +12306,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1602.75",
         "Stock":  "0",
         "ItemCode":  "2665",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ROOP RANGILA",
@@ -12317,7 +12317,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670",
         "Stock":  "4",
         "ItemCode":  "4004",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ROOP SUNDARI",
@@ -12328,7 +12328,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119.375",
         "Stock":  "3",
         "ItemCode":  "2804",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Royal Fit",
@@ -12339,7 +12339,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1800",
         "Stock":  "1",
         "ItemCode":  "3824",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ROYAL MARK",
@@ -12350,7 +12350,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1910",
         "Stock":  "4",
         "ItemCode":  "4052",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ROZAL",
@@ -12361,7 +12361,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1501.5",
         "Stock":  "0",
         "ItemCode":  "2297",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Rutba",
@@ -12372,7 +12372,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119",
         "Stock":  "0",
         "ItemCode":  "2181",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sab Khushnuma",
@@ -12383,7 +12383,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2131.875",
         "Stock":  "1",
         "ItemCode":  "3435",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sadqay Tumhare",
@@ -12394,7 +12394,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1715.625",
         "Stock":  "0",
         "ItemCode":  "3218",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Safiq",
@@ -12405,7 +12405,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1143.75",
         "Stock":  "2",
         "ItemCode":  "1826",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Safnaz",
@@ -12416,7 +12416,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1726.5",
         "Stock":  "0",
         "ItemCode":  "2554",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SAIYAAN SUPERSTAR",
@@ -12427,7 +12427,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2727",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SAKHI",
@@ -12438,7 +12438,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2570.25",
         "Stock":  "0",
         "ItemCode":  "2789",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SALSABILA",
@@ -12449,7 +12449,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.25",
         "Stock":  "-3",
         "ItemCode":  "2715",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Salt Water",
@@ -12460,7 +12460,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2212.5",
         "Stock":  "0",
         "ItemCode":  "1907",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SALWA",
@@ -12471,7 +12471,7 @@ const stockData = [
         "Item_SelfVal_Price":  "657.75",
         "Stock":  "4",
         "ItemCode":  "2840",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Samah Gulabi",
@@ -12482,7 +12482,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2430",
         "Stock":  "0",
         "ItemCode":  "3031",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SANDESH",
@@ -12493,7 +12493,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "4",
         "ItemCode":  "3870",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sara",
@@ -12504,7 +12504,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2341",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Saregama",
@@ -12515,7 +12515,7 @@ const stockData = [
         "Item_SelfVal_Price":  "666.75",
         "Stock":  "0",
         "ItemCode":  "2936",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SAROOR",
@@ -12526,7 +12526,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2080",
         "Stock":  "0",
         "ItemCode":  "4006",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SAUDE BAAZI",
@@ -12537,7 +12537,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2726",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Seher",
@@ -12548,7 +12548,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2345.625",
         "Stock":  "0",
         "ItemCode":  "2964",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sehnai",
@@ -12559,7 +12559,7 @@ const stockData = [
         "Item_SelfVal_Price":  "666.75",
         "Stock":  "3",
         "ItemCode":  "2935",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sehraa",
@@ -12570,7 +12570,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1372.5",
         "Stock":  "0",
         "ItemCode":  "2445",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Selfie",
@@ -12581,7 +12581,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "2",
         "ItemCode":  "3293",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SENSEX",
@@ -12592,7 +12592,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2316",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SEVEN COLOUR",
@@ -12603,7 +12603,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2050",
         "Stock":  "0",
         "ItemCode":  "3896",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shaam Mastani",
@@ -12614,7 +12614,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "2943",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shabiyat",
@@ -12625,7 +12625,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0.75",
         "Stock":  "0",
         "ItemCode":  "2492",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC shaheer palazzo",
@@ -12636,7 +12636,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1717.5",
         "Stock":  "0",
         "ItemCode":  "1667",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SHAHI BITES",
@@ -12647,7 +12647,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3888",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shahina",
@@ -12658,7 +12658,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1700",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shahnawaz",
@@ -12669,7 +12669,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1428.75",
         "Stock":  "0",
         "ItemCode":  "1978",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shaima",
@@ -12680,7 +12680,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "2733",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shaista",
@@ -12691,7 +12691,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1248.75",
         "Stock":  "0",
         "ItemCode":  "2344",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shaitan Garara",
@@ -12702,7 +12702,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1811.25",
         "Stock":  "0",
         "ItemCode":  "1969",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SHANUM",
@@ -12713,7 +12713,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "2283",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sharara Mix Design",
@@ -12724,7 +12724,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "1273",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shararat",
@@ -12735,7 +12735,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2336.25",
         "Stock":  "0",
         "ItemCode":  "2369",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SHAWARMA",
@@ -12746,7 +12746,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2570",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shazahan",
@@ -12757,7 +12757,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1333.5",
         "Stock":  "0",
         "ItemCode":  "1354",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shazahn",
@@ -12768,7 +12768,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1333.5",
         "Stock":  "0",
         "ItemCode":  "1355",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shell",
@@ -12779,7 +12779,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "1664",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sher",
@@ -12790,7 +12790,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2418.75",
         "Stock":  "0",
         "ItemCode":  "2983",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sherbat",
@@ -12801,7 +12801,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1704.375",
         "Stock":  "0",
         "ItemCode":  "3076",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shifali",
@@ -12812,7 +12812,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "1888",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shimi",
@@ -12823,7 +12823,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "1926",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SHINE LINE",
@@ -12834,7 +12834,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "4",
         "ItemCode":  "3971",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shirin",
@@ -12845,7 +12845,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1726.5",
         "Stock":  "2",
         "ItemCode":  "2553",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shukrana",
@@ -12856,7 +12856,7 @@ const stockData = [
         "Item_SelfVal_Price":  "832.5",
         "Stock":  "0",
         "ItemCode":  "1917",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Shyla",
@@ -12867,7 +12867,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2651",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SIHAM",
@@ -12878,7 +12878,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2531.25",
         "Stock":  "0",
         "ItemCode":  "2610",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Silicon Vally",
@@ -12889,7 +12889,7 @@ const stockData = [
         "Item_SelfVal_Price":  "870",
         "Stock":  "4",
         "ItemCode":  "3787",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SILVER KEY",
@@ -12900,7 +12900,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "4",
         "ItemCode":  "3963",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sitamgar",
@@ -12911,7 +12911,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "0",
         "ItemCode":  "2649",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Siyana",
@@ -12922,7 +12922,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "1",
         "ItemCode":  "3410",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Slice",
@@ -12933,7 +12933,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1383.75",
         "Stock":  "0",
         "ItemCode":  "3178",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SLICE TOWN",
@@ -12944,7 +12944,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1740",
         "Stock":  "4",
         "ItemCode":  "3845",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Smart Future",
@@ -12955,7 +12955,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "1",
         "ItemCode":  "3720",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SMILE STICK",
@@ -12966,7 +12966,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2165",
         "Stock":  "4",
         "ItemCode":  "3996",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Smoothie",
@@ -12977,7 +12977,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1335",
         "Stock":  "0",
         "ItemCode":  "1844",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SNACK SAAZ",
@@ -12988,7 +12988,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3964",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SOFT ROSE",
@@ -12999,7 +12999,7 @@ const stockData = [
         "Item_SelfVal_Price":  "875",
         "Stock":  "4",
         "ItemCode":  "3944",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Someone Special",
@@ -13010,7 +13010,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "4",
         "ItemCode":  "3714",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sonic",
@@ -13021,7 +13021,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1346.25",
         "Stock":  "0",
         "ItemCode":  "1801",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Sonic Boom",
@@ -13032,7 +13032,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1425",
         "Stock":  "0",
         "ItemCode":  "3911",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SPARKON",
@@ -13043,7 +13043,7 @@ const stockData = [
         "Item_SelfVal_Price":  "900",
         "Stock":  "4",
         "ItemCode":  "3843",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SPECIAL SOUL",
@@ -13054,7 +13054,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1580",
         "Stock":  "4",
         "ItemCode":  "3988",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SPRITE",
@@ -13065,7 +13065,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3874",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC STAR",
@@ -13076,7 +13076,7 @@ const stockData = [
         "Item_SelfVal_Price":  "667.5",
         "Stock":  "0",
         "ItemCode":  "2872",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC STAR CLUSTER",
@@ -13087,7 +13087,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1100",
         "Stock":  "2",
         "ItemCode":  "3853",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Star Ship",
@@ -13098,7 +13098,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1480",
         "Stock":  "-2",
         "ItemCode":  "3811",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC steps",
@@ -13109,7 +13109,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1387.5",
         "Stock":  "0",
         "ItemCode":  "1768",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Subuhi",
@@ -13120,7 +13120,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "1597",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sufinama",
@@ -13131,7 +13131,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670.25",
         "Stock":  "0",
         "ItemCode":  "2446",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Suhana Safar",
@@ -13142,7 +13142,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1119",
         "Stock":  "4",
         "ItemCode":  "2945",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Summer Camp",
@@ -13153,7 +13153,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1456.875",
         "Stock":  "0",
         "ItemCode":  "3413",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Sun Sathiya",
@@ -13164,7 +13164,7 @@ const stockData = [
         "Item_SelfVal_Price":  "927.75",
         "Stock":  "0",
         "ItemCode":  "2953",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC sunflower",
@@ -13175,7 +13175,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2250",
         "Stock":  "0",
         "ItemCode":  "1924",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SUNHARE PAL",
@@ -13186,7 +13186,7 @@ const stockData = [
         "Item_SelfVal_Price":  "866.25",
         "Stock":  "0",
         "ItemCode":  "2835",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SUNSET BEACH",
@@ -13197,7 +13197,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2135",
         "Stock":  "4",
         "ItemCode":  "3892",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Super Protect",
@@ -13208,7 +13208,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1600",
         "Stock":  "0",
         "ItemCode":  "3719",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SUPER SONIC",
@@ -13219,7 +13219,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "2",
         "ItemCode":  "3616",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Sur Sagar (W PURSE)",
@@ -13230,7 +13230,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2300",
         "Stock":  "12",
         "ItemCode":  "3909",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SUROOR TERA",
@@ -13241,7 +13241,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1299",
         "Stock":  "0",
         "ItemCode":  "2800",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SWAG E STYLE",
@@ -13252,7 +13252,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "4",
         "ItemCode":  "3768",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SWAGSTER",
@@ -13263,7 +13263,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1300",
         "Stock":  "4",
         "ItemCode":  "3847",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SWEET HEART",
@@ -13274,7 +13274,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1250",
         "Stock":  "4",
         "ItemCode":  "3962",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC SWITCH ON",
@@ -13285,7 +13285,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1050",
         "Stock":  "4",
         "ItemCode":  "3967",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TAARAA",
@@ -13296,7 +13296,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2711",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TAARON KA SAHAR",
@@ -13307,7 +13307,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "3",
         "ItemCode":  "2803",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Table Tennis",
@@ -13318,7 +13318,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1187.25",
         "Stock":  "0",
         "ItemCode":  "1371",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tafeer",
@@ -13329,7 +13329,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1417.5",
         "Stock":  "0",
         "ItemCode":  "1837",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Taimur",
@@ -13340,7 +13340,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1203.75",
         "Stock":  "0",
         "ItemCode":  "1365",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Taqdeer",
@@ -13351,7 +13351,7 @@ const stockData = [
         "Item_SelfVal_Price":  "950.625",
         "Stock":  "0",
         "ItemCode":  "3406",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Taroob",
@@ -13362,7 +13362,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1491",
         "Stock":  "0",
         "ItemCode":  "1268",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tasheen",
@@ -13373,7 +13373,7 @@ const stockData = [
         "Item_SelfVal_Price":  "703.5",
         "Stock":  "0",
         "ItemCode":  "1701",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tasmina",
@@ -13384,7 +13384,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1968.75",
         "Stock":  "0",
         "ItemCode":  "3047",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Taufeer",
@@ -13395,7 +13395,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "1",
         "ItemCode":  "1218",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tehreem",
@@ -13406,7 +13406,7 @@ const stockData = [
         "Item_SelfVal_Price":  "703.5",
         "Stock":  "0",
         "ItemCode":  "1699",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tehzib",
@@ -13417,7 +13417,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1087.5",
         "Stock":  "0",
         "ItemCode":  "1897",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tera Fitoor",
@@ -13428,7 +13428,7 @@ const stockData = [
         "Item_SelfVal_Price":  "916.5",
         "Stock":  "0",
         "ItemCode":  "2593",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TERA WADA",
@@ -13439,7 +13439,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2587.5",
         "Stock":  "0",
         "ItemCode":  "2746",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Tere Bin",
@@ -13450,7 +13450,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1515",
         "Stock":  "0",
         "ItemCode":  "1895",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TERE KAABIL",
@@ -13461,7 +13461,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759.375",
         "Stock":  "0",
         "ItemCode":  "2797",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TERI CHUNARIYA",
@@ -13472,7 +13472,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1653.75",
         "Stock":  "0",
         "ItemCode":  "2747",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Teri Chunnari",
@@ -13483,7 +13483,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1170",
         "Stock":  "0",
         "ItemCode":  "3554",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Thoda Hatke",
@@ -13494,7 +13494,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "2",
         "ItemCode":  "3819",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TIC TAC",
@@ -13505,7 +13505,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "3591",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TINY TRENDS",
@@ -13516,7 +13516,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670",
         "Stock":  "0",
         "ItemCode":  "3994",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Total Siyappa",
@@ -13527,7 +13527,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1440",
         "Stock":  "0",
         "ItemCode":  "3362",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Toyota",
@@ -13538,7 +13538,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1063.125",
         "Stock":  "0",
         "ItemCode":  "3175",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC True love",
@@ -13549,7 +13549,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1700",
         "Stock":  "-1",
         "ItemCode":  "3385",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC TUMSE ISHQ",
@@ -13560,7 +13560,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1451.25",
         "Stock":  "4",
         "ItemCode":  "2677",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Urooz",
@@ -13571,7 +13571,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1670.25",
         "Stock":  "0",
         "ItemCode":  "2444",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Veeda",
@@ -13582,7 +13582,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1787",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Villagers",
@@ -13593,7 +13593,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1323.75",
         "Stock":  "0",
         "ItemCode":  "1922",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Vistara",
@@ -13604,7 +13604,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1335",
         "Stock":  "0",
         "ItemCode":  "1901",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Voice Note",
@@ -13615,7 +13615,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1726.875",
         "Stock":  "0",
         "ItemCode":  "3029",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC WAFFLE WORLD",
@@ -13626,7 +13626,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1070",
         "Stock":  "1",
         "ItemCode":  "3969",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC WAFFY ZONE",
@@ -13637,7 +13637,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3959",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Watermelon juice",
@@ -13648,7 +13648,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1098.75",
         "Stock":  "0",
         "ItemCode":  "1930",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC White Mogra",
@@ -13659,7 +13659,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1546.5",
         "Stock":  "0",
         "ItemCode":  "2612",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Winter Sky",
@@ -13670,7 +13670,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2150",
         "Stock":  "1",
         "ItemCode":  "3712",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Wise",
@@ -13681,7 +13681,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "1891",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Wynk",
@@ -13692,7 +13692,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1512.75",
         "Stock":  "0",
         "ItemCode":  "2623",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Yakub",
@@ -13703,7 +13703,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1774",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Yaqub",
@@ -13714,7 +13714,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1779",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC YEH RISHTA",
@@ -13725,7 +13725,7 @@ const stockData = [
         "Item_SelfVal_Price":  "800",
         "Stock":  "3",
         "ItemCode":  "3942",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zaafir",
@@ -13736,7 +13736,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1476",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZAAFIRA",
@@ -13747,7 +13747,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2705",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZABUKEE",
@@ -13758,7 +13758,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "2522",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zahabia",
@@ -13769,7 +13769,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1108.125",
         "Stock":  "0",
         "ItemCode":  "3054",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZAIKA E GULAB",
@@ -13780,7 +13780,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "4",
         "ItemCode":  "3850",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZAIKA E MAGIC",
@@ -13791,7 +13791,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "0",
         "ItemCode":  "3854",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kc Zaika E Mumbai",
@@ -13802,7 +13802,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "4",
         "ItemCode":  "3818",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZAIKA E SHAHI",
@@ -13813,7 +13813,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2250",
         "Stock":  "0",
         "ItemCode":  "3771",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zanaa",
@@ -13824,7 +13824,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1333.5",
         "Stock":  "0",
         "ItemCode":  "1369",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZARKA",
@@ -13835,7 +13835,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2706",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zayed",
@@ -13846,7 +13846,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "2441",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zehreen",
@@ -13857,7 +13857,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1080",
         "Stock":  "0",
         "ItemCode":  "1323",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zemana",
@@ -13868,7 +13868,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1361.25",
         "Stock":  "0",
         "ItemCode":  "2425",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zenika",
@@ -13879,7 +13879,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1893.75",
         "Stock":  "0",
         "ItemCode":  "2482",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZESTY BITE",
@@ -13890,7 +13890,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "4",
         "ItemCode":  "3961",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zivana",
@@ -13901,7 +13901,7 @@ const stockData = [
         "Item_SelfVal_Price":  "832.5",
         "Stock":  "-1",
         "ItemCode":  "3411",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Ziyam",
@@ -13912,7 +13912,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1833.75",
         "Stock":  "1",
         "ItemCode":  "2442",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZOFRA",
@@ -13923,7 +13923,7 @@ const stockData = [
         "Item_SelfVal_Price":  "650",
         "Stock":  "4",
         "ItemCode":  "3857",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZOHRA JABEEN",
@@ -13934,7 +13934,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2277.75",
         "Stock":  "0",
         "ItemCode":  "2333",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zoyaan Nayra",
@@ -13945,7 +13945,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2156.25",
         "Stock":  "0",
         "ItemCode":  "1669",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zuhoor Russian",
@@ -13956,7 +13956,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2193.75",
         "Stock":  "0",
         "ItemCode":  "2506",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zulfein",
@@ -13967,7 +13967,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1352",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC Zulfishan",
@@ -13978,7 +13978,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1395",
         "Stock":  "0",
         "ItemCode":  "1822",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KC ZYPPER (PURSE)",
@@ -13989,7 +13989,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2300",
         "Stock":  "2",
         "ItemCode":  "3997",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KCKC SUPER COOL",
@@ -14000,7 +14000,7 @@ const stockData = [
         "Item_SelfVal_Price":  "520",
         "Stock":  "0",
         "ItemCode":  "3637",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kesar Shiv Text",
@@ -14011,7 +14011,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1594",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KEYONA AYESHA",
@@ -14022,7 +14022,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2121",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KEYONA MAHIMA",
@@ -14033,7 +14033,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2122",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KEYONA MAYA",
@@ -14044,7 +14044,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2120",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Keyona Rajwadi",
@@ -14055,7 +14055,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "3364",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KF RAYON TOP",
@@ -14066,7 +14066,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "2",
         "ItemCode":  "3948",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Khatli work",
@@ -14077,7 +14077,7 @@ const stockData = [
         "Item_SelfVal_Price":  "430",
         "Stock":  "16",
         "ItemCode":  "3755",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Khawaish SNT",
@@ -14088,7 +14088,7 @@ const stockData = [
         "Item_SelfVal_Price":  "459",
         "Stock":  "0",
         "ItemCode":  "1727",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kiana SG-202",
@@ -14099,7 +14099,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1007.25",
         "Stock":  "0",
         "ItemCode":  "1226",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kiana SG-213",
@@ -14110,7 +14110,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1007.25",
         "Stock":  "0",
         "ItemCode":  "1228",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kiana SG-221",
@@ -14121,7 +14121,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1007.25",
         "Stock":  "0",
         "ItemCode":  "1227",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kiana SG-226",
@@ -14132,7 +14132,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1007.25",
         "Stock":  "0",
         "ItemCode":  "1229",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kingfisher",
@@ -14143,7 +14143,7 @@ const stockData = [
         "Item_SelfVal_Price":  "67.5",
         "Stock":  "90",
         "ItemCode":  "1717",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KK Kohinoor",
@@ -14154,7 +14154,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "2667",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC AASMA",
@@ -14165,7 +14165,7 @@ const stockData = [
         "Item_SelfVal_Price":  "275",
         "Stock":  "0",
         "ItemCode":  "2760",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC AKSHARA",
@@ -14176,7 +14176,7 @@ const stockData = [
         "Item_SelfVal_Price":  "275",
         "Stock":  "19",
         "ItemCode":  "2857",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC ANDAZ",
@@ -14187,7 +14187,7 @@ const stockData = [
         "Item_SelfVal_Price":  "270",
         "Stock":  "0",
         "ItemCode":  "2858",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC ASHA",
@@ -14198,7 +14198,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "0",
         "ItemCode":  "2138",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC FIDA",
@@ -14209,7 +14209,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "20",
         "ItemCode":  "4079",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Gulnaaz",
@@ -14220,7 +14220,7 @@ const stockData = [
         "Item_SelfVal_Price":  "280",
         "Stock":  "0",
         "ItemCode":  "3791",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Guzarish",
@@ -14231,7 +14231,7 @@ const stockData = [
         "Item_SelfVal_Price":  "290",
         "Stock":  "4",
         "ItemCode":  "3587",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC HEER",
@@ -14242,7 +14242,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "6",
         "ItemCode":  "2137",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC INDIAN CURRENCY",
@@ -14253,7 +14253,7 @@ const stockData = [
         "Item_SelfVal_Price":  "250",
         "Stock":  "5",
         "ItemCode":  "3906",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Jannat",
@@ -14264,7 +14264,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "16",
         "ItemCode":  "3724",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC JASMINE",
@@ -14275,7 +14275,7 @@ const stockData = [
         "Item_SelfVal_Price":  "303.75",
         "Stock":  "0",
         "ItemCode":  "2142",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC KAJU ANJEER",
@@ -14286,7 +14286,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "2174",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC KASHMIRA",
@@ -14297,7 +14297,7 @@ const stockData = [
         "Item_SelfVal_Price":  "326.25",
         "Stock":  "0",
         "ItemCode":  "2139",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Kayamat",
@@ -14308,7 +14308,7 @@ const stockData = [
         "Item_SelfVal_Price":  "331.875",
         "Stock":  "0",
         "ItemCode":  "3060",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC Mallika",
@@ -14319,7 +14319,7 @@ const stockData = [
         "Item_SelfVal_Price":  "270",
         "Stock":  "0",
         "ItemCode":  "2954",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Masoom",
@@ -14330,7 +14330,7 @@ const stockData = [
         "Item_SelfVal_Price":  "290",
         "Stock":  "-5",
         "ItemCode":  "3005",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Muskan",
@@ -14341,7 +14341,7 @@ const stockData = [
         "Item_SelfVal_Price":  "320.625",
         "Stock":  "0",
         "ItemCode":  "3059",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC NAQAB",
@@ -14352,7 +14352,7 @@ const stockData = [
         "Item_SelfVal_Price":  "322.5",
         "Stock":  "0",
         "ItemCode":  "2141",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Panchi",
@@ -14363,7 +14363,7 @@ const stockData = [
         "Item_SelfVal_Price":  "375",
         "Stock":  "-9",
         "ItemCode":  "2140",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC PRITAM",
@@ -14374,7 +14374,7 @@ const stockData = [
         "Item_SelfVal_Price":  "265",
         "Stock":  "0",
         "ItemCode":  "3586",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Qayamat NX",
@@ -14385,7 +14385,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "1",
         "ItemCode":  "3589",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kkc Rehana NX",
@@ -14396,7 +14396,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "0",
         "ItemCode":  "3590",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC SARGAM",
@@ -14407,7 +14407,7 @@ const stockData = [
         "Item_SelfVal_Price":  "250",
         "Stock":  "1",
         "ItemCode":  "3588",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC SEHNAAZ",
@@ -14418,7 +14418,7 @@ const stockData = [
         "Item_SelfVal_Price":  "255",
         "Stock":  "8",
         "ItemCode":  "4066",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKC WORLD CURRENCY",
@@ -14429,7 +14429,7 @@ const stockData = [
         "Item_SelfVal_Price":  "240",
         "Stock":  "14",
         "ItemCode":  "3905",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKU Pritam",
@@ -14440,7 +14440,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "1305",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKU Tim Tim",
@@ -14451,7 +14451,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1272",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KKU World Cup",
@@ -14462,7 +14462,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "1339",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kohinoor GK",
@@ -14473,7 +14473,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1496",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Krushna Pushpa Rajwadi",
@@ -14484,7 +14484,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "4",
         "ItemCode":  "3327",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KS Khawahish",
@@ -14495,7 +14495,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3120",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KS PRINCESS",
@@ -14506,7 +14506,7 @@ const stockData = [
         "Item_SelfVal_Price":  "432.75",
         "Stock":  "0",
         "ItemCode":  "2646",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KS RANGOLI",
@@ -14517,7 +14517,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.25",
         "Stock":  "0",
         "ItemCode":  "2642",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "KS Zareen",
@@ -14528,7 +14528,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3119",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Kusun Golden",
@@ -14539,7 +14539,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "0",
         "ItemCode":  "3125",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "La Pinoz",
@@ -14550,7 +14550,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1428.75",
         "Stock":  "0",
         "ItemCode":  "1269",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lacha",
@@ -14561,7 +14561,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-15",
         "ItemCode":  "1997",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LACHA RAJWADI",
@@ -14572,7 +14572,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4287",
         "Stock":  "-2",
         "ItemCode":  "2737",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lakhnavi Dhaga Work",
@@ -14583,7 +14583,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.625",
         "Stock":  "10",
         "ItemCode":  "3274",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lakhnavi Print",
@@ -14594,7 +14594,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3446",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lamhen",
@@ -14605,7 +14605,7 @@ const stockData = [
         "Item_SelfVal_Price":  "25.875",
         "Stock":  "0",
         "ItemCode":  "1712",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Large Towel",
@@ -14616,7 +14616,7 @@ const stockData = [
         "Item_SelfVal_Price":  "60.75",
         "Stock":  "195",
         "ItemCode":  "1720",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC DDL",
@@ -14627,7 +14627,7 @@ const stockData = [
         "Item_SelfVal_Price":  "640",
         "Stock":  "0",
         "ItemCode":  "4037",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC DIAMOND",
@@ -14638,7 +14638,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "8",
         "ItemCode":  "4031",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Humera",
@@ -14649,7 +14649,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2531",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Karina",
@@ -14660,7 +14660,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2532",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC KAVYA",
@@ -14671,7 +14671,7 @@ const stockData = [
         "Item_SelfVal_Price":  "445",
         "Stock":  "4",
         "ItemCode":  "4040",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC KINZA",
@@ -14682,7 +14682,7 @@ const stockData = [
         "Item_SelfVal_Price":  "610",
         "Stock":  "4",
         "ItemCode":  "4038",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Kiran",
@@ -14693,7 +14693,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2530",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Libas Cotton",
@@ -14704,7 +14704,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.25",
         "Stock":  "0",
         "ItemCode":  "2971",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Nusrat",
@@ -14715,7 +14715,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2526",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Priya",
@@ -14726,7 +14726,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2533",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Rumana",
@@ -14737,7 +14737,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2529",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Sadiya",
@@ -14748,7 +14748,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.5",
         "Stock":  "0",
         "ItemCode":  "3013",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Samayra",
@@ -14759,7 +14759,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "1",
         "ItemCode":  "2527",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Saniya",
@@ -14770,7 +14770,7 @@ const stockData = [
         "Item_SelfVal_Price":  "399.375",
         "Stock":  "0",
         "ItemCode":  "3196",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Saniya Pol",
@@ -14781,7 +14781,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.625",
         "Stock":  "0",
         "ItemCode":  "3198",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Sargam",
@@ -14792,7 +14792,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2534",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC Sneha",
@@ -14803,7 +14803,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498",
         "Stock":  "0",
         "ItemCode":  "2528",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LC TROUSER",
@@ -14814,7 +14814,7 @@ const stockData = [
         "Item_SelfVal_Price":  "850",
         "Stock":  "-8",
         "ItemCode":  "4080",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lc Zeenat",
@@ -14825,7 +14825,7 @@ const stockData = [
         "Item_SelfVal_Price":  "400",
         "Stock":  "0",
         "ItemCode":  "3731",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lemon SNT",
@@ -14836,7 +14836,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1745",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Libas Garments",
@@ -14847,7 +14847,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-10",
         "ItemCode":  "2514",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LIBAS KIDS",
@@ -14858,7 +14858,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-33",
         "ItemCode":  "2102",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LIZZI BIZZI",
@@ -14869,7 +14869,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2519",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lotus Shiv Tex",
@@ -14880,7 +14880,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "1561",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LOVE CREATION APRIL FOOL",
@@ -14891,7 +14891,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2566",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Love Creation Charminar",
@@ -14902,7 +14902,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2567",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Lovely SNT",
@@ -14913,7 +14913,7 @@ const stockData = [
         "Item_SelfVal_Price":  "512.25",
         "Stock":  "0",
         "ItemCode":  "1731",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "LS PARAS MANI",
@@ -14924,7 +14924,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "1",
         "ItemCode":  "2124",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Madhav CS",
@@ -14935,7 +14935,7 @@ const stockData = [
         "Item_SelfVal_Price":  "370",
         "Stock":  "61",
         "ItemCode":  "2107",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Madhubala SNT",
@@ -14946,7 +14946,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1744",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Madhumati Print",
@@ -14957,7 +14957,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1589",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MADHURI OM",
@@ -14968,7 +14968,7 @@ const stockData = [
         "Item_SelfVal_Price":  "512.25",
         "Stock":  "0",
         "ItemCode":  "1466",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mahi 2",
@@ -14979,7 +14979,7 @@ const stockData = [
         "Item_SelfVal_Price":  "467.25",
         "Stock":  "0",
         "ItemCode":  "1446",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Malai 2 Pcs",
@@ -14990,7 +14990,7 @@ const stockData = [
         "Item_SelfVal_Price":  "180",
         "Stock":  "34",
         "ItemCode":  "3753",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MALINI",
@@ -15001,7 +15001,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2780",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Malta",
@@ -15012,7 +15012,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3306",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Malvika Beauty Full",
@@ -15023,7 +15023,7 @@ const stockData = [
         "Item_SelfVal_Price":  "397.5",
         "Stock":  "0",
         "ItemCode":  "1767",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAN MOHIT MMT",
@@ -15034,7 +15034,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "2779",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MANNAT AAJ KAL",
@@ -15045,7 +15045,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "1",
         "ItemCode":  "2682",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mannat Breathless",
@@ -15056,7 +15056,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534",
         "Stock":  "0",
         "ItemCode":  "2587",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MANNAT NAZAKAT",
@@ -15067,7 +15067,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "1",
         "ItemCode":  "2683",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MANNAT PIKU",
@@ -15078,7 +15078,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "1",
         "ItemCode":  "2679",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mannat Rang Mahal",
@@ -15089,7 +15089,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "-1",
         "ItemCode":  "2589",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MANNAT SELFIE",
@@ -15100,7 +15100,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2588",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MANNAT SHOHRAT",
@@ -15111,7 +15111,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "1",
         "ItemCode":  "2681",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MANNAT SUPER FINE",
@@ -15122,7 +15122,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "4",
         "ItemCode":  "2680",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Manpasand Rani ki Jawani",
@@ -15133,7 +15133,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "1805",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS Anushka",
@@ -15144,7 +15144,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2358",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS DHAMAKA",
@@ -15155,7 +15155,7 @@ const stockData = [
         "Item_SelfVal_Price":  "465",
         "Stock":  "16",
         "ItemCode":  "3607",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS Isha",
@@ -15166,7 +15166,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2357",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS Nancy",
@@ -15177,7 +15177,7 @@ const stockData = [
         "Item_SelfVal_Price":  "873.75",
         "Stock":  "0",
         "ItemCode":  "1848",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS Roshni",
@@ -15188,7 +15188,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2356",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS Ruhi-1",
@@ -15199,7 +15199,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2354",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MAS Ruhi-2",
@@ -15210,7 +15210,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "2355",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Afreen",
@@ -15221,7 +15221,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "107",
         "ItemCode":  "3322",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Bulbul",
@@ -15232,7 +15232,7 @@ const stockData = [
         "Item_SelfVal_Price":  "370",
         "Stock":  "14",
         "ItemCode":  "3062",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MASTI CHUNRI",
@@ -15243,7 +15243,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "2415",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Dhamaal",
@@ -15254,7 +15254,7 @@ const stockData = [
         "Item_SelfVal_Price":  "280",
         "Stock":  "45",
         "ItemCode":  "3814",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Kalash",
@@ -15265,7 +15265,7 @@ const stockData = [
         "Item_SelfVal_Price":  "335",
         "Stock":  "13",
         "ItemCode":  "1223",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Kalki",
@@ -15276,7 +15276,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365",
         "Stock":  "0",
         "ItemCode":  "3192",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Milly",
@@ -15287,7 +15287,7 @@ const stockData = [
         "Item_SelfVal_Price":  "280",
         "Stock":  "35",
         "ItemCode":  "3813",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Mumtaz",
@@ -15298,7 +15298,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2276",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Panna",
@@ -15309,7 +15309,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "2",
         "ItemCode":  "2275",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Prem Leela",
@@ -15320,7 +15320,7 @@ const stockData = [
         "Item_SelfVal_Price":  "340",
         "Stock":  "47",
         "ItemCode":  "3584",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Rayon to Rayon",
@@ -15331,7 +15331,7 @@ const stockData = [
         "Item_SelfVal_Price":  "502.5",
         "Stock":  "0",
         "ItemCode":  "1609",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Masti Zara",
@@ -15342,7 +15342,7 @@ const stockData = [
         "Item_SelfVal_Price":  "335",
         "Stock":  "5",
         "ItemCode":  "2414",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MC PUSHPA",
@@ -15353,7 +15353,7 @@ const stockData = [
         "Item_SelfVal_Price":  "387.75",
         "Stock":  "0",
         "ItemCode":  "2290",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MDV FIROZA",
@@ -15364,7 +15364,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2307",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena 02 White",
@@ -15375,7 +15375,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.125",
         "Stock":  "0",
         "ItemCode":  "3140",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena 03 White",
@@ -15386,7 +15386,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444.375",
         "Stock":  "0",
         "ItemCode":  "3141",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena Gala Patch Work",
@@ -15397,7 +15397,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "0",
         "ItemCode":  "3275",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena Patch Work",
@@ -15408,7 +15408,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "1",
         "ItemCode":  "3359",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena Tai Dw",
@@ -15419,7 +15419,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "0",
         "ItemCode":  "3276",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena Tai Gala",
@@ -15430,7 +15430,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.125",
         "Stock":  "6",
         "ItemCode":  "3242",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena Tai Print",
@@ -15441,7 +15441,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.125",
         "Stock":  "0",
         "ItemCode":  "3143",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena Twill",
@@ -15452,7 +15452,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "3139",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena V Neck",
@@ -15463,7 +15463,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "-5",
         "ItemCode":  "3142",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meena White 04",
@@ -15474,7 +15474,7 @@ const stockData = [
         "Item_SelfVal_Price":  "466.875",
         "Stock":  "0",
         "ItemCode":  "3272",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Meera Pari Fab",
@@ -15485,7 +15485,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1482",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "METER CLOTH",
@@ -15496,7 +15496,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-92.5",
         "ItemCode":  "1989",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 001",
@@ -15507,7 +15507,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "2",
         "ItemCode":  "3622",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 002",
@@ -15518,7 +15518,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "3623",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 003",
@@ -15529,7 +15529,7 @@ const stockData = [
         "Item_SelfVal_Price":  "520",
         "Stock":  "0",
         "ItemCode":  "3624",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 004",
@@ -15540,7 +15540,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "4",
         "ItemCode":  "3625",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 005",
@@ -15551,7 +15551,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "3626",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 006",
@@ -15562,7 +15562,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "1",
         "ItemCode":  "3627",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 007",
@@ -15573,7 +15573,7 @@ const stockData = [
         "Item_SelfVal_Price":  "485",
         "Stock":  "0",
         "ItemCode":  "3628",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 008",
@@ -15584,7 +15584,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "3629",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 01",
@@ -15595,7 +15595,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3596",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 02",
@@ -15606,7 +15606,7 @@ const stockData = [
         "Item_SelfVal_Price":  "530",
         "Stock":  "0",
         "ItemCode":  "3597",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 05",
@@ -15617,7 +15617,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "2",
         "ItemCode":  "3600",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 06",
@@ -15628,7 +15628,7 @@ const stockData = [
         "Item_SelfVal_Price":  "470",
         "Stock":  "0",
         "ItemCode":  "3599",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 07",
@@ -15639,7 +15639,7 @@ const stockData = [
         "Item_SelfVal_Price":  "470",
         "Stock":  "0",
         "ItemCode":  "3598",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF 09",
@@ -15650,7 +15650,7 @@ const stockData = [
         "Item_SelfVal_Price":  "535",
         "Stock":  "0",
         "ItemCode":  "3601",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF Apple",
@@ -15661,7 +15661,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.375",
         "Stock":  "0",
         "ItemCode":  "3014",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF Audi",
@@ -15672,7 +15672,7 @@ const stockData = [
         "Item_SelfVal_Price":  "669",
         "Stock":  "1",
         "ItemCode":  "2968",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF GALA KHATLI HEAVY",
@@ -15683,7 +15683,7 @@ const stockData = [
         "Item_SelfVal_Price":  "480",
         "Stock":  "12",
         "ItemCode":  "4067",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF GALA KHATLI HEAVY 2",
@@ -15694,7 +15694,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "8",
         "ItemCode":  "4069",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Gala Print",
@@ -15705,7 +15705,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522",
         "Stock":  "2",
         "ItemCode":  "3568",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Gala Zarkan Gala",
@@ -15716,7 +15716,7 @@ const stockData = [
         "Item_SelfVal_Price":  "470",
         "Stock":  "4",
         "ItemCode":  "3953",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF Ginger",
@@ -15727,7 +15727,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "3022",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF IPL",
@@ -15738,7 +15738,7 @@ const stockData = [
         "Item_SelfVal_Price":  "669",
         "Stock":  "1",
         "ItemCode":  "2969",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF JAAM KHULLI",
@@ -15749,7 +15749,7 @@ const stockData = [
         "Item_SelfVal_Price":  "475",
         "Stock":  "-1",
         "ItemCode":  "3809",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Khulli Print",
@@ -15760,7 +15760,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "-8",
         "ItemCode":  "3567",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Mirror",
@@ -15771,7 +15771,7 @@ const stockData = [
         "Item_SelfVal_Price":  "480",
         "Stock":  "-16",
         "ItemCode":  "3704",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF MIX",
@@ -15782,7 +15782,7 @@ const stockData = [
         "Item_SelfVal_Price":  "440",
         "Stock":  "10",
         "ItemCode":  "3638",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Patchwork",
@@ -15793,7 +15793,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "8",
         "ItemCode":  "3702",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF Princess PAK",
@@ -15804,7 +15804,7 @@ const stockData = [
         "Item_SelfVal_Price":  "702.75",
         "Stock":  "0",
         "ItemCode":  "2904",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Pum Pum D",
@@ -15815,7 +15815,7 @@ const stockData = [
         "Item_SelfVal_Price":  "558",
         "Stock":  "-4",
         "ItemCode":  "3566",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF Shahnaz",
@@ -15826,7 +15826,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "3191",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF Super Star",
@@ -15837,7 +15837,7 @@ const stockData = [
         "Item_SelfVal_Price":  "702.75",
         "Stock":  "0",
         "ItemCode":  "2970",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF TAI",
@@ -15848,7 +15848,7 @@ const stockData = [
         "Item_SelfVal_Price":  "430",
         "Stock":  "0",
         "ItemCode":  "3954",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mf Tai Pannel Dw",
@@ -15859,7 +15859,7 @@ const stockData = [
         "Item_SelfVal_Price":  "558",
         "Stock":  "0",
         "ItemCode":  "3565",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MF WD GALA",
@@ -15870,7 +15870,7 @@ const stockData = [
         "Item_SelfVal_Price":  "460",
         "Stock":  "3",
         "ItemCode":  "3955",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mission Balochistan",
@@ -15881,7 +15881,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1136.25",
         "Stock":  "0",
         "ItemCode":  "1612",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MIX Kajal",
@@ -15892,7 +15892,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "2900",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MIX SUITE",
@@ -15903,7 +15903,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2163",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Angur Juice",
@@ -15914,7 +15914,7 @@ const stockData = [
         "Item_SelfVal_Price":  "499",
         "Stock":  "6",
         "ItemCode":  "2897",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Bank",
@@ -15925,7 +15925,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "2416",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Bhel Puri",
@@ -15936,7 +15936,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "1",
         "ItemCode":  "3190",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Black Bits",
@@ -15947,7 +15947,7 @@ const stockData = [
         "Item_SelfVal_Price":  "466.5",
         "Stock":  "0",
         "ItemCode":  "2211",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Chola",
@@ -15958,7 +15958,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.625",
         "Stock":  "0",
         "ItemCode":  "3136",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Dal Dhokli",
@@ -15969,7 +15969,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "-1",
         "ItemCode":  "2539",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Dal Pakwan",
@@ -15980,7 +15980,7 @@ const stockData = [
         "Item_SelfVal_Price":  "421.88",
         "Stock":  "12",
         "ItemCode":  "3009",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Delhi Chat",
@@ -15991,7 +15991,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2599",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Ferrari Chivda",
@@ -16002,7 +16002,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "2906",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Fruit Cream",
@@ -16013,7 +16013,7 @@ const stockData = [
         "Item_SelfVal_Price":  "432.75",
         "Stock":  "0",
         "ItemCode":  "2591",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Girl Friend",
@@ -16024,7 +16024,7 @@ const stockData = [
         "Item_SelfVal_Price":  "468.75",
         "Stock":  "0",
         "ItemCode":  "2403",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN IPHONE",
@@ -16035,7 +16035,7 @@ const stockData = [
         "Item_SelfVal_Price":  "390",
         "Stock":  "14",
         "ItemCode":  "3916",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Kaju Masala",
@@ -16046,7 +16046,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "0",
         "ItemCode":  "3129",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Lassi",
@@ -16057,7 +16057,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.625",
         "Stock":  "0",
         "ItemCode":  "3265",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Litti Choka",
@@ -16068,7 +16068,7 @@ const stockData = [
         "Item_SelfVal_Price":  "320.25",
         "Stock":  "7",
         "ItemCode":  "3006",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Litti Chokha",
@@ -16079,7 +16079,7 @@ const stockData = [
         "Item_SelfVal_Price":  "320.25",
         "Stock":  "-5",
         "ItemCode":  "2874",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Malai",
@@ -16090,7 +16090,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.625",
         "Stock":  "2",
         "ItemCode":  "3319",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN NAWABI PAN",
@@ -16101,7 +16101,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "2320",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Nylon Khaman",
@@ -16112,7 +16112,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3193",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Rabdi",
@@ -16123,7 +16123,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2178",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Rail Neer",
@@ -16134,7 +16134,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "4",
         "ItemCode":  "3197",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN RAJNI GANDHA",
@@ -16145,7 +16145,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2868",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Soup",
@@ -16156,7 +16156,7 @@ const stockData = [
         "Item_SelfVal_Price":  "331.875",
         "Stock":  "0",
         "ItemCode":  "3240",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Twenty Twenty",
@@ -16167,7 +16167,7 @@ const stockData = [
         "Item_SelfVal_Price":  "770.625",
         "Stock":  "4",
         "ItemCode":  "3126",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN Urfi",
@@ -16178,7 +16178,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "2585",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MN White Bits",
@@ -16189,7 +16189,7 @@ const stockData = [
         "Item_SelfVal_Price":  "466.5",
         "Stock":  "0",
         "ItemCode":  "2212",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohini Aafreen",
@@ -16200,7 +16200,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1489",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohini Palak",
@@ -16211,7 +16211,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1488",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohini Red Bull Firdous B/W",
@@ -16222,7 +16222,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "1503",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Juhi",
@@ -16233,7 +16233,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "1983",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MOHIT MADAM SAHIBA",
@@ -16244,7 +16244,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2326",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Rashmika",
@@ -16255,7 +16255,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1535",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MOHIT SABIYA",
@@ -16266,7 +16266,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "2327",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Sacha",
@@ -16277,7 +16277,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "1487",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Saheli",
@@ -16288,7 +16288,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1421",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Saloni",
@@ -16299,7 +16299,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1638",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Shabbo",
@@ -16310,7 +16310,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1982",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Suhani",
@@ -16321,7 +16321,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "2350",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Sunehri",
@@ -16332,7 +16332,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "0",
         "ItemCode":  "1646",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Sunshine",
@@ -16343,7 +16343,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "1486",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mohit Zara",
@@ -16354,7 +16354,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "1546",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MOIUSE L",
@@ -16365,7 +16365,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3480",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MOONLIGHT YELLOW",
@@ -16376,7 +16376,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2525",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MS Kashmir ki Kali",
@@ -16387,7 +16387,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444.375",
         "Stock":  "0",
         "ItemCode":  "3225",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MS Kasturi",
@@ -16398,7 +16398,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444.375",
         "Stock":  "0",
         "ItemCode":  "3224",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Aney",
@@ -16409,7 +16409,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1473.75",
         "Stock":  "0",
         "ItemCode":  "2883",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Gulbahar",
@@ -16420,7 +16420,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1659",
         "Stock":  "0",
         "ItemCode":  "2889",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Hit Men",
@@ -16431,7 +16431,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1500",
         "Stock":  "3",
         "ItemCode":  "2887",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Messi",
@@ -16442,7 +16442,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.5",
         "Stock":  "0",
         "ItemCode":  "2881",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Palak",
@@ -16453,7 +16453,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1445.25",
         "Stock":  "0",
         "ItemCode":  "2885",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM PASTA",
@@ -16464,7 +16464,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "2214",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Safari",
@@ -16475,7 +16475,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1445.25",
         "Stock":  "0",
         "ItemCode":  "2884",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Savera",
@@ -16486,7 +16486,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1507.5",
         "Stock":  "1",
         "ItemCode":  "2886",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Twinkle",
@@ -16497,7 +16497,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1591.5",
         "Stock":  "0",
         "ItemCode":  "2888",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MSM Zil Mil",
@@ -16508,7 +16508,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1507.5",
         "Stock":  "0",
         "ItemCode":  "2878",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Aaj Tak",
@@ -16519,7 +16519,7 @@ const stockData = [
         "Item_SelfVal_Price":  "433.125",
         "Stock":  "0",
         "ItemCode":  "3195",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT AAJA RE",
@@ -16530,7 +16530,7 @@ const stockData = [
         "Item_SelfVal_Price":  "376.875",
         "Stock":  "0",
         "ItemCode":  "2855",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Aasin",
@@ -16541,7 +16541,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "1536",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Aizaz Yellow",
@@ -16552,7 +16552,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "1",
         "ItemCode":  "3433",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT ALIA",
@@ -16563,7 +16563,7 @@ const stockData = [
         "Item_SelfVal_Price":  "473.625",
         "Stock":  "0",
         "ItemCode":  "2856",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT ARIYA",
@@ -16574,7 +16574,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.38",
         "Stock":  "0",
         "ItemCode":  "2812",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Butter",
@@ -16585,7 +16585,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2185",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Coper carry",
@@ -16596,7 +16596,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2577",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT COPPER CARRY",
@@ -16607,7 +16607,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2302",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT DIVYA",
@@ -16618,7 +16618,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "8",
         "ItemCode":  "4072",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT FIROZA",
@@ -16629,7 +16629,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2260",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT GAURI",
@@ -16640,7 +16640,7 @@ const stockData = [
         "Item_SelfVal_Price":  "466.875",
         "Stock":  "0",
         "ItemCode":  "2810",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Golden",
@@ -16651,7 +16651,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "3194",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Google",
@@ -16662,7 +16662,7 @@ const stockData = [
         "Item_SelfVal_Price":  "465",
         "Stock":  "1",
         "ItemCode":  "2965",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT GULDASTA",
@@ -16673,7 +16673,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2756",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT HAPPY",
@@ -16684,7 +16684,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.875",
         "Stock":  "0",
         "ItemCode":  "2624",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT HOT GARMI",
@@ -16695,7 +16695,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "2313",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Indigo",
@@ -16706,7 +16706,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "3",
         "ItemCode":  "3061",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Jannat",
@@ -16717,7 +16717,7 @@ const stockData = [
         "Item_SelfVal_Price":  "415",
         "Stock":  "0",
         "ItemCode":  "3743",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Jasmine",
@@ -16728,7 +16728,7 @@ const stockData = [
         "Item_SelfVal_Price":  "680",
         "Stock":  "4",
         "ItemCode":  "3740",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Jeep Compass",
@@ -16739,7 +16739,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2919",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Jimmy",
@@ -16750,7 +16750,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "3173",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Jio Cinema",
@@ -16761,7 +16761,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "2209",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Jumari",
@@ -16772,7 +16772,7 @@ const stockData = [
         "Item_SelfVal_Price":  "431.25",
         "Stock":  "0",
         "ItemCode":  "1304",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Kashmiri",
@@ -16783,7 +16783,7 @@ const stockData = [
         "Item_SelfVal_Price":  "530",
         "Stock":  "0",
         "ItemCode":  "3742",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Lotus",
@@ -16794,7 +16794,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2183",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Patiyala Pant",
@@ -16805,7 +16805,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2194",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Paytm",
@@ -16816,7 +16816,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2208",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT PREMA",
@@ -16827,7 +16827,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444",
         "Stock":  "0",
         "ItemCode":  "2778",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Radhya",
@@ -16838,7 +16838,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "3790",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Rasberry",
@@ -16849,7 +16849,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "2873",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Roop ki Rani",
@@ -16860,7 +16860,7 @@ const stockData = [
         "Item_SelfVal_Price":  "558.75",
         "Stock":  "0",
         "ItemCode":  "1537",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Saanvi",
@@ -16871,7 +16871,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "4",
         "ItemCode":  "1310",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Safa",
@@ -16882,7 +16882,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.5",
         "Stock":  "5",
         "ItemCode":  "2973",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Safina",
@@ -16893,7 +16893,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.5",
         "Stock":  "4",
         "ItemCode":  "2975",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Sajde",
@@ -16904,7 +16904,7 @@ const stockData = [
         "Item_SelfVal_Price":  "570",
         "Stock":  "0",
         "ItemCode":  "1539",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT SAKINA",
@@ -16915,7 +16915,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "-1",
         "ItemCode":  "2832",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT SALMA",
@@ -16926,7 +16926,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "0",
         "ItemCode":  "2813",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Samara",
@@ -16937,7 +16937,7 @@ const stockData = [
         "Item_SelfVal_Price":  "440",
         "Stock":  "4",
         "ItemCode":  "3741",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT SATRANGI",
@@ -16948,7 +16948,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2768",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Sehr",
@@ -16959,7 +16959,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "0",
         "ItemCode":  "3220",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Shaheena",
@@ -16970,7 +16970,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.25",
         "Stock":  "5",
         "ItemCode":  "2966",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Shifa",
@@ -16981,7 +16981,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "4",
         "ItemCode":  "2974",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Skena",
@@ -16992,7 +16992,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.125",
         "Stock":  "2",
         "ItemCode":  "3128",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT SONA",
@@ -17003,7 +17003,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "1",
         "ItemCode":  "2770",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mt Sunflower",
@@ -17014,7 +17014,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "2653",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT TOTAL DHAMAAL",
@@ -17025,7 +17025,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "3",
         "ItemCode":  "2675",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT YUSRA",
@@ -17036,7 +17036,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "1",
         "ItemCode":  "2811",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT Zara",
@@ -17047,7 +17047,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "2659",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT ZHIL MIL",
@@ -17058,7 +17058,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "0",
         "ItemCode":  "2771",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MT ZOHRI",
@@ -17069,7 +17069,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "2312",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh Butterfly",
@@ -17080,7 +17080,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "1440",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh Dream",
@@ -17091,7 +17091,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "1441",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh Pakistani",
@@ -17102,7 +17102,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "1438",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh PC Rani",
@@ -17113,7 +17113,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "1564",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh RDX",
@@ -17124,7 +17124,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1443",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh Real Diamond",
@@ -17135,7 +17135,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1545",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh Sheetal",
@@ -17146,7 +17146,7 @@ const stockData = [
         "Item_SelfVal_Price":  "456",
         "Stock":  "0",
         "ItemCode":  "1439",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Mukesh White House",
@@ -17157,7 +17157,7 @@ const stockData = [
         "Item_SelfVal_Price":  "456",
         "Stock":  "0",
         "ItemCode":  "1442",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Anaya",
@@ -17168,7 +17168,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1057.5",
         "Stock":  "0",
         "ItemCode":  "1574",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Anu",
@@ -17179,7 +17179,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "1571",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Bindiya",
@@ -17190,7 +17190,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2313.75",
         "Stock":  "0",
         "ItemCode":  "1661",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Chocolate",
@@ -17201,7 +17201,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1766.25",
         "Stock":  "0",
         "ItemCode":  "1567",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Enam",
@@ -17212,7 +17212,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1661.25",
         "Stock":  "2",
         "ItemCode":  "1586",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Fashion",
@@ -17223,7 +17223,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1305",
         "Stock":  "0",
         "ItemCode":  "1575",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Fine",
@@ -17234,7 +17234,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1957.5",
         "Stock":  "0",
         "ItemCode":  "1573",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Gulabo",
@@ -17245,7 +17245,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "4",
         "ItemCode":  "1577",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Gunjan",
@@ -17256,7 +17256,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2370",
         "Stock":  "0",
         "ItemCode":  "1660",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Lucky",
@@ -17267,7 +17267,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1620",
         "Stock":  "0",
         "ItemCode":  "1570",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Masti",
@@ -17278,7 +17278,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "1662",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Meghna",
@@ -17289,7 +17289,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1608.75",
         "Stock":  "0",
         "ItemCode":  "1569",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MUSIC PEPLUM",
@@ -17300,7 +17300,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2259",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Rajni Pant",
@@ -17311,7 +17311,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1942.5",
         "Stock":  "0",
         "ItemCode":  "1950",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Ruhan Pant",
@@ -17322,7 +17322,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1867.5",
         "Stock":  "0",
         "ItemCode":  "1949",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Sandwich",
@@ -17333,7 +17333,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2167.5",
         "Stock":  "0",
         "ItemCode":  "1659",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Sara",
@@ -17344,7 +17344,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1305",
         "Stock":  "0",
         "ItemCode":  "1576",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music Twinkle",
@@ -17355,7 +17355,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2010",
         "Stock":  "0",
         "ItemCode":  "1568",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Music YouTube",
@@ -17366,7 +17366,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "1572",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Muskan VC",
@@ -17377,7 +17377,7 @@ const stockData = [
         "Item_SelfVal_Price":  "343.5",
         "Stock":  "0",
         "ItemCode":  "1541",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "MUSKAN VT",
@@ -17388,7 +17388,7 @@ const stockData = [
         "Item_SelfVal_Price":  "692.25",
         "Stock":  "0",
         "ItemCode":  "1460",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N AMISHA",
@@ -17399,7 +17399,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1025",
         "Stock":  "0",
         "ItemCode":  "3931",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N Angara",
@@ -17410,7 +17410,7 @@ const stockData = [
         "Item_SelfVal_Price":  "900",
         "Stock":  "4",
         "ItemCode":  "3779",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N Highway",
@@ -17421,7 +17421,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "7",
         "ItemCode":  "3781",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N Hippi",
@@ -17432,7 +17432,7 @@ const stockData = [
         "Item_SelfVal_Price":  "900",
         "Stock":  "4",
         "ItemCode":  "3793",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N HOPE",
@@ -17443,7 +17443,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "0",
         "ItemCode":  "3925",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N Kinza",
@@ -17454,7 +17454,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1100",
         "Stock":  "4",
         "ItemCode":  "3780",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N LAFEEZA",
@@ -17465,7 +17465,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1424",
         "Stock":  "1",
         "ItemCode":  "3932",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N Lovely",
@@ -17476,7 +17476,7 @@ const stockData = [
         "Item_SelfVal_Price":  "925",
         "Stock":  "1",
         "ItemCode":  "3792",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N MENGODOLY",
@@ -17487,7 +17487,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1080",
         "Stock":  "4",
         "ItemCode":  "3934",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N Nagma",
@@ -17498,7 +17498,7 @@ const stockData = [
         "Item_SelfVal_Price":  "935",
         "Stock":  "3",
         "ItemCode":  "3935",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N NASARA",
@@ -17509,7 +17509,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490",
         "Stock":  "3",
         "ItemCode":  "3928",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N NAYSA",
@@ -17520,7 +17520,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "4",
         "ItemCode":  "3929",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N NOORANI",
@@ -17531,7 +17531,7 @@ const stockData = [
         "Item_SelfVal_Price":  "960",
         "Stock":  "0",
         "ItemCode":  "3927",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N SARKHEDI",
@@ -17542,7 +17542,7 @@ const stockData = [
         "Item_SelfVal_Price":  "805",
         "Stock":  "2",
         "ItemCode":  "3926",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N SHALIMAR",
@@ -17553,7 +17553,7 @@ const stockData = [
         "Item_SelfVal_Price":  "900",
         "Stock":  "4",
         "ItemCode":  "3930",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "N TAMANNA",
@@ -17564,7 +17564,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "0",
         "ItemCode":  "3933",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NA Jam Pooja",
@@ -17575,7 +17575,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1578",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nagma",
@@ -17586,7 +17586,7 @@ const stockData = [
         "Item_SelfVal_Price":  "75",
         "Stock":  "0",
         "ItemCode":  "1714",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NAJRANA",
@@ -17597,7 +17597,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2508",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NANU DRESS",
@@ -17608,7 +17608,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2051",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NAYRA",
@@ -17619,7 +17619,7 @@ const stockData = [
         "Item_SelfVal_Price":  "937.5",
         "Stock":  "-1",
         "ItemCode":  "2010",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nazrana SNT",
@@ -17630,7 +17630,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1709",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NEEL KAMAL BHUMI",
@@ -17641,7 +17641,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1465",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Neelmani RR Ding Dong",
@@ -17652,7 +17652,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "1793",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nerolac GK",
@@ -17663,7 +17663,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1374",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NET GOWN",
@@ -17674,7 +17674,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "2025",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NET GOWN 2",
@@ -17685,7 +17685,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2026",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nevedhyam Anaya",
@@ -17696,7 +17696,7 @@ const stockData = [
         "Item_SelfVal_Price":  "851.25",
         "Stock":  "0",
         "ItemCode":  "1651",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nevedhyam Apurva",
@@ -17707,7 +17707,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "1650",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nevedhyam Begum",
@@ -17718,7 +17718,7 @@ const stockData = [
         "Item_SelfVal_Price":  "967.5",
         "Stock":  "0",
         "ItemCode":  "1652",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nevedhyam Gulabi Farshi sharara",
@@ -17729,7 +17729,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1800",
         "Stock":  "0",
         "ItemCode":  "1654",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nevedhyam Kesar Frock F/B Work Best",
@@ -17740,7 +17740,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1275",
         "Stock":  "0",
         "ItemCode":  "1988",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NEVEDHYAM MUNNI",
@@ -17751,7 +17751,7 @@ const stockData = [
         "Item_SelfVal_Price":  "933.75",
         "Stock":  "0",
         "ItemCode":  "2008",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "New Kajuriya",
@@ -17762,7 +17762,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1436",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Niyati",
@@ -17773,7 +17773,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1856.25",
         "Stock":  "0",
         "ItemCode":  "3042",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Nose Piece",
@@ -17784,7 +17784,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2108",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "NS DEVRA",
@@ -17795,7 +17795,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2769",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OC Animal",
@@ -17806,7 +17806,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1791",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OC Anu Shree",
@@ -17817,7 +17817,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1795",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OG GALAXY",
@@ -17828,7 +17828,7 @@ const stockData = [
         "Item_SelfVal_Price":  "295",
         "Stock":  "20",
         "ItemCode":  "4032",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Old Balance",
@@ -17839,7 +17839,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2106",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OLKA",
@@ -17850,7 +17850,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "4",
         "ItemCode":  "4041",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om 123",
@@ -17861,7 +17861,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "7",
         "ItemCode":  "3798",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om 786",
@@ -17872,7 +17872,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "9",
         "ItemCode":  "3503",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Aaj Tak",
@@ -17883,7 +17883,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2210",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Aarju",
@@ -17894,7 +17894,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1445",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Afreen",
@@ -17905,7 +17905,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "4",
         "ItemCode":  "3427",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM AIR AISA",
@@ -17916,7 +17916,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "1",
         "ItemCode":  "3619",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om All Out Pak Suit",
@@ -17927,7 +17927,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.5",
         "Stock":  "0",
         "ItemCode":  "1265",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Allout Pak Suit",
@@ -17938,7 +17938,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.5",
         "Stock":  "0",
         "ItemCode":  "1336",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Almora",
@@ -17949,7 +17949,7 @@ const stockData = [
         "Item_SelfVal_Price":  "748.125",
         "Stock":  "4",
         "ItemCode":  "3227",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Amazon",
@@ -17960,7 +17960,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "0",
         "ItemCode":  "3425",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om American Pride Pak Suit",
@@ -17971,7 +17971,7 @@ const stockData = [
         "Item_SelfVal_Price":  "742.5",
         "Stock":  "0",
         "ItemCode":  "1547",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM ANANDI",
@@ -17982,7 +17982,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2742",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Arani",
@@ -17993,7 +17993,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1552",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Avni",
@@ -18004,7 +18004,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1551",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Badam Pista",
@@ -18015,7 +18015,7 @@ const stockData = [
         "Item_SelfVal_Price":  "770.625",
         "Stock":  "0",
         "ItemCode":  "3115",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Barfi",
@@ -18026,7 +18026,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2213",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM BHEL",
@@ -18037,7 +18037,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2261",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Big Boss",
@@ -18048,7 +18048,7 @@ const stockData = [
         "Item_SelfVal_Price":  "937.5",
         "Stock":  "0",
         "ItemCode":  "1998",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Black Out",
@@ -18059,7 +18059,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1388",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Boss",
@@ -18070,7 +18070,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.125",
         "Stock":  "0",
         "ItemCode":  "3288",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Brahmastra",
@@ -18081,7 +18081,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.75",
         "Stock":  "0",
         "ItemCode":  "1340",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Burj Khalifa",
@@ -18092,7 +18092,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "3",
         "ItemCode":  "3114",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM CHAND KA TUKDA",
@@ -18103,7 +18103,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "7",
         "ItemCode":  "3897",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM CHIKKI",
@@ -18114,7 +18114,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534",
         "Stock":  "0",
         "ItemCode":  "2741",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Cookies",
@@ -18125,7 +18125,7 @@ const stockData = [
         "Item_SelfVal_Price":  "587.5",
         "Stock":  "166",
         "ItemCode":  "2004",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Dhamal Masti",
@@ -18136,7 +18136,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "6",
         "ItemCode":  "3397",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM DIL MAANGE MORE",
@@ -18147,7 +18147,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "4",
         "ItemCode":  "4036",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM DOLLAR",
@@ -18158,7 +18158,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "2866",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM DOUBLE RUN",
@@ -18169,7 +18169,7 @@ const stockData = [
         "Item_SelfVal_Price":  "690",
         "Stock":  "3",
         "ItemCode":  "3777",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Dream Girl",
@@ -18180,7 +18180,7 @@ const stockData = [
         "Item_SelfVal_Price":  "491.25",
         "Stock":  "0",
         "ItemCode":  "1861",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Fuwara",
@@ -18191,7 +18191,7 @@ const stockData = [
         "Item_SelfVal_Price":  "483.75",
         "Stock":  "5",
         "ItemCode":  "2672",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Glenfiddich",
@@ -18202,7 +18202,7 @@ const stockData = [
         "Item_SelfVal_Price":  "767.25",
         "Stock":  "0",
         "ItemCode":  "1411",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Gunjan",
@@ -18213,7 +18213,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2748",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Happy",
@@ -18224,7 +18224,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "1",
         "ItemCode":  "3326",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Imperial",
@@ -18235,7 +18235,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "1410",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM IPL",
@@ -18246,7 +18246,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1102.5",
         "Stock":  "0",
         "ItemCode":  "2310",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Jenny",
@@ -18257,7 +18257,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "4",
         "ItemCode":  "3328",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Jivika",
@@ -18268,7 +18268,7 @@ const stockData = [
         "Item_SelfVal_Price":  "978.75",
         "Stock":  "0",
         "ItemCode":  "2436",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Johnnie Walker",
@@ -18279,7 +18279,7 @@ const stockData = [
         "Item_SelfVal_Price":  "930",
         "Stock":  "0",
         "ItemCode":  "1622",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM JOLLY",
@@ -18290,7 +18290,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "4013",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Jumka",
@@ -18301,7 +18301,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "0",
         "ItemCode":  "3428",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM KACHI KERI",
@@ -18312,7 +18312,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "4",
         "ItemCode":  "3617",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM KALA KRUTI",
@@ -18323,7 +18323,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "2007",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Khushbu",
@@ -18334,7 +18334,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "1",
         "ItemCode":  "3390",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Khushnasib",
@@ -18345,7 +18345,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "7",
         "ItemCode":  "3429",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM KRRISH",
@@ -18356,7 +18356,7 @@ const stockData = [
         "Item_SelfVal_Price":  "610",
         "Stock":  "6",
         "ItemCode":  "3887",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM LADO RANI",
@@ -18367,7 +18367,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410",
         "Stock":  "4",
         "ItemCode":  "4033",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Lenskart",
@@ -18378,7 +18378,7 @@ const stockData = [
         "Item_SelfVal_Price":  "712.5",
         "Stock":  "0",
         "ItemCode":  "2003",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Lucky",
@@ -18389,7 +18389,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "3291",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Maharani",
@@ -18400,7 +18400,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "4",
         "ItemCode":  "3773",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Mahi",
@@ -18411,7 +18411,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2626",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Mahira",
@@ -18422,7 +18422,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1657",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Mashal",
@@ -18433,7 +18433,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1334",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM MAX FRESH",
@@ -18444,7 +18444,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "4",
         "ItemCode":  "3799",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Mercedes",
@@ -18455,7 +18455,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1042.5",
         "Stock":  "0",
         "ItemCode":  "1899",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Mojito",
@@ -18466,7 +18466,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "3",
         "ItemCode":  "3267",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM My Love",
@@ -18477,7 +18477,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "2",
         "ItemCode":  "3347",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Nagin",
@@ -18488,7 +18488,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1550",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Nagina",
@@ -18499,7 +18499,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1556",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Nautanki",
@@ -18510,7 +18510,7 @@ const stockData = [
         "Item_SelfVal_Price":  "640",
         "Stock":  "4",
         "ItemCode":  "3774",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om New Look",
@@ -18521,7 +18521,7 @@ const stockData = [
         "Item_SelfVal_Price":  "800",
         "Stock":  "0",
         "ItemCode":  "3772",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Nigar",
@@ -18532,7 +18532,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "4",
         "ItemCode":  "3290",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM OFFICER",
@@ -18543,7 +18543,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2317",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM ONLINE",
@@ -18554,7 +18554,7 @@ const stockData = [
         "Item_SelfVal_Price":  "670",
         "Stock":  "3",
         "ItemCode":  "3783",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Orchid",
@@ -18565,7 +18565,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "1444",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Paytm",
@@ -18576,7 +18576,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "1878",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM PRATIGNA",
@@ -18587,7 +18587,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "2128",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM PREM DHAGGA",
@@ -18598,7 +18598,7 @@ const stockData = [
         "Item_SelfVal_Price":  "535",
         "Stock":  "8",
         "ItemCode":  "3898",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Race",
@@ -18609,7 +18609,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.75",
         "Stock":  "0",
         "ItemCode":  "1335",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM RAMKUDI JHAMKUDI",
@@ -18620,7 +18620,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "4",
         "ItemCode":  "3618",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Rangeela Raja",
@@ -18631,7 +18631,7 @@ const stockData = [
         "Item_SelfVal_Price":  "513.75",
         "Stock":  "0",
         "ItemCode":  "1964",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Ras Malai",
@@ -18642,7 +18642,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2200",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Rasheeda",
@@ -18653,7 +18653,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "1548",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Rashida",
@@ -18664,7 +18664,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "1549",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Raymond",
@@ -18675,7 +18675,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "0",
         "ItemCode":  "3331",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Renuka garara",
@@ -18686,7 +18686,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1860",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Rewadi",
@@ -18697,7 +18697,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "0",
         "ItemCode":  "2905",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Roshni",
@@ -18708,7 +18708,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.12",
         "Stock":  "6",
         "ItemCode":  "3289",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Sakira",
@@ -18719,7 +18719,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "1591",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Sayri",
@@ -18730,7 +18730,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3432",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Selfie",
@@ -18741,7 +18741,7 @@ const stockData = [
         "Item_SelfVal_Price":  "748.125",
         "Stock":  "0",
         "ItemCode":  "3229",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Senorita",
@@ -18752,7 +18752,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.12",
         "Stock":  "1",
         "ItemCode":  "3287",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Serana",
@@ -18763,7 +18763,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1155",
         "Stock":  "0",
         "ItemCode":  "1920",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Shakira",
@@ -18774,7 +18774,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "1592",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Sharmila",
@@ -18785,7 +18785,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1267",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Signal Hill",
@@ -18796,7 +18796,7 @@ const stockData = [
         "Item_SelfVal_Price":  "804.75",
         "Stock":  "0",
         "ItemCode":  "1409",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM sofiya",
@@ -18807,7 +18807,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1965",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Sona Mihar",
@@ -18818,7 +18818,7 @@ const stockData = [
         "Item_SelfVal_Price":  "670",
         "Stock":  "4",
         "ItemCode":  "3788",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Stree",
@@ -18829,7 +18829,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.875",
         "Stock":  "0",
         "ItemCode":  "3117",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Swiggy",
@@ -18840,7 +18840,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "4",
         "ItemCode":  "3424",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Tara Sitara",
@@ -18851,7 +18851,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "4",
         "ItemCode":  "3330",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Tehlka",
@@ -18862,7 +18862,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "4",
         "ItemCode":  "3398",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM TITAN",
@@ -18873,7 +18873,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2126",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Vanilla",
@@ -18884,7 +18884,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "3",
         "ItemCode":  "3426",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Verna",
@@ -18895,7 +18895,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "1999",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM VOLKSWAGEN",
@@ -18906,7 +18906,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "0",
         "ItemCode":  "3620",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om white House",
@@ -18917,7 +18917,7 @@ const stockData = [
         "Item_SelfVal_Price":  "795",
         "Stock":  "0",
         "ItemCode":  "1910",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM White London",
@@ -18928,7 +18928,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "2250",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Winter",
@@ -18939,7 +18939,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2625",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Yes Boss",
@@ -18950,7 +18950,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "1",
         "ItemCode":  "3228",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Yess Boss",
@@ -18961,7 +18961,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "4",
         "ItemCode":  "3502",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM YouTube",
@@ -18972,7 +18972,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "0",
         "ItemCode":  "2627",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Zainab",
@@ -18983,7 +18983,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "7",
         "ItemCode":  "3329",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM ZAVERA",
@@ -18994,7 +18994,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2329",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Zinda Dil",
@@ -19005,7 +19005,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "0",
         "ItemCode":  "1555",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Om Zindail",
@@ -19016,7 +19016,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "0",
         "ItemCode":  "1554",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Zinfandel",
@@ -19027,7 +19027,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "0",
         "ItemCode":  "1553",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OM Zomato",
@@ -19038,7 +19038,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1966",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "One Plus VT",
@@ -19049,7 +19049,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1610",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Oppo GK",
@@ -19060,7 +19060,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1376",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OS Aaloo Tikki",
@@ -19071,7 +19071,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2961",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "OS Kangana",
@@ -19082,7 +19082,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2962",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PAKHODI MT",
@@ -19093,7 +19093,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.75",
         "Stock":  "0",
         "ItemCode":  "1461",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PAKODI MT",
@@ -19104,7 +19104,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.75",
         "Stock":  "0",
         "ItemCode":  "1462",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Panner Handi MT",
@@ -19115,7 +19115,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1934",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Paplon",
@@ -19126,7 +19126,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "-1",
         "ItemCode":  "3295",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PAPLON WITH TROUSER",
@@ -19137,7 +19137,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "3259",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pari Fab Rani",
@@ -19148,7 +19148,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.375",
         "Stock":  "4",
         "ItemCode":  "3171",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pari Fab Sheetal",
@@ -19159,7 +19159,7 @@ const stockData = [
         "Item_SelfVal_Price":  "697.5",
         "Stock":  "0",
         "ItemCode":  "3172",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PASHMINA",
@@ -19170,7 +19170,7 @@ const stockData = [
         "Item_SelfVal_Price":  "26",
         "Stock":  "1297.35",
         "ItemCode":  "2103",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pasta MT",
@@ -19181,7 +19181,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1936",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PAWAN KILAR",
@@ -19192,7 +19192,7 @@ const stockData = [
         "Item_SelfVal_Price":  "575",
         "Stock":  "8",
         "ItemCode":  "4075",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PAWNI JACKPOT",
@@ -19203,7 +19203,7 @@ const stockData = [
         "Item_SelfVal_Price":  "510",
         "Stock":  "4",
         "ItemCode":  "4070",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PAYAL Deepkala",
@@ -19214,7 +19214,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "15",
         "ItemCode":  "3585",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pc Jackpot",
@@ -19225,7 +19225,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "4",
         "ItemCode":  "3939",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PC ROMANCE",
@@ -19236,7 +19236,7 @@ const stockData = [
         "Item_SelfVal_Price":  "530",
         "Stock":  "4",
         "ItemCode":  "3808",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PC WHITE ROSE",
@@ -19247,7 +19247,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3782",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pehnawa",
@@ -19258,7 +19258,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1451",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PEHNAWA 3 METER SHALWAR",
@@ -19269,7 +19269,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "2151",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pehnawa Madhumati",
@@ -19280,7 +19280,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1449",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pehnawa Monika Print",
@@ -19291,7 +19291,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1454",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pehnawa Print",
@@ -19302,7 +19302,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1450",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PEHNAWA SAMRPAN",
@@ -19313,7 +19313,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2752",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PEHNAWA SHAGUN",
@@ -19324,7 +19324,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2265",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pehnawa Shivani Print",
@@ -19335,7 +19335,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1453",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pehnawa Somiya Print",
@@ -19346,7 +19346,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1452",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PF Tiger",
@@ -19357,7 +19357,7 @@ const stockData = [
         "Item_SelfVal_Price":  "457.5",
         "Stock":  "0",
         "ItemCode":  "2500",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pinkey SNT",
@@ -19368,7 +19368,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1710",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Plain Kapda Mix Light Colour Chart",
@@ -19379,7 +19379,7 @@ const stockData = [
         "Item_SelfVal_Price":  "14.625",
         "Stock":  "-1",
         "ItemCode":  "1254",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PLAZO 1",
@@ -19390,7 +19390,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1750",
         "Stock":  "-3",
         "ItemCode":  "2012",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Polo Pari Fab",
@@ -19401,7 +19401,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1484",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PPT Hinal",
@@ -19412,7 +19412,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "1526",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PPT Joker",
@@ -19423,7 +19423,7 @@ const stockData = [
         "Item_SelfVal_Price":  "468.75",
         "Stock":  "0",
         "ItemCode":  "2079",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PPT Nazakat",
@@ -19434,7 +19434,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "1921",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Prinkha",
@@ -19445,7 +19445,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1630",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Print Gala KI",
@@ -19456,7 +19456,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500.625",
         "Stock":  "0",
         "ItemCode":  "3169",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Print Zarkan Gala",
@@ -19467,7 +19467,7 @@ const stockData = [
         "Item_SelfVal_Price":  "570",
         "Stock":  "1",
         "ItemCode":  "3505",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PRINTED DUPATTA",
@@ -19478,7 +19478,7 @@ const stockData = [
         "Item_SelfVal_Price":  "34.875",
         "Stock":  "0",
         "ItemCode":  "2782",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PRIYA JV READY",
@@ -19489,7 +19489,7 @@ const stockData = [
         "Item_SelfVal_Price":  "355",
         "Stock":  "45",
         "ItemCode":  "3658",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Priya Pak Suit Dhaga Work",
@@ -19500,7 +19500,7 @@ const stockData = [
         "Item_SelfVal_Price":  "446.25",
         "Stock":  "0",
         "ItemCode":  "1501",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Priyanka",
@@ -19511,7 +19511,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1766.25",
         "Stock":  "1",
         "ItemCode":  "3041",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Priyanka Turkish Towel",
@@ -19522,7 +19522,7 @@ const stockData = [
         "Item_SelfVal_Price":  "60",
         "Stock":  "383",
         "ItemCode":  "3694",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Protain MT",
@@ -19533,7 +19533,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1678",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "PUBLIC DEMAND",
@@ -19544,7 +19544,7 @@ const stockData = [
         "Item_SelfVal_Price":  "370",
         "Stock":  "2",
         "ItemCode":  "3900",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Punjabi Lassi",
@@ -19555,7 +19555,7 @@ const stockData = [
         "Item_SelfVal_Price":  "412.5",
         "Stock":  "0",
         "ItemCode":  "1919",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Purse",
@@ -19566,7 +19566,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3908",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Pushpa Agarwal",
@@ -19577,7 +19577,7 @@ const stockData = [
         "Item_SelfVal_Price":  "208.5",
         "Stock":  "0",
         "ItemCode":  "1741",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Raas Villas Mission India",
@@ -19588,7 +19588,7 @@ const stockData = [
         "Item_SelfVal_Price":  "236.25",
         "Stock":  "0",
         "ItemCode":  "2488",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Radhika Firdaus",
@@ -19599,7 +19599,7 @@ const stockData = [
         "Item_SelfVal_Price":  "270",
         "Stock":  "0",
         "ItemCode":  "3323",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Radhika Hemshree",
@@ -19610,7 +19610,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.625",
         "Stock":  "3",
         "ItemCode":  "3324",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ragini JF",
@@ -19621,7 +19621,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1348",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rainy Days",
@@ -19632,7 +19632,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "3564",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rangoli GK",
@@ -19643,7 +19643,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1347",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rapid Pro MT",
@@ -19654,7 +19654,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "1670",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rasgulla",
@@ -19665,7 +19665,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1630",
         "Stock":  "0",
         "ItemCode":  "3367",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rayon",
@@ -19676,7 +19676,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-2",
         "ItemCode":  "2563",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rayon Dupatta",
@@ -19687,7 +19687,7 @@ const stockData = [
         "Item_SelfVal_Price":  "420",
         "Stock":  "39",
         "ItemCode":  "3754",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RAYON MIRROR",
@@ -19698,7 +19698,7 @@ const stockData = [
         "Item_SelfVal_Price":  "430",
         "Stock":  "32",
         "ItemCode":  "4003",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rc Nayra",
@@ -19709,7 +19709,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "0",
         "ItemCode":  "3734",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Readymade 273",
@@ -19720,7 +19720,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1434",
         "Stock":  "-1",
         "ItemCode":  "3520",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rekha Pari Fab",
@@ -19731,7 +19731,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1483",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Reno GK",
@@ -19742,7 +19742,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1375",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Replacement",
@@ -19753,7 +19753,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2419",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Reyon Plain",
@@ -19764,7 +19764,7 @@ const stockData = [
         "Item_SelfVal_Price":  "50.625",
         "Stock":  "0",
         "ItemCode":  "1255",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Reyona Maya",
@@ -19775,7 +19775,7 @@ const stockData = [
         "Item_SelfVal_Price":  "547.5",
         "Stock":  "0",
         "ItemCode":  "1937",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rice GK",
@@ -19786,7 +19786,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1373",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Romaisha Kc",
@@ -19797,7 +19797,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3185",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roman Silk Goodluck",
@@ -19808,7 +19808,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "2590",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roman White Star",
@@ -19819,7 +19819,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444",
         "Stock":  "0",
         "ItemCode":  "2540",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Ki Rani 1st",
@@ -19830,7 +19830,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "1231",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Sangam 01 No",
@@ -19841,7 +19841,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1170",
         "Stock":  "0",
         "ItemCode":  "1584",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Sangam 2 No",
@@ -19852,7 +19852,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1170",
         "Stock":  "0",
         "ItemCode":  "1585",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Sangam 3 No.",
@@ -19863,7 +19863,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1282.5",
         "Stock":  "0",
         "ItemCode":  "1582",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Sangam 4 No.",
@@ -19874,7 +19874,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1282.5",
         "Stock":  "0",
         "ItemCode":  "1583",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Sangam 5 No.",
@@ -19885,7 +19885,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1518.75",
         "Stock":  "0",
         "ItemCode":  "1581",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop Sangam 6 No",
@@ -19896,7 +19896,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1282.5",
         "Stock":  "0",
         "ItemCode":  "1580",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop sangam white dhaga zarkan",
@@ -19907,7 +19907,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1041",
         "Stock":  "0",
         "ItemCode":  "1796",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Roop sangam white dhaga zarkan work",
@@ -19918,7 +19918,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "1882",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Royal Ghamti",
@@ -19929,7 +19929,7 @@ const stockData = [
         "Item_SelfVal_Price":  "225",
         "Stock":  "115",
         "ItemCode":  "3828",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Royal Pouch Packing",
@@ -19940,7 +19940,7 @@ const stockData = [
         "Item_SelfVal_Price":  "191.25",
         "Stock":  "0",
         "ItemCode":  "1777",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Royal Punjabi Cut",
@@ -19951,7 +19951,7 @@ const stockData = [
         "Item_SelfVal_Price":  "18",
         "Stock":  "0",
         "ItemCode":  "2498",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rozy Chandramukhi kala chashma",
@@ -19962,7 +19962,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "89",
         "ItemCode":  "3603",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Aarju",
@@ -19973,7 +19973,7 @@ const stockData = [
         "Item_SelfVal_Price":  "322.5",
         "Stock":  "0",
         "ItemCode":  "1688",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR AARTI",
@@ -19984,7 +19984,7 @@ const stockData = [
         "Item_SelfVal_Price":  "305",
         "Stock":  "7",
         "ItemCode":  "4021",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rr Alveera",
@@ -19995,7 +19995,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "3309",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR AMRUT",
@@ -20006,7 +20006,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "8",
         "ItemCode":  "4020",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Anaar",
@@ -20017,7 +20017,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "1753",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Answer",
@@ -20028,7 +20028,7 @@ const stockData = [
         "Item_SelfVal_Price":  "253.5",
         "Stock":  "0",
         "ItemCode":  "1261",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rr Bablu",
@@ -20039,7 +20039,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "-2",
         "ItemCode":  "3375",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR BAILEY",
@@ -20050,7 +20050,7 @@ const stockData = [
         "Item_SelfVal_Price":  "350",
         "Stock":  "4",
         "ItemCode":  "4027",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR BANSAL",
@@ -20061,7 +20061,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "4",
         "ItemCode":  "4022",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR BLACK BUNNY",
@@ -20072,7 +20072,7 @@ const stockData = [
         "Item_SelfVal_Price":  "400",
         "Stock":  "-1",
         "ItemCode":  "3882",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Chole Kulche",
@@ -20083,7 +20083,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "0",
         "ItemCode":  "1259",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Damru",
@@ -20094,7 +20094,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "3232",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR danger zone",
@@ -20105,7 +20105,7 @@ const stockData = [
         "Item_SelfVal_Price":  "309.75",
         "Stock":  "0",
         "ItemCode":  "1690",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Deshraaj",
@@ -20116,7 +20116,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "0",
         "ItemCode":  "1257",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Door Closer",
@@ -20127,7 +20127,7 @@ const stockData = [
         "Item_SelfVal_Price":  "298.5",
         "Stock":  "0",
         "ItemCode":  "1283",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR God father",
@@ -20138,7 +20138,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "1683",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rr Gola",
@@ -20149,7 +20149,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "2",
         "ItemCode":  "3234",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR GULBAHAR",
@@ -20160,7 +20160,7 @@ const stockData = [
         "Item_SelfVal_Price":  "342",
         "Stock":  "8",
         "ItemCode":  "4026",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Har Pal",
@@ -20171,7 +20171,7 @@ const stockData = [
         "Item_SelfVal_Price":  "322.5",
         "Stock":  "0",
         "ItemCode":  "1685",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Help",
@@ -20182,7 +20182,7 @@ const stockData = [
         "Item_SelfVal_Price":  "286.5",
         "Stock":  "0",
         "ItemCode":  "2950",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Hindustan",
@@ -20193,7 +20193,7 @@ const stockData = [
         "Item_SelfVal_Price":  "326.25",
         "Stock":  "0",
         "ItemCode":  "3233",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Hukumat",
@@ -20204,7 +20204,7 @@ const stockData = [
         "Item_SelfVal_Price":  "326.25",
         "Stock":  "0",
         "ItemCode":  "3235",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Jiim",
@@ -20215,7 +20215,7 @@ const stockData = [
         "Item_SelfVal_Price":  "296.25",
         "Stock":  "0",
         "ItemCode":  "1681",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Khasbagh",
@@ -20226,7 +20226,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "1751",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR kishorebagh",
@@ -20237,7 +20237,7 @@ const stockData = [
         "Item_SelfVal_Price":  "326.25",
         "Stock":  "0",
         "ItemCode":  "1752",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Lal Batti",
@@ -20248,7 +20248,7 @@ const stockData = [
         "Item_SelfVal_Price":  "320.625",
         "Stock":  "0",
         "ItemCode":  "3236",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Lata House",
@@ -20259,7 +20259,7 @@ const stockData = [
         "Item_SelfVal_Price":  "258.75",
         "Stock":  "0",
         "ItemCode":  "1284",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Meghdoot",
@@ -20270,7 +20270,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "1687",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Mind Game",
@@ -20281,7 +20281,7 @@ const stockData = [
         "Item_SelfVal_Price":  "258.75",
         "Stock":  "0",
         "ItemCode":  "1285",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Mithas",
@@ -20292,7 +20292,7 @@ const stockData = [
         "Item_SelfVal_Price":  "267",
         "Stock":  "0",
         "ItemCode":  "1256",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Nakoda",
@@ -20303,7 +20303,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "2951",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Nakshtra",
@@ -20314,7 +20314,7 @@ const stockData = [
         "Item_SelfVal_Price":  "309.75",
         "Stock":  "0",
         "ItemCode":  "1689",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Ok",
@@ -20325,7 +20325,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "2949",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Organic",
@@ -20336,7 +20336,7 @@ const stockData = [
         "Item_SelfVal_Price":  "272.25",
         "Stock":  "0",
         "ItemCode":  "1264",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR PANCHI",
@@ -20347,7 +20347,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410",
         "Stock":  "4",
         "ItemCode":  "4025",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Phataka",
@@ -20358,7 +20358,7 @@ const stockData = [
         "Item_SelfVal_Price":  "272.25",
         "Stock":  "0",
         "ItemCode":  "1260",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Railyatri",
@@ -20369,7 +20369,7 @@ const stockData = [
         "Item_SelfVal_Price":  "331.5",
         "Stock":  "0",
         "ItemCode":  "2948",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Rambagh jam",
@@ -20380,7 +20380,7 @@ const stockData = [
         "Item_SelfVal_Price":  "332.25",
         "Stock":  "0",
         "ItemCode":  "1750",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Rathore",
@@ -20391,7 +20391,7 @@ const stockData = [
         "Item_SelfVal_Price":  "247.5",
         "Stock":  "0",
         "ItemCode":  "1263",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Rok Tok",
@@ -20402,7 +20402,7 @@ const stockData = [
         "Item_SelfVal_Price":  "285",
         "Stock":  "0",
         "ItemCode":  "1258",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR SANJU",
@@ -20413,7 +20413,7 @@ const stockData = [
         "Item_SelfVal_Price":  "390",
         "Stock":  "0",
         "ItemCode":  "3881",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR SNEHA",
@@ -20424,7 +20424,7 @@ const stockData = [
         "Item_SelfVal_Price":  "335",
         "Stock":  "4",
         "ItemCode":  "4023",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR SNOWFALL",
@@ -20435,7 +20435,7 @@ const stockData = [
         "Item_SelfVal_Price":  "325",
         "Stock":  "1",
         "ItemCode":  "3883",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Sona Chandi",
@@ -20446,7 +20446,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "1686",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Strawberry",
@@ -20457,7 +20457,7 @@ const stockData = [
         "Item_SelfVal_Price":  "321",
         "Stock":  "0",
         "ItemCode":  "1754",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Superfast Express",
@@ -20468,7 +20468,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "1684",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR TRUPTI",
@@ -20479,7 +20479,7 @@ const stockData = [
         "Item_SelfVal_Price":  "305",
         "Stock":  "8",
         "ItemCode":  "4024",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR Vijay Rath",
@@ -20490,7 +20490,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "1682",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RR White Cream",
@@ -20501,7 +20501,7 @@ const stockData = [
         "Item_SelfVal_Price":  "236.25",
         "Stock":  "0",
         "ItemCode":  "1262",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RRT COTTON",
@@ -20512,7 +20512,7 @@ const stockData = [
         "Item_SelfVal_Price":  "280",
         "Stock":  "284",
         "ItemCode":  "1224",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rrt High",
@@ -20523,7 +20523,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3952",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 0005",
@@ -20534,7 +20534,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1164.375",
         "Stock":  "-1",
         "ItemCode":  "3150",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 001",
@@ -20545,7 +20545,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1198.125",
         "Stock":  "-1",
         "ItemCode":  "3145",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 002",
@@ -20556,7 +20556,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1198.125",
         "Stock":  "-3",
         "ItemCode":  "3144",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 003",
@@ -20567,7 +20567,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "3151",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 004",
@@ -20578,7 +20578,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "-11",
         "ItemCode":  "3152",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 006",
@@ -20589,7 +20589,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1226.25",
         "Stock":  "0",
         "ItemCode":  "3148",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 007",
@@ -20600,7 +20600,7 @@ const stockData = [
         "Item_SelfVal_Price":  "984.375",
         "Stock":  "0",
         "ItemCode":  "3147",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 008",
@@ -20611,7 +20611,7 @@ const stockData = [
         "Item_SelfVal_Price":  "922.5",
         "Stock":  "0",
         "ItemCode":  "3146",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 009",
@@ -20622,7 +20622,7 @@ const stockData = [
         "Item_SelfVal_Price":  "922.5",
         "Stock":  "0",
         "ItemCode":  "3149",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 1",
@@ -20633,7 +20633,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.5",
         "Stock":  "0",
         "ItemCode":  "2814",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 1 No X",
@@ -20644,7 +20644,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "-1",
         "ItemCode":  "3405",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 10",
@@ -20655,7 +20655,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1107.75",
         "Stock":  "-1",
         "ItemCode":  "2848",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 11",
@@ -20666,7 +20666,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1265.25",
         "Stock":  "0",
         "ItemCode":  "2849",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 2",
@@ -20677,7 +20677,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.5",
         "Stock":  "2",
         "ItemCode":  "2815",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 2 No X",
@@ -20688,7 +20688,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "0",
         "ItemCode":  "3404",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 3",
@@ -20699,7 +20699,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1203.75",
         "Stock":  "0",
         "ItemCode":  "2816",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 4",
@@ -20710,7 +20710,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1203.75",
         "Stock":  "0",
         "ItemCode":  "2817",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 5",
@@ -20721,7 +20721,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1170",
         "Stock":  "0",
         "ItemCode":  "2818",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 6",
@@ -20732,7 +20732,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.5",
         "Stock":  "4",
         "ItemCode":  "2844",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 7",
@@ -20743,7 +20743,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1197.75",
         "Stock":  "1",
         "ItemCode":  "2845",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 8",
@@ -20754,7 +20754,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.5",
         "Stock":  "-6",
         "ItemCode":  "2846",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS 9",
@@ -20765,7 +20765,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1164",
         "Stock":  "0",
         "ItemCode":  "2847",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS Commando",
@@ -20776,7 +20776,7 @@ const stockData = [
         "Item_SelfVal_Price":  "247.5",
         "Stock":  "0",
         "ItemCode":  "1749",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS Crunchy 3",
@@ -20787,7 +20787,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1164.375",
         "Stock":  "0",
         "ItemCode":  "3153",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS Crunchy 4",
@@ -20798,7 +20798,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "-5",
         "ItemCode":  "3154",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS Crunchy 5",
@@ -20809,7 +20809,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "-6",
         "ItemCode":  "3155",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS FANCY",
@@ -20820,7 +20820,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1164",
         "Stock":  "0",
         "ItemCode":  "2777",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS Fendi",
@@ -20831,7 +20831,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "0",
         "ItemCode":  "3069",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS Fendy 2",
@@ -20842,7 +20842,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "0",
         "ItemCode":  "3156",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS JanKalyan",
@@ -20853,7 +20853,7 @@ const stockData = [
         "Item_SelfVal_Price":  "242.25",
         "Stock":  "0",
         "ItemCode":  "1748",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RS JORGET",
@@ -20864,7 +20864,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "25",
         "ItemCode":  "3805",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rs Suite",
@@ -20875,7 +20875,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-4",
         "ItemCode":  "3640",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rs Suite Uk1",
@@ -20886,7 +20886,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.875",
         "Stock":  "0",
         "ItemCode":  "3282",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RUBI RUBI",
@@ -20897,7 +20897,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "0",
         "ItemCode":  "2323",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RUCHIKA",
@@ -20908,7 +20908,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489",
         "Stock":  "0",
         "ItemCode":  "2509",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RUHI",
@@ -20919,7 +20919,7 @@ const stockData = [
         "Item_SelfVal_Price":  "270",
         "Stock":  "0",
         "ItemCode":  "2315",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ruksana SNT",
@@ -20930,7 +20930,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1711",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rum Zum kala ghoda",
@@ -20941,7 +20941,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "1929",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Rup ki Rani firdous 1\u0027st",
@@ -20952,7 +20952,7 @@ const stockData = [
         "Item_SelfVal_Price":  "720",
         "Stock":  "0",
         "ItemCode":  "1788",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RUSSIAN PLAZO",
@@ -20963,7 +20963,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2521",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Anti Virus",
@@ -20974,7 +20974,7 @@ const stockData = [
         "Item_SelfVal_Price":  "253.12",
         "Stock":  "-1",
         "ItemCode":  "3443",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Army",
@@ -20985,7 +20985,7 @@ const stockData = [
         "Item_SelfVal_Price":  "221.25",
         "Stock":  "0",
         "ItemCode":  "1694",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Charminar",
@@ -20996,7 +20996,7 @@ const stockData = [
         "Item_SelfVal_Price":  "236.25",
         "Stock":  "0",
         "ItemCode":  "2489",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Cooking",
@@ -21007,7 +21007,7 @@ const stockData = [
         "Item_SelfVal_Price":  "241.875",
         "Stock":  "0",
         "ItemCode":  "3442",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Future India",
@@ -21018,7 +21018,7 @@ const stockData = [
         "Item_SelfVal_Price":  "247.5",
         "Stock":  "0",
         "ItemCode":  "3444",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV G-3",
@@ -21029,7 +21029,7 @@ const stockData = [
         "Item_SelfVal_Price":  "210",
         "Stock":  "0",
         "ItemCode":  "1696",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Jan Kalyan",
@@ -21040,7 +21040,7 @@ const stockData = [
         "Item_SelfVal_Price":  "241.875",
         "Stock":  "0",
         "ItemCode":  "3445",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Look wise",
@@ -21051,7 +21051,7 @@ const stockData = [
         "Item_SelfVal_Price":  "243.75",
         "Stock":  "0",
         "ItemCode":  "1695",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Marwadi",
@@ -21062,7 +21062,7 @@ const stockData = [
         "Item_SelfVal_Price":  "247.5",
         "Stock":  "0",
         "ItemCode":  "1692",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Masala Papad",
@@ -21073,7 +21073,7 @@ const stockData = [
         "Item_SelfVal_Price":  "236.25",
         "Stock":  "0",
         "ItemCode":  "2490",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV PARDES",
@@ -21084,7 +21084,7 @@ const stockData = [
         "Item_SelfVal_Price":  "240",
         "Stock":  "0",
         "ItemCode":  "3951",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Porbandar",
@@ -21095,7 +21095,7 @@ const stockData = [
         "Item_SelfVal_Price":  "240",
         "Stock":  "0",
         "ItemCode":  "1691",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Resort",
@@ -21106,7 +21106,7 @@ const stockData = [
         "Item_SelfVal_Price":  "236.25",
         "Stock":  "0",
         "ItemCode":  "1747",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV Shyama",
@@ -21117,7 +21117,7 @@ const stockData = [
         "Item_SelfVal_Price":  "234.75",
         "Stock":  "0",
         "ItemCode":  "1693",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV SPARK",
@@ -21128,7 +21128,7 @@ const stockData = [
         "Item_SelfVal_Price":  "240",
         "Stock":  "2",
         "ItemCode":  "3949",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "RV VISTA",
@@ -21139,7 +21139,7 @@ const stockData = [
         "Item_SelfVal_Price":  "240",
         "Stock":  "1",
         "ItemCode":  "3950",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SABEELA TROUSER",
@@ -21150,7 +21150,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1254",
         "Stock":  "-6",
         "ItemCode":  "2417",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sadhna Jalebi Bai",
@@ -21161,7 +21161,7 @@ const stockData = [
         "Item_SelfVal_Price":  "648.75",
         "Stock":  "0",
         "ItemCode":  "1504",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sadhna Makke Di Roti",
@@ -21172,7 +21172,7 @@ const stockData = [
         "Item_SelfVal_Price":  "648.75",
         "Stock":  "0",
         "ItemCode":  "1505",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sagina Eva GF",
@@ -21183,7 +21183,7 @@ const stockData = [
         "Item_SelfVal_Price":  "877.5",
         "Stock":  "0",
         "ItemCode":  "1350",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SAHELI JORJET GOWN",
@@ -21194,7 +21194,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2023",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SAHELI SHARARA",
@@ -21205,7 +21205,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2027",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SAHIDA",
@@ -21216,7 +21216,7 @@ const stockData = [
         "Item_SelfVal_Price":  "430",
         "Stock":  "0",
         "ItemCode":  "3947",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sajan",
@@ -21227,7 +21227,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1501.875",
         "Stock":  "0",
         "ItemCode":  "3037",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Salam GK",
@@ -21238,7 +21238,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1497",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Samundar GK",
@@ -21249,7 +21249,7 @@ const stockData = [
         "Item_SelfVal_Price":  "716.25",
         "Stock":  "0",
         "ItemCode":  "1494",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sanskar Rolex",
@@ -21260,7 +21260,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "0",
         "ItemCode":  "1634",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sanvika",
@@ -21271,7 +21271,7 @@ const stockData = [
         "Item_SelfVal_Price":  "483.75",
         "Stock":  "0",
         "ItemCode":  "1455",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sapna Print",
@@ -21282,7 +21282,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1588",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SARI",
@@ -21293,7 +21293,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2819",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sarkas All Over",
@@ -21304,7 +21304,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "1458",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sarso ka sach",
@@ -21315,7 +21315,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1642",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Satin Cloth",
@@ -21326,7 +21326,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2032",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SBT DHAMAKA",
@@ -21337,7 +21337,7 @@ const stockData = [
         "Item_SelfVal_Price":  "480",
         "Stock":  "4",
         "ItemCode":  "3946",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Scarf",
@@ -21348,7 +21348,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-5",
         "ItemCode":  "2669",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SCV Banjara",
@@ -21359,7 +21359,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1302",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SCV Designer",
@@ -21370,7 +21370,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1315",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SCV Rangoli",
@@ -21381,7 +21381,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1301",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SCV Shagun",
@@ -21392,7 +21392,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "1303",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Self",
@@ -21403,7 +21403,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2028",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Seltos",
@@ -21414,7 +21414,7 @@ const stockData = [
         "Item_SelfVal_Price":  "225",
         "Stock":  "9",
         "ItemCode":  "3645",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF (Shriyan Fashion) BABITA",
@@ -21425,7 +21425,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "3",
         "ItemCode":  "3266",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF 5 Star",
@@ -21436,7 +21436,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "5",
         "ItemCode":  "3320",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF AKRUTI",
@@ -21447,7 +21447,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2041",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Alina",
@@ -21458,7 +21458,7 @@ const stockData = [
         "Item_SelfVal_Price":  "967.5",
         "Stock":  "0",
         "ItemCode":  "1430",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Cocktail",
@@ -21469,7 +21469,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2412",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF DOLFIN",
@@ -21480,7 +21480,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1012.5",
         "Stock":  "0",
         "ItemCode":  "2309",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Dream Girl",
@@ -21491,7 +21491,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "4",
         "ItemCode":  "3312",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Dreamland",
@@ -21502,7 +21502,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2346",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF DREEMLAND",
@@ -21513,7 +21513,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2308",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Exotic",
@@ -21524,7 +21524,7 @@ const stockData = [
         "Item_SelfVal_Price":  "765",
         "Stock":  "0",
         "ItemCode":  "3138",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Good Night",
@@ -21535,7 +21535,7 @@ const stockData = [
         "Item_SelfVal_Price":  "967.5",
         "Stock":  "0",
         "ItemCode":  "1429",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Gulshan",
@@ -21546,7 +21546,7 @@ const stockData = [
         "Item_SelfVal_Price":  "967.5",
         "Stock":  "0",
         "ItemCode":  "1431",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Jashna",
@@ -21557,7 +21557,7 @@ const stockData = [
         "Item_SelfVal_Price":  "669.75",
         "Stock":  "0",
         "ItemCode":  "1432",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Kusum",
@@ -21568,7 +21568,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2033",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Mohabbate",
@@ -21579,7 +21579,7 @@ const stockData = [
         "Item_SelfVal_Price":  "727.5",
         "Stock":  "0",
         "ItemCode":  "1434",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Navrangi",
@@ -21590,7 +21590,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2504",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Pakeeza",
@@ -21601,7 +21601,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "1532",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Planing",
@@ -21612,7 +21612,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2408",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Saheli",
@@ -21623,7 +21623,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2502",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Sakhi",
@@ -21634,7 +21634,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2501",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Salma",
@@ -21645,7 +21645,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "5",
         "ItemCode":  "3313",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sf Sana",
@@ -21656,7 +21656,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3307",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Santa Cruz",
@@ -21667,7 +21667,7 @@ const stockData = [
         "Item_SelfVal_Price":  "911.25",
         "Stock":  "0",
         "ItemCode":  "1427",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Sathiya",
@@ -21678,7 +21678,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2503",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Shalini",
@@ -21689,7 +21689,7 @@ const stockData = [
         "Item_SelfVal_Price":  "911.25",
         "Stock":  "0",
         "ItemCode":  "1433",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF Titanic",
@@ -21700,7 +21700,7 @@ const stockData = [
         "Item_SelfVal_Price":  "911.25",
         "Stock":  "0",
         "ItemCode":  "1428",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SF ZAMZAM",
@@ -21711,7 +21711,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2311",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG 751 C",
@@ -21722,7 +21722,7 @@ const stockData = [
         "Item_SelfVal_Price":  "933.75",
         "Stock":  "0",
         "ItemCode":  "1425",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG AADAB",
@@ -21733,7 +21733,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1180",
         "Stock":  "4",
         "ItemCode":  "3834",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Al Habib",
@@ -21744,7 +21744,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1673",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG ALEENA",
@@ -21755,7 +21755,7 @@ const stockData = [
         "Item_SelfVal_Price":  "690",
         "Stock":  "0",
         "ItemCode":  "3986",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Amazing",
@@ -21766,7 +21766,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.5",
         "Stock":  "0",
         "ItemCode":  "2932",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Cherry",
@@ -21777,7 +21777,7 @@ const stockData = [
         "Item_SelfVal_Price":  "736.5",
         "Stock":  "0",
         "ItemCode":  "2933",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG CLASSIC",
@@ -21788,7 +21788,7 @@ const stockData = [
         "Item_SelfVal_Price":  "730",
         "Stock":  "0",
         "ItemCode":  "3979",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG CRYSTAL",
@@ -21799,7 +21799,7 @@ const stockData = [
         "Item_SelfVal_Price":  "750",
         "Stock":  "4",
         "ItemCode":  "3985",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Cutie Pie",
@@ -21810,7 +21810,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1050",
         "Stock":  "2",
         "ItemCode":  "2195",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG DESTINY",
@@ -21821,7 +21821,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "4",
         "ItemCode":  "3830",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Dillruba",
@@ -21832,7 +21832,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1766.25",
         "Stock":  "0",
         "ItemCode":  "1909",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Florence",
@@ -21843,7 +21843,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.5",
         "Stock":  "0",
         "ItemCode":  "2934",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG FLORINA",
@@ -21854,7 +21854,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1413.75",
         "Stock":  "0",
         "ItemCode":  "1944",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG GOLD COIN",
@@ -21865,7 +21865,7 @@ const stockData = [
         "Item_SelfVal_Price":  "835",
         "Stock":  "3",
         "ItemCode":  "4017",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Habibi",
@@ -21876,7 +21876,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1672",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Haldi Mehndi",
@@ -21887,7 +21887,7 @@ const stockData = [
         "Item_SelfVal_Price":  "937.5",
         "Stock":  "0",
         "ItemCode":  "1881",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Haldi Mehndi Off White",
@@ -21898,7 +21898,7 @@ const stockData = [
         "Item_SelfVal_Price":  "933.75",
         "Stock":  "0",
         "ItemCode":  "1424",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG HALDI RASAM",
@@ -21909,7 +21909,7 @@ const stockData = [
         "Item_SelfVal_Price":  "930",
         "Stock":  "3",
         "ItemCode":  "3833",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sg haye garmi",
@@ -21920,7 +21920,7 @@ const stockData = [
         "Item_SelfVal_Price":  "703.125",
         "Stock":  "0",
         "ItemCode":  "3373",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Hirwa",
@@ -21931,7 +21931,7 @@ const stockData = [
         "Item_SelfVal_Price":  "702.75",
         "Stock":  "0",
         "ItemCode":  "2931",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG HOUSEFULL",
@@ -21942,7 +21942,7 @@ const stockData = [
         "Item_SelfVal_Price":  "740",
         "Stock":  "3",
         "ItemCode":  "3806",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sg ice cool",
@@ -21953,7 +21953,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "4",
         "ItemCode":  "3366",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Iconic",
@@ -21964,7 +21964,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1232.25",
         "Stock":  "0",
         "ItemCode":  "1426",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG JALWA",
@@ -21975,7 +21975,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1040",
         "Stock":  "3",
         "ItemCode":  "3831",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG khwaab",
@@ -21986,7 +21986,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1271.25",
         "Stock":  "0",
         "ItemCode":  "1675",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Kiana",
@@ -21997,7 +21997,7 @@ const stockData = [
         "Item_SelfVal_Price":  "996",
         "Stock":  "0",
         "ItemCode":  "1422",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Kudi",
@@ -22008,7 +22008,7 @@ const stockData = [
         "Item_SelfVal_Price":  "648.75",
         "Stock":  "0",
         "ItemCode":  "1565",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG LAADO",
@@ -22019,7 +22019,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1100",
         "Stock":  "1",
         "ItemCode":  "3832",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sg lazy lamhe",
@@ -22030,7 +22030,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.875",
         "Stock":  "0",
         "ItemCode":  "3368",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG LOTUS",
@@ -22041,7 +22041,7 @@ const stockData = [
         "Item_SelfVal_Price":  "660",
         "Stock":  "12",
         "ItemCode":  "3699",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sg Make in India",
@@ -22052,7 +22052,7 @@ const stockData = [
         "Item_SelfVal_Price":  "740",
         "Stock":  "0",
         "ItemCode":  "3977",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Mariyam",
@@ -22063,7 +22063,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1743.75",
         "Stock":  "0",
         "ItemCode":  "1946",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Masha Allah",
@@ -22074,7 +22074,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1437",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG MashaAllah",
@@ -22085,7 +22085,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1001.25",
         "Stock":  "0",
         "ItemCode":  "2205",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Poshak",
@@ -22096,7 +22096,7 @@ const stockData = [
         "Item_SelfVal_Price":  "765",
         "Stock":  "2",
         "ItemCode":  "3308",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Pushpa",
@@ -22107,7 +22107,7 @@ const stockData = [
         "Item_SelfVal_Price":  "843.75",
         "Stock":  "0",
         "ItemCode":  "2204",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG RADHEY",
@@ -22118,7 +22118,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1390",
         "Stock":  "0",
         "ItemCode":  "3829",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Razia",
@@ -22129,7 +22129,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1177.5",
         "Stock":  "0",
         "ItemCode":  "1923",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Sitara",
@@ -22140,7 +22140,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "2713",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Status",
@@ -22151,7 +22151,7 @@ const stockData = [
         "Item_SelfVal_Price":  "956.25",
         "Stock":  "0",
         "ItemCode":  "2201",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG STRAWBERRY",
@@ -22162,7 +22162,7 @@ const stockData = [
         "Item_SelfVal_Price":  "725",
         "Stock":  "6",
         "ItemCode":  "3902",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG SUBHANALLAH",
@@ -22173,7 +22173,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "1",
         "ItemCode":  "3835",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG SUMMER CHOICE",
@@ -22184,7 +22184,7 @@ const stockData = [
         "Item_SelfVal_Price":  "601.5",
         "Stock":  "0",
         "ItemCode":  "2127",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sg Summer Time",
@@ -22195,7 +22195,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "3365",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG SUNSHINE",
@@ -22206,7 +22206,7 @@ const stockData = [
         "Item_SelfVal_Price":  "715",
         "Stock":  "4",
         "ItemCode":  "4016",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Taal",
@@ -22217,7 +22217,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1113.75",
         "Stock":  "0",
         "ItemCode":  "1423",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG The Gazal",
@@ -22228,7 +22228,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "13",
         "ItemCode":  "3469",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG THE SECRET",
@@ -22239,7 +22239,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1225",
         "Stock":  "2",
         "ItemCode":  "3827",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG TIGER",
@@ -22250,7 +22250,7 @@ const stockData = [
         "Item_SelfVal_Price":  "702.75",
         "Stock":  "0",
         "ItemCode":  "2125",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Traditional",
@@ -22261,7 +22261,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "1653",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Trendy",
@@ -22272,7 +22272,7 @@ const stockData = [
         "Item_SelfVal_Price":  "941.25",
         "Stock":  "0",
         "ItemCode":  "1674",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG TWIST",
@@ -22283,7 +22283,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590",
         "Stock":  "3",
         "ItemCode":  "3807",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Twitter",
@@ -22294,7 +22294,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1001.25",
         "Stock":  "0",
         "ItemCode":  "1794",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG VICTORY",
@@ -22305,7 +22305,7 @@ const stockData = [
         "Item_SelfVal_Price":  "740",
         "Stock":  "4",
         "ItemCode":  "3978",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Zara",
@@ -22316,7 +22316,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1942.5",
         "Stock":  "0",
         "ItemCode":  "1918",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SG Zubin",
@@ -22327,7 +22327,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1732.5",
         "Stock":  "0",
         "ItemCode":  "1880",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shabo SNT",
@@ -22338,7 +22338,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "1729",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shaheen Aunty",
@@ -22349,7 +22349,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2793",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shakira",
@@ -22360,7 +22360,7 @@ const stockData = [
         "Item_SelfVal_Price":  "536.25",
         "Stock":  "0",
         "ItemCode":  "1633",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SHAWL",
@@ -22371,7 +22371,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1",
         "ItemCode":  "2054",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SHAWL 100 NO",
@@ -22382,7 +22382,7 @@ const stockData = [
         "Item_SelfVal_Price":  "25",
         "Stock":  "2105",
         "ItemCode":  "2751",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SHAWL 350",
@@ -22393,7 +22393,7 @@ const stockData = [
         "Item_SelfVal_Price":  "112.5",
         "Stock":  "-35",
         "ItemCode":  "2136",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SHAWL DHADKAN",
@@ -22404,7 +22404,7 @@ const stockData = [
         "Item_SelfVal_Price":  "41.25",
         "Stock":  "2457",
         "ItemCode":  "1713",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shawl Priya",
@@ -22415,7 +22415,7 @@ const stockData = [
         "Item_SelfVal_Price":  "65",
         "Stock":  "333",
         "ItemCode":  "3695",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shee Girl SG",
@@ -22426,7 +22426,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "1225",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shilpa Bhumi",
@@ -22437,7 +22437,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "1735",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shivram Suite",
@@ -22448,7 +22448,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2562",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shree Ganesh",
@@ -22459,7 +22459,7 @@ const stockData = [
         "Item_SelfVal_Price":  "350",
         "Stock":  "96",
         "ItemCode":  "3214",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shriyan Shehzadi",
@@ -22470,7 +22470,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "0",
         "ItemCode":  "3254",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Shruti",
@@ -22481,7 +22481,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "1649",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Simran Printed",
@@ -22492,7 +22492,7 @@ const stockData = [
         "Item_SelfVal_Price":  "26.4375",
         "Stock":  "0",
         "ItemCode":  "1297",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Siya Scarf",
@@ -22503,7 +22503,7 @@ const stockData = [
         "Item_SelfVal_Price":  "115",
         "Stock":  "14",
         "ItemCode":  "3569",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Siya Work Scarf",
@@ -22514,7 +22514,7 @@ const stockData = [
         "Item_SelfVal_Price":  "140",
         "Stock":  "1",
         "ItemCode":  "3570",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SKKC Kashmira",
@@ -22525,7 +22525,7 @@ const stockData = [
         "Item_SelfVal_Price":  "326.25",
         "Stock":  "0",
         "ItemCode":  "2615",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Skoda GK",
@@ -22536,7 +22536,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "1492",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SKS KRACKJACK",
@@ -22547,7 +22547,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "2134",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Small Chouka",
@@ -22558,7 +22558,7 @@ const stockData = [
         "Item_SelfVal_Price":  "20.25",
         "Stock":  "0",
         "ItemCode":  "1718",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SN CLIMAX",
@@ -22569,7 +22569,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354",
         "Stock":  "0",
         "ItemCode":  "2645",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snapchat",
@@ -22580,7 +22580,7 @@ const stockData = [
         "Item_SelfVal_Price":  "185",
         "Stock":  "33",
         "ItemCode":  "2909",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT 3 Patti",
@@ -22591,7 +22591,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.75",
         "Stock":  "0",
         "ItemCode":  "1246",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aaditi",
@@ -22602,7 +22602,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1524",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aaliya",
@@ -22613,7 +22613,7 @@ const stockData = [
         "Item_SelfVal_Price":  "473.25",
         "Stock":  "0",
         "ItemCode":  "2246",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aaradhya",
@@ -22624,7 +22624,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "1760",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aarti",
@@ -22635,7 +22635,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "19",
         "ItemCode":  "2721",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aashika",
@@ -22646,7 +22646,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "1647",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aashiqui",
@@ -22657,7 +22657,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "3315",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Aditi",
@@ -22668,7 +22668,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "15",
         "ItemCode":  "1525",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Afsana",
@@ -22679,7 +22679,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444",
         "Stock":  "0",
         "ItemCode":  "2248",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Ameena",
@@ -22690,7 +22690,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2600",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT AMUL",
@@ -22701,7 +22701,7 @@ const stockData = [
         "Item_SelfVal_Price":  "550",
         "Stock":  "5",
         "ItemCode":  "3692",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anamika",
@@ -22712,7 +22712,7 @@ const stockData = [
         "Item_SelfVal_Price":  "907.5",
         "Stock":  "0",
         "ItemCode":  "2757",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anandi",
@@ -22723,7 +22723,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "2",
         "ItemCode":  "1389",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anika",
@@ -22734,7 +22734,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "2190",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anjali",
@@ -22745,7 +22745,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2772",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anmol",
@@ -22756,7 +22756,7 @@ const stockData = [
         "Item_SelfVal_Price":  "624.75",
         "Stock":  "0",
         "ItemCode":  "1402",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anupama",
@@ -22767,7 +22767,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "2373",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Anuska",
@@ -22778,7 +22778,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "2690",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT APPLE",
@@ -22789,7 +22789,7 @@ const stockData = [
         "Item_SelfVal_Price":  "528.75",
         "Stock":  "12",
         "ItemCode":  "2000",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Apple Burberry",
@@ -22800,7 +22800,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "1849",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Apple Burberry suit",
@@ -22811,7 +22811,7 @@ const stockData = [
         "Item_SelfVal_Price":  "698.25",
         "Stock":  "0",
         "ItemCode":  "1783",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT ASHIQUI",
@@ -22822,7 +22822,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "3302",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt Baarat",
@@ -22833,7 +22833,7 @@ const stockData = [
         "Item_SelfVal_Price":  "610",
         "Stock":  "6",
         "ItemCode":  "3940",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Baazigar",
@@ -22844,7 +22844,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.375",
         "Stock":  "2",
         "ItemCode":  "3399",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Babita",
@@ -22855,7 +22855,7 @@ const stockData = [
         "Item_SelfVal_Price":  "483.75",
         "Stock":  "0",
         "ItemCode":  "2929",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Baby Doll",
@@ -22866,7 +22866,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "2435",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Barfi",
@@ -22877,7 +22877,7 @@ const stockData = [
         "Item_SelfVal_Price":  "712.5",
         "Stock":  "0",
         "ItemCode":  "2082",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt Barsat",
@@ -22888,7 +22888,7 @@ const stockData = [
         "Item_SelfVal_Price":  "460",
         "Stock":  "0",
         "ItemCode":  "3817",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT BHARATI",
@@ -22899,7 +22899,7 @@ const stockData = [
         "Item_SelfVal_Price":  "511.5",
         "Stock":  "0",
         "ItemCode":  "2285",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Bharti",
@@ -22910,7 +22910,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2167",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Bipasha",
@@ -22921,7 +22921,7 @@ const stockData = [
         "Item_SelfVal_Price":  "547.5",
         "Stock":  "0",
         "ItemCode":  "2499",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Black Berry",
@@ -22932,7 +22932,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "1419",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Black Cobra",
@@ -22943,7 +22943,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "-2",
         "ItemCode":  "3321",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT BLUE WHALE",
@@ -22954,7 +22954,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "8",
         "ItemCode":  "3632",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT brezza",
@@ -22965,7 +22965,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "1",
         "ItemCode":  "2284",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Burbury",
@@ -22976,7 +22976,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "1879",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT CHAHAL",
@@ -22987,7 +22987,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "-1",
         "ItemCode":  "2700",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT chahat",
@@ -22998,7 +22998,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1800",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Chameli",
@@ -23009,7 +23009,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1845",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT CHANDNI",
@@ -23020,7 +23020,7 @@ const stockData = [
         "Item_SelfVal_Price":  "460",
         "Stock":  "0",
         "ItemCode":  "2696",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Cherry",
@@ -23031,7 +23031,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "-4",
         "ItemCode":  "1663",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Cotton Suite",
@@ -23042,7 +23042,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2001",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Devyani",
@@ -23053,7 +23053,7 @@ const stockData = [
         "Item_SelfVal_Price":  "476.25",
         "Stock":  "1",
         "ItemCode":  "2401",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Dil Se",
@@ -23064,7 +23064,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2437",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Dilkhush",
@@ -23075,7 +23075,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "11",
         "ItemCode":  "3222",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT DIWALI DHAMAKA",
@@ -23086,7 +23086,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "12",
         "ItemCode":  "3691",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Dolphin",
@@ -23097,7 +23097,7 @@ const stockData = [
         "Item_SelfVal_Price":  "535",
         "Stock":  "4",
         "ItemCode":  "3633",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT DOVE",
@@ -23108,7 +23108,7 @@ const stockData = [
         "Item_SelfVal_Price":  "567.75",
         "Stock":  "0",
         "ItemCode":  "2303",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Dream Girl",
@@ -23119,7 +23119,7 @@ const stockData = [
         "Item_SelfVal_Price":  "911.25",
         "Stock":  "0",
         "ItemCode":  "3253",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Eliza",
@@ -23130,7 +23130,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1763",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT FALOODA",
@@ -23141,7 +23141,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "2318",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT FALOODA STAR",
@@ -23152,7 +23152,7 @@ const stockData = [
         "Item_SelfVal_Price":  "956.25",
         "Stock":  "0",
         "ItemCode":  "2319",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Fanah",
@@ -23163,7 +23163,7 @@ const stockData = [
         "Item_SelfVal_Price":  "549",
         "Stock":  "0",
         "ItemCode":  "2753",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Fatima",
@@ -23174,7 +23174,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "16",
         "ItemCode":  "2867",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Fida",
@@ -23185,7 +23185,7 @@ const stockData = [
         "Item_SelfVal_Price":  "967.5",
         "Stock":  "0",
         "ItemCode":  "2999",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Fighter",
@@ -23196,7 +23196,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2173",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Fire",
@@ -23207,7 +23207,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "1337",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Fire Sharmila",
@@ -23218,7 +23218,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.5",
         "Stock":  "0",
         "ItemCode":  "1266",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT FLOWER GIRL",
@@ -23229,7 +23229,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2325",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Gulab",
@@ -23240,7 +23240,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "8",
         "ItemCode":  "2648",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT GULAB JAMUN",
@@ -23251,7 +23251,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "2758",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT GULJAR",
@@ -23262,7 +23262,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2146",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Habibi",
@@ -23273,7 +23273,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "1390",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Haseena",
@@ -23284,7 +23284,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "12",
         "ItemCode":  "3016",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Havmor",
@@ -23295,7 +23295,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1637",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT HAWA MAHEL",
@@ -23306,7 +23306,7 @@ const stockData = [
         "Item_SelfVal_Price":  "330",
         "Stock":  "0",
         "ItemCode":  "3701",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT HEENA",
@@ -23317,7 +23317,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "9",
         "ItemCode":  "2783",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Hemali",
@@ -23328,7 +23328,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590.25",
         "Stock":  "10",
         "ItemCode":  "2928",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Hip Hop",
@@ -23339,7 +23339,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "1927",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Hulchul",
@@ -23350,7 +23350,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1614",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Hum Tum",
@@ -23361,7 +23361,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "0",
         "ItemCode":  "3017",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Hungama",
@@ -23372,7 +23372,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "13",
         "ItemCode":  "2861",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT IPO",
@@ -23383,7 +23383,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714",
         "Stock":  "0",
         "ItemCode":  "2728",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Ishq",
@@ -23394,7 +23394,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "0",
         "ItemCode":  "2165",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Jalwa burberry",
@@ -23405,7 +23405,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1850",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT jam print with gala stone",
@@ -23416,7 +23416,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.5",
         "Stock":  "0",
         "ItemCode":  "1784",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT jannat",
@@ -23427,7 +23427,7 @@ const stockData = [
         "Item_SelfVal_Price":  "700",
         "Stock":  "8",
         "ItemCode":  "1627",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt Janu",
@@ -23438,7 +23438,7 @@ const stockData = [
         "Item_SelfVal_Price":  "625",
         "Stock":  "7",
         "ItemCode":  "3789",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Janvi",
@@ -23449,7 +23449,7 @@ const stockData = [
         "Item_SelfVal_Price":  "636",
         "Stock":  "12",
         "ItemCode":  "1398",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT JARKAN SUIT",
@@ -23460,7 +23460,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2273",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Jasmine",
@@ -23471,7 +23471,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "3",
         "ItemCode":  "1799",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Jessica",
@@ -23482,7 +23482,7 @@ const stockData = [
         "Item_SelfVal_Price":  "877.5",
         "Stock":  "0",
         "ItemCode":  "3113",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Jio",
@@ -23493,7 +23493,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "3337",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt Jugni",
@@ -23504,7 +23504,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "0",
         "ItemCode":  "3118",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt July",
@@ -23515,7 +23515,7 @@ const stockData = [
         "Item_SelfVal_Price":  "400",
         "Stock":  "8",
         "ItemCode":  "3372",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Jupiter",
@@ -23526,7 +23526,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "4",
         "ItemCode":  "1776",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KACHI KALI",
@@ -23537,7 +23537,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "2573",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Kaira",
@@ -23548,7 +23548,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "3189",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Kajal",
@@ -23559,7 +23559,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759.375",
         "Stock":  "0",
         "ItemCode":  "3221",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KANIKA",
@@ -23570,7 +23570,7 @@ const stockData = [
         "Item_SelfVal_Price":  "560",
         "Stock":  "8",
         "ItemCode":  "3871",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Karishma",
@@ -23581,7 +23581,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "9",
         "ItemCode":  "3402",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KASTURI",
@@ -23592,7 +23592,7 @@ const stockData = [
         "Item_SelfVal_Price":  "425",
         "Stock":  "0",
         "ItemCode":  "2863",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KGF",
@@ -23603,7 +23603,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "2438",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Khawaish",
@@ -23614,7 +23614,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1270",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Khwahish",
@@ -23625,7 +23625,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "1529",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Kinjal",
@@ -23636,7 +23636,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.875",
         "Stock":  "0",
         "ItemCode":  "3137",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KOYAL",
@@ -23647,7 +23647,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "4",
         "ItemCode":  "2507",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KOYAL PLAZO",
@@ -23658,7 +23658,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "3",
         "ItemCode":  "3803",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Kripa",
@@ -23669,7 +23669,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "0",
         "ItemCode":  "2938",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT KRUPALI",
@@ -23680,7 +23680,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2113",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Lalita",
@@ -23691,7 +23691,7 @@ const stockData = [
         "Item_SelfVal_Price":  "483.75",
         "Stock":  "0",
         "ItemCode":  "2930",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT LASSI",
@@ -23702,7 +23702,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.5",
         "Stock":  "6",
         "ItemCode":  "1785",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT LATA",
@@ -23713,7 +23713,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2109",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT LAXMI",
@@ -23724,7 +23724,7 @@ const stockData = [
         "Item_SelfVal_Price":  "680.625",
         "Stock":  "1",
         "ItemCode":  "3286",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT lemon",
@@ -23735,7 +23735,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "5",
         "ItemCode":  "1761",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Limca",
@@ -23746,7 +23746,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "13",
         "ItemCode":  "3223",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT LOTTERY",
@@ -23757,7 +23757,7 @@ const stockData = [
         "Item_SelfVal_Price":  "570",
         "Stock":  "4",
         "ItemCode":  "3904",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Lurex",
@@ -23768,7 +23768,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "1420",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Madhuri",
@@ -23779,7 +23779,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "6",
         "ItemCode":  "1391",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT MAHI",
@@ -23790,7 +23790,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1200",
         "Stock":  "3",
         "ItemCode":  "3802",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Mahima",
@@ -23801,7 +23801,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "9",
         "ItemCode":  "2766",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Maira",
@@ -23812,7 +23812,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "3188",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT MANGO",
@@ -23823,7 +23823,7 @@ const stockData = [
         "Item_SelfVal_Price":  "680.25",
         "Stock":  "0",
         "ItemCode":  "2322",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT mango burberry",
@@ -23834,7 +23834,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "1790",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Mango burberry suit",
@@ -23845,7 +23845,7 @@ const stockData = [
         "Item_SelfVal_Price":  "698.25",
         "Stock":  "0",
         "ItemCode":  "1782",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Mannat",
@@ -23856,7 +23856,7 @@ const stockData = [
         "Item_SelfVal_Price":  "624",
         "Stock":  "13",
         "ItemCode":  "2245",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Mastani",
@@ -23867,7 +23867,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "1318",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Max",
@@ -23878,7 +23878,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.375",
         "Stock":  "0",
         "ItemCode":  "3058",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT MAYA",
@@ -23889,7 +23889,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "1",
         "ItemCode":  "2765",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT MEERA",
@@ -23900,7 +23900,7 @@ const stockData = [
         "Item_SelfVal_Price":  "337.5",
         "Stock":  "0",
         "ItemCode":  "2289",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Megha",
@@ -23911,7 +23911,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "1399",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT MEGHALI",
@@ -23922,7 +23922,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2809",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Mehbooba",
@@ -23933,7 +23933,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.5",
         "Stock":  "3",
         "ItemCode":  "2977",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Mona",
@@ -23944,7 +23944,7 @@ const stockData = [
         "Item_SelfVal_Price":  "522.75",
         "Stock":  "3",
         "ItemCode":  "1401",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT MONALISA",
@@ -23955,7 +23955,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "2",
         "ItemCode":  "2699",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Motorola",
@@ -23966,7 +23966,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "0",
         "ItemCode":  "3012",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Nagma",
@@ -23977,7 +23977,7 @@ const stockData = [
         "Item_SelfVal_Price":  "686.25",
         "Stock":  "0",
         "ItemCode":  "1396",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT NAMRATA",
@@ -23988,7 +23988,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2695",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Neha",
@@ -23999,7 +23999,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2505",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Nency",
@@ -24010,7 +24010,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2689",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Neptune",
@@ -24021,7 +24021,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "0",
         "ItemCode":  "1846",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Nokia",
@@ -24032,7 +24032,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "1",
         "ItemCode":  "3010",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Oreo",
@@ -24043,7 +24043,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "2",
         "ItemCode":  "3067",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt pahal",
@@ -24054,7 +24054,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1629",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT PAHELI",
@@ -24065,7 +24065,7 @@ const stockData = [
         "Item_SelfVal_Price":  "435",
         "Stock":  "4",
         "ItemCode":  "4014",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Pak Suite",
@@ -24076,7 +24076,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "2963",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT PALLAVI",
@@ -24087,7 +24087,7 @@ const stockData = [
         "Item_SelfVal_Price":  "747.75",
         "Stock":  "0",
         "ItemCode":  "2694",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT PC PRINT",
@@ -24098,7 +24098,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2255",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Pinky",
@@ -24109,7 +24109,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2090",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Pizza",
@@ -24120,7 +24120,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "1",
         "ItemCode":  "3403",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Preeti",
@@ -24131,7 +24131,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.38",
         "Stock":  "16",
         "ItemCode":  "3260",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rado",
@@ -24142,7 +24142,7 @@ const stockData = [
         "Item_SelfVal_Price":  "669.375",
         "Stock":  "7",
         "ItemCode":  "3333",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rajwadi",
@@ -24153,7 +24153,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1566",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rangeela",
@@ -24164,7 +24164,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "-1",
         "ItemCode":  "1395",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT RANI",
@@ -24175,7 +24175,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "0",
         "ItemCode":  "3869",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT RAS MALAI",
@@ -24186,7 +24186,7 @@ const stockData = [
         "Item_SelfVal_Price":  "671.25",
         "Stock":  "0",
         "ItemCode":  "2216",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT RASGULLA",
@@ -24197,7 +24197,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "4",
         "ItemCode":  "4002",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rasmalai",
@@ -24208,7 +24208,7 @@ const stockData = [
         "Item_SelfVal_Price":  "556.875",
         "Stock":  "0",
         "ItemCode":  "3057",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rayon Print Black",
@@ -24219,7 +24219,7 @@ const stockData = [
         "Item_SelfVal_Price":  "617.6",
         "Stock":  "2",
         "ItemCode":  "3504",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Red Bull",
@@ -24230,7 +24230,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "10",
         "ItemCode":  "3360",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rolex",
@@ -24241,7 +24241,7 @@ const stockData = [
         "Item_SelfVal_Price":  "669.38",
         "Stock":  "9",
         "ItemCode":  "3332",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rose",
@@ -24252,7 +24252,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579",
         "Stock":  "9",
         "ItemCode":  "2621",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT ROSHNI",
@@ -24263,7 +24263,7 @@ const stockData = [
         "Item_SelfVal_Price":  "580",
         "Stock":  "4",
         "ItemCode":  "3826",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT ROSY",
@@ -24274,7 +24274,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "10",
         "ItemCode":  "2620",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Ruhana",
@@ -24285,7 +24285,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1620",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Rukshana",
@@ -24296,7 +24296,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "6",
         "ItemCode":  "2595",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt Russian Plazo",
@@ -24307,7 +24307,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1210",
         "Stock":  "26",
         "ItemCode":  "3677",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Sahenaaz",
@@ -24318,7 +24318,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2784",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Saloni",
@@ -24329,7 +24329,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "0",
         "ItemCode":  "3018",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Samsung",
@@ -24340,7 +24340,7 @@ const stockData = [
         "Item_SelfVal_Price":  "787.5",
         "Stock":  "0",
         "ItemCode":  "2967",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT SANDWICH",
@@ -24351,7 +24351,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "4",
         "ItemCode":  "2862",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT SARMILA",
@@ -24362,7 +24362,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "2044",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT SHABANA",
@@ -24373,7 +24373,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "2",
         "ItemCode":  "3868",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT SHAKIRA",
@@ -24384,7 +24384,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "2831",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Sharmila",
@@ -24395,7 +24395,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "8",
         "ItemCode":  "1338",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Sheetal",
@@ -24406,7 +24406,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2576",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Shikara",
@@ -24417,7 +24417,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "1632",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Sifarish",
@@ -24428,7 +24428,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.38",
         "Stock":  "9",
         "ItemCode":  "2976",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT SIKANDAR",
@@ -24439,7 +24439,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2147",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Singham",
@@ -24450,7 +24450,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "2342",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Sona",
@@ -24461,7 +24461,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1400",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Soniya",
@@ -24472,7 +24472,7 @@ const stockData = [
         "Item_SelfVal_Price":  "476.25",
         "Stock":  "0",
         "ItemCode":  "1616",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Star",
@@ -24483,7 +24483,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "7",
         "ItemCode":  "1762",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT sun shine",
@@ -24494,7 +24494,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2244",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Suraj Mukhi",
@@ -24505,7 +24505,7 @@ const stockData = [
         "Item_SelfVal_Price":  "798.75",
         "Stock":  "0",
         "ItemCode":  "1394",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Surajmukhi",
@@ -24516,7 +24516,7 @@ const stockData = [
         "Item_SelfVal_Price":  "490",
         "Stock":  "12",
         "ItemCode":  "1639",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Tajima",
@@ -24527,7 +24527,7 @@ const stockData = [
         "Item_SelfVal_Price":  "430",
         "Stock":  "53",
         "ItemCode":  "3649",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Tarana",
@@ -24538,7 +24538,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.38",
         "Stock":  "1",
         "ItemCode":  "3000",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT TVS",
@@ -24549,7 +24549,7 @@ const stockData = [
         "Item_SelfVal_Price":  "714.375",
         "Stock":  "4",
         "ItemCode":  "3400",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Twinkle",
@@ -24560,7 +24560,7 @@ const stockData = [
         "Item_SelfVal_Price":  "393.75",
         "Stock":  "0",
         "ItemCode":  "1648",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT unity",
@@ -24571,7 +24571,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "4",
         "ItemCode":  "1798",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Urmila",
@@ -24582,7 +24582,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "4",
         "ItemCode":  "2947",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Vanilla",
@@ -24593,7 +24593,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.62",
         "Stock":  "4",
         "ItemCode":  "3314",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Variety",
@@ -24604,7 +24604,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.625",
         "Stock":  "0",
         "ItemCode":  "3020",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Veena",
@@ -24615,7 +24615,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "1397",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Vivo",
@@ -24626,7 +24626,7 @@ const stockData = [
         "Item_SelfVal_Price":  "759",
         "Stock":  "4",
         "ItemCode":  "3011",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT watermelon",
@@ -24637,7 +24637,7 @@ const stockData = [
         "Item_SelfVal_Price":  "615",
         "Stock":  "0",
         "ItemCode":  "1797",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Wonderful",
@@ -24648,7 +24648,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "0",
         "ItemCode":  "1316",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Xxx",
@@ -24659,7 +24659,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.375",
         "Stock":  "12",
         "ItemCode":  "3249",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Zanzar",
@@ -24670,7 +24670,7 @@ const stockData = [
         "Item_SelfVal_Price":  "665",
         "Stock":  "4",
         "ItemCode":  "3631",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Zara",
@@ -24681,7 +24681,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.38",
         "Stock":  "0",
         "ItemCode":  "3019",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT ZAREEN",
@@ -24692,7 +24692,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "0",
         "ItemCode":  "2764",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SNT Ziya",
@@ -24703,7 +24703,7 @@ const stockData = [
         "Item_SelfVal_Price":  "438.75",
         "Stock":  "0",
         "ItemCode":  "1851",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Snt Zoya",
@@ -24714,7 +24714,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1607",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sofia",
@@ -24725,7 +24725,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2666",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sofiya",
@@ -24736,7 +24736,7 @@ const stockData = [
         "Item_SelfVal_Price":  "498.375",
         "Stock":  "0",
         "ItemCode":  "3226",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SOLDIER BHUMI",
@@ -24747,7 +24747,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1464",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Somnath Anika",
@@ -24758,7 +24758,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1378.125",
         "Stock":  "0",
         "ItemCode":  "3036",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Somnath Dimple",
@@ -24769,7 +24769,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1704.375",
         "Stock":  "0",
         "ItemCode":  "3050",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Somnath Ferrari",
@@ -24780,7 +24780,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1957.5",
         "Stock":  "0",
         "ItemCode":  "3045",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Somnath Gizmo",
@@ -24791,7 +24791,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2019.375",
         "Stock":  "0",
         "ItemCode":  "3052",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Somnath Misha",
@@ -24802,7 +24802,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1501.875",
         "Stock":  "0",
         "ItemCode":  "3051",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sonet Plazo",
@@ -24813,7 +24813,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2362.5",
         "Stock":  "0",
         "ItemCode":  "3040",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sonpari",
@@ -24824,7 +24824,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1102.5",
         "Stock":  "0",
         "ItemCode":  "1606",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 005",
@@ -24835,7 +24835,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "0",
         "ItemCode":  "2608",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 009",
@@ -24846,7 +24846,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1917.75",
         "Stock":  "0",
         "ItemCode":  "2852",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 030",
@@ -24857,7 +24857,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2306.25",
         "Stock":  "0",
         "ItemCode":  "2853",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 101 READYMADE",
@@ -24868,7 +24868,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1918.125",
         "Stock":  "0",
         "ItemCode":  "2755",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 1011",
@@ -24879,7 +24879,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1912.5",
         "Stock":  "0",
         "ItemCode":  "2955",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 109",
@@ -24890,7 +24890,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2100",
         "Stock":  "-1",
         "ItemCode":  "3523",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 1178",
@@ -24901,7 +24901,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1811.25",
         "Stock":  "0",
         "ItemCode":  "2609",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 1213 C",
@@ -24912,7 +24912,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1650",
         "Stock":  "6",
         "ItemCode":  "3836",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 1213 J",
@@ -24923,7 +24923,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1560",
         "Stock":  "0",
         "ItemCode":  "4044",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 122",
@@ -24934,7 +24934,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2036.25",
         "Stock":  "0",
         "ItemCode":  "2854",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 1295 Readymade (4)",
@@ -24945,7 +24945,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1434",
         "Stock":  "-1",
         "ItemCode":  "2924",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 131",
@@ -24956,7 +24956,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1910",
         "Stock":  "4",
         "ItemCode":  "3921",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 1325",
@@ -24967,7 +24967,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2095",
         "Stock":  "3",
         "ItemCode":  "3920",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 1550",
@@ -24978,7 +24978,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2400",
         "Stock":  "1",
         "ItemCode":  "3675",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 172",
@@ -24989,7 +24989,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1254",
         "Stock":  "2",
         "ItemCode":  "2607",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 178 READYMADE",
@@ -25000,7 +25000,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1265.625",
         "Stock":  "0",
         "ItemCode":  "2808",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 1805 (2)",
@@ -25011,7 +25011,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2036.25",
         "Stock":  "0",
         "ItemCode":  "2921",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 2091 CRUNCHY",
@@ -25022,7 +25022,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1700",
         "Stock":  "4",
         "ItemCode":  "4045",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 2650 Readymade (1)",
@@ -25033,7 +25033,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1456.5",
         "Stock":  "0",
         "ItemCode":  "2922",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 26800",
@@ -25044,7 +25044,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1530",
         "Stock":  "0",
         "ItemCode":  "2352",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 2681",
@@ -25055,7 +25055,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.5",
         "Stock":  "0",
         "ItemCode":  "2351",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 273",
@@ -25066,7 +25066,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2379",
         "Stock":  "0",
         "ItemCode":  "2850",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 3014",
@@ -25077,7 +25077,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1940.25",
         "Stock":  "0",
         "ItemCode":  "2957",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 382 Trouser",
@@ -25088,7 +25088,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "1",
         "ItemCode":  "3668",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 383",
@@ -25099,7 +25099,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1355",
         "Stock":  "3",
         "ItemCode":  "3676",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 489",
@@ -25110,7 +25110,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1242.75",
         "Stock":  "0",
         "ItemCode":  "2372",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 489 Readymade (5)",
@@ -25121,7 +25121,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1242.75",
         "Stock":  "0",
         "ItemCode":  "2925",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 500",
@@ -25132,7 +25132,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1242.75",
         "Stock":  "0",
         "ItemCode":  "2353",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 565",
@@ -25143,7 +25143,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2040",
         "Stock":  "4",
         "ItemCode":  "4034",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 587",
@@ -25154,7 +25154,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1563.75",
         "Stock":  "0",
         "ItemCode":  "2960",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 617 READYMADE",
@@ -25165,7 +25165,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1316.25",
         "Stock":  "0",
         "ItemCode":  "2759",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 632 Readymade (3)",
@@ -25176,7 +25176,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1490.25",
         "Stock":  "0",
         "ItemCode":  "2923",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony 661",
@@ -25187,7 +25187,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1181.25",
         "Stock":  "0",
         "ItemCode":  "2958",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY 7 NO",
@@ -25198,7 +25198,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1400",
         "Stock":  "0",
         "ItemCode":  "3583",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Alina 1",
@@ -25209,7 +25209,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1",
         "ItemCode":  "3639",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY AR 067",
@@ -25220,7 +25220,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1900",
         "Stock":  "0",
         "ItemCode":  "3575",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY ARVIND 068",
@@ -25231,7 +25231,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1750",
         "Stock":  "4",
         "ItemCode":  "3858",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony B19 Readymade (6)",
@@ -25242,7 +25242,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1524",
         "Stock":  "0",
         "ItemCode":  "2926",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Burberry pant trouser",
@@ -25253,7 +25253,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1856.25",
         "Stock":  "0",
         "ItemCode":  "1971",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Coding",
@@ -25264,7 +25264,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1597.5",
         "Stock":  "0",
         "ItemCode":  "2959",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Coding Garara",
@@ -25275,7 +25275,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1987.5",
         "Stock":  "0",
         "ItemCode":  "1293",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Coding Garara New Design",
@@ -25286,7 +25286,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1917.75",
         "Stock":  "0",
         "ItemCode":  "1296",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Coding Garara Spl Red",
@@ -25297,7 +25297,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2050",
         "Stock":  "7",
         "ItemCode":  "1294",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Coding Suite",
@@ -25308,7 +25308,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1597.5",
         "Stock":  "-2",
         "ItemCode":  "2995",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY CODING SUITE 1011",
@@ -25319,7 +25319,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1446",
         "Stock":  "0",
         "ItemCode":  "2053",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY COTTON PANT",
@@ -25330,7 +25330,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2262",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY CREAMY TROUSER",
@@ -25341,7 +25341,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1321.5",
         "Stock":  "0",
         "ItemCode":  "2767",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY CRUNCHY130",
@@ -25352,7 +25352,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2145",
         "Stock":  "0",
         "ItemCode":  "3889",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Dark Sharara",
@@ -25363,7 +25363,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1530",
         "Stock":  "0",
         "ItemCode":  "3072",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Dark Simple",
@@ -25374,7 +25374,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1361.25",
         "Stock":  "0",
         "ItemCode":  "3074",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Farshi twill net",
@@ -25385,7 +25385,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2047.5",
         "Stock":  "0",
         "ItemCode":  "1942",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Garara",
@@ -25396,7 +25396,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1743.75",
         "Stock":  "0",
         "ItemCode":  "1286",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY GARARA 1",
@@ -25407,7 +25407,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2015",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY GARARA 2001",
@@ -25418,7 +25418,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1987.5",
         "Stock":  "0",
         "ItemCode":  "2052",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Garara Heavy",
@@ -25429,7 +25429,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1710",
         "Stock":  "0",
         "ItemCode":  "1292",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY GARARA READYMADE",
@@ -25440,7 +25440,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1917.75",
         "Stock":  "0",
         "ItemCode":  "2685",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY GHARARA",
@@ -25451,7 +25451,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1951.5",
         "Stock":  "0",
         "ItemCode":  "2684",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Gown",
@@ -25462,7 +25462,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2700",
         "Stock":  "0",
         "ItemCode":  "1943",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY HARI 51 PURSE",
@@ -25473,7 +25473,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2090",
         "Stock":  "2",
         "ItemCode":  "3922",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Heavy 1",
@@ -25484,7 +25484,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2165.625",
         "Stock":  "0",
         "ItemCode":  "3130",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Heavy 2",
@@ -25495,7 +25495,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1288.125",
         "Stock":  "0",
         "ItemCode":  "3131",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Heavy 3",
@@ -25506,7 +25506,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1550",
         "Stock":  "1",
         "ItemCode":  "3132",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Heavy 4",
@@ -25517,7 +25517,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1811.25",
         "Stock":  "0",
         "ItemCode":  "3133",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Heavy Red",
@@ -25528,7 +25528,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2435.625",
         "Stock":  "0",
         "ItemCode":  "3471",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Heavy Sleeves",
@@ -25539,7 +25539,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1614.375",
         "Stock":  "0",
         "ItemCode":  "3470",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY INDO WESTERN 1",
@@ -25550,7 +25550,7 @@ const stockData = [
         "Item_SelfVal_Price":  "4800",
         "Stock":  "2",
         "ItemCode":  "4059",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY INDO WESTERN 2",
@@ -25561,7 +25561,7 @@ const stockData = [
         "Item_SelfVal_Price":  "5250",
         "Stock":  "0",
         "ItemCode":  "4060",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY INDO WESTERN 3",
@@ -25572,7 +25572,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2850",
         "Stock":  "0",
         "ItemCode":  "4061",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Jacket Cream",
@@ -25583,7 +25583,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1197.75",
         "Stock":  "0",
         "ItemCode":  "3071",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY JAM COTTON SUITE 1",
@@ -25594,7 +25594,7 @@ const stockData = [
         "Item_SelfVal_Price":  "937.5",
         "Stock":  "-1",
         "ItemCode":  "2019",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Jiya 152",
@@ -25605,7 +25605,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2300",
         "Stock":  "6",
         "ItemCode":  "3669",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY JIYA 9093 (WITH PURSE)",
@@ -25616,7 +25616,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2355",
         "Stock":  "4",
         "ItemCode":  "4042",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Jorjet Suit Heavy",
@@ -25627,7 +25627,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1356",
         "Stock":  "0",
         "ItemCode":  "1288",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY K 1224",
@@ -25638,7 +25638,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1600",
         "Stock":  "7",
         "ItemCode":  "3578",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY K 1224 C",
@@ -25649,7 +25649,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1640",
         "Stock":  "3",
         "ItemCode":  "4043",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY K 636",
@@ -25660,7 +25660,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1340",
         "Stock":  "1",
         "ItemCode":  "3576",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony kaju katri garara 1026",
@@ -25671,7 +25671,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1968.75",
         "Stock":  "0",
         "ItemCode":  "1940",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY KALI PLAZO",
@@ -25682,7 +25682,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1917.75",
         "Stock":  "-2",
         "ItemCode":  "2030",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY KOTI GARARA",
@@ -25693,7 +25693,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2263",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Light Star",
@@ -25704,7 +25704,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1282.5",
         "Stock":  "0",
         "ItemCode":  "3134",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Neelkanth Plazo",
@@ -25715,7 +25715,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2400",
         "Stock":  "1",
         "ItemCode":  "3522",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY NET",
@@ -25726,7 +25726,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2424",
         "Stock":  "0",
         "ItemCode":  "2851",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Net 02",
@@ -25737,7 +25737,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1800",
         "Stock":  "0",
         "ItemCode":  "3135",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Net Coding",
@@ -25748,7 +25748,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2187.75",
         "Stock":  "0",
         "ItemCode":  "2956",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Net Lacha Light Colour Chart",
@@ -25759,7 +25759,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2347.5",
         "Stock":  "0",
         "ItemCode":  "1447",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY PANEL WORK",
@@ -25770,7 +25770,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2269",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Pant",
@@ -25781,7 +25781,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1558.5",
         "Stock":  "0",
         "ItemCode":  "1287",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Pant Jorjet",
@@ -25792,7 +25792,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1243.5",
         "Stock":  "0",
         "ItemCode":  "1291",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Pant Jorjet Light Colour Chart",
@@ -25803,7 +25803,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1743.75",
         "Stock":  "0",
         "ItemCode":  "1289",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Pant Trouser",
@@ -25814,7 +25814,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1387.5",
         "Stock":  "0",
         "ItemCode":  "1416",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony peplum",
@@ -25825,7 +25825,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2426.25",
         "Stock":  "0",
         "ItemCode":  "1941",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY PLAZO",
@@ -25836,7 +25836,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2137.5",
         "Stock":  "0",
         "ItemCode":  "2014",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READY MADE 171",
@@ -25847,7 +25847,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1256.25",
         "Stock":  "0",
         "ItemCode":  "2271",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Readymade (7)",
@@ -25858,7 +25858,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1197.75",
         "Stock":  "0",
         "ItemCode":  "2927",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READYMADE 005",
@@ -25869,7 +25869,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "2720",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Readymade 1011",
@@ -25880,7 +25880,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2178",
         "Stock":  "2",
         "ItemCode":  "3521",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READYMADE 172",
@@ -25891,7 +25891,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1254",
         "Stock":  "0",
         "ItemCode":  "2716",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READYMADE 2681",
@@ -25902,7 +25902,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.5",
         "Stock":  "0",
         "ItemCode":  "2418",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READYMADE 2692",
@@ -25913,7 +25913,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1406.25",
         "Stock":  "0",
         "ItemCode":  "2304",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READYMADE 525",
@@ -25924,7 +25924,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1406.25",
         "Stock":  "0",
         "ItemCode":  "2686",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY READYMADE 617",
@@ -25935,7 +25935,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2750",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Readymade R104",
@@ -25946,7 +25946,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1597.5",
         "Stock":  "0",
         "ItemCode":  "2491",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Readymade S-02_x_",
@@ -25957,7 +25957,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1436.25",
         "Stock":  "0",
         "ItemCode":  "2478",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Red 1343",
@@ -25968,7 +25968,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2250",
         "Stock":  "4",
         "ItemCode":  "3674",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony s 130",
@@ -25979,7 +25979,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2100",
         "Stock":  "2",
         "ItemCode":  "3673",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY S 165",
@@ -25990,7 +25990,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1505",
         "Stock":  "1",
         "ItemCode":  "3577",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY S 183",
@@ -26001,7 +26001,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1340",
         "Stock":  "0",
         "ItemCode":  "3582",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY S 30",
@@ -26012,7 +26012,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1350",
         "Stock":  "1",
         "ItemCode":  "3581",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY S 72",
@@ -26023,7 +26023,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1380",
         "Stock":  "0",
         "ItemCode":  "3923",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY S 91",
@@ -26034,7 +26034,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1450",
         "Stock":  "8",
         "ItemCode":  "4035",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY S70",
@@ -26045,7 +26045,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1370",
         "Stock":  "8",
         "ItemCode":  "4012",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Sharara",
@@ -26056,7 +26056,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1715.25",
         "Stock":  "0",
         "ItemCode":  "3073",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Suit Jorjet",
@@ -26067,7 +26067,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1288.5",
         "Stock":  "0",
         "ItemCode":  "1295",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Suit Jorjet Heavy",
@@ -26078,7 +26078,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1288.5",
         "Stock":  "0",
         "ItemCode":  "1290",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony Trouser Silver",
@@ -26089,7 +26089,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1434.375",
         "Stock":  "0",
         "ItemCode":  "3168",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sony White",
@@ -26100,7 +26100,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1530",
         "Stock":  "0",
         "ItemCode":  "3070",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SONY Z GARARA",
@@ -26111,7 +26111,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1687.5",
         "Stock":  "0",
         "ItemCode":  "2029",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 1240D",
@@ -26122,7 +26122,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1271.25",
         "Stock":  "0",
         "ItemCode":  "3108",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 4148B",
@@ -26133,7 +26133,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.875",
         "Stock":  "0",
         "ItemCode":  "3109",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 4213C",
@@ -26144,7 +26144,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1406.25",
         "Stock":  "0",
         "ItemCode":  "3107",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 4277D",
@@ -26155,7 +26155,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1305",
         "Stock":  "0",
         "ItemCode":  "3105",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 4278C",
@@ -26166,7 +26166,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1305",
         "Stock":  "0",
         "ItemCode":  "3106",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 4321B",
@@ -26177,7 +26177,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "3102",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 4334B",
@@ -26188,7 +26188,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1293.75",
         "Stock":  "0",
         "ItemCode":  "3103",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 908A",
@@ -26199,7 +26199,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1231.875",
         "Stock":  "0",
         "ItemCode":  "3104",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spari 937B",
@@ -26210,7 +26210,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1243.125",
         "Stock":  "0",
         "ItemCode":  "3101",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SPARKLE GEORGETTE",
@@ -26221,7 +26221,7 @@ const stockData = [
         "Item_SelfVal_Price":  "330",
         "Stock":  "119",
         "ItemCode":  "2774",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Spice Garara",
@@ -26232,7 +26232,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1209.375",
         "Stock":  "0",
         "ItemCode":  "3021",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SR 02 CRUNCHY",
@@ -26243,7 +26243,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1575",
         "Stock":  "0",
         "ItemCode":  "3285",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SRT Friends",
@@ -26254,7 +26254,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2339",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SRT SATMOLA",
@@ -26265,7 +26265,7 @@ const stockData = [
         "Item_SelfVal_Price":  "260",
         "Stock":  "169",
         "ItemCode":  "2564",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SRT SUPERFAST",
@@ -26276,7 +26276,7 @@ const stockData = [
         "Item_SelfVal_Price":  "485",
         "Stock":  "8",
         "ItemCode":  "4068",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ss (suny suite) Fivestar",
@@ -26287,7 +26287,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "3123",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SS Binad jam",
@@ -26298,7 +26298,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "0",
         "ItemCode":  "1961",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SS Geet",
@@ -26309,7 +26309,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "0",
         "ItemCode":  "1958",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SS JAAM MIX biscuits",
@@ -26320,7 +26320,7 @@ const stockData = [
         "Item_SelfVal_Price":  "380",
         "Stock":  "52",
         "ItemCode":  "3924",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Ss Melody",
@@ -26331,7 +26331,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "3124",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SS Oreo",
@@ -26342,7 +26342,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.125",
         "Stock":  "0",
         "ItemCode":  "3341",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SS Rajwadi",
@@ -26353,7 +26353,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.12",
         "Stock":  "2",
         "ItemCode":  "3440",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SS Somyad",
@@ -26364,7 +26364,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "0",
         "ItemCode":  "1959",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM Chameli",
@@ -26375,7 +26375,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354",
         "Stock":  "0",
         "ItemCode":  "2890",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM GEORGETTE KIRAN",
@@ -26386,7 +26386,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "3",
         "ItemCode":  "3878",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM Jhumka",
@@ -26397,7 +26397,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.375",
         "Stock":  "0",
         "ItemCode":  "3463",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM KISMISH",
@@ -26408,7 +26408,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "4",
         "ItemCode":  "3877",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM Kitty party",
@@ -26419,7 +26419,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354",
         "Stock":  "0",
         "ItemCode":  "2578",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM MEMORY",
@@ -26430,7 +26430,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "0",
         "ItemCode":  "3879",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM Mrf",
@@ -26441,7 +26441,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354",
         "Stock":  "0",
         "ItemCode":  "2580",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM POUND",
@@ -26452,7 +26452,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "0",
         "ItemCode":  "3876",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM SHEENA",
@@ -26463,7 +26463,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1150",
         "Stock":  "8",
         "ItemCode":  "3880",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SSM Stachu",
@@ -26474,7 +26474,7 @@ const stockData = [
         "Item_SelfVal_Price":  "354",
         "Stock":  "0",
         "ItemCode":  "2579",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SST SURYAJYOTI",
@@ -26485,7 +26485,7 @@ const stockData = [
         "Item_SelfVal_Price":  "355",
         "Stock":  "251",
         "ItemCode":  "2135",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SST zCTN SUITE",
@@ -26496,7 +26496,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2160",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Star Georgette",
@@ -26507,7 +26507,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444",
         "Stock":  "0",
         "ItemCode":  "2773",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Star W Zarkan",
@@ -26518,7 +26518,7 @@ const stockData = [
         "Item_SelfVal_Price":  "650",
         "Stock":  "1",
         "ItemCode":  "3975",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SUITE",
@@ -26529,7 +26529,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-16",
         "ItemCode":  "1990",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Disha IPL",
@@ -26540,7 +26540,7 @@ const stockData = [
         "Item_SelfVal_Price":  "446.25",
         "Stock":  "0",
         "ItemCode":  "2071",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Gf Babli",
@@ -26551,7 +26551,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "2058",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Gf Rochak",
@@ -26562,7 +26562,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "2063",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Gf Twelth Pass",
@@ -26573,7 +26573,7 @@ const stockData = [
         "Item_SelfVal_Price":  "693.75",
         "Stock":  "0",
         "ItemCode":  "2064",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Gk Pichkari",
@@ -26584,7 +26584,7 @@ const stockData = [
         "Item_SelfVal_Price":  "772.5",
         "Stock":  "0",
         "ItemCode":  "2070",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Jf Jalebi Bai",
@@ -26595,7 +26595,7 @@ const stockData = [
         "Item_SelfVal_Price":  "536.25",
         "Stock":  "0",
         "ItemCode":  "2065",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Jf Millennium",
@@ -26606,7 +26606,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2066",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Ancher",
@@ -26617,7 +26617,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2092",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Dhana Dhan",
@@ -26628,7 +26628,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2076",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Eva Garlic",
@@ -26639,7 +26639,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2097",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Eva Simon",
@@ -26650,7 +26650,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2099",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Eva Vanrtara",
@@ -26661,7 +26661,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2098",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Faabis",
@@ -26672,7 +26672,7 @@ const stockData = [
         "Item_SelfVal_Price":  "2437.5",
         "Stock":  "0",
         "ItemCode":  "2075",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Imare",
@@ -26683,7 +26683,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2101",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Kashfa",
@@ -26694,7 +26694,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2094",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Yusra",
@@ -26705,7 +26705,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2095",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite KC Zaafira",
@@ -26716,7 +26716,7 @@ const stockData = [
         "Item_SelfVal_Price":  "738.75",
         "Stock":  "0",
         "ItemCode":  "2096",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Nazakat Firdous to Firdous",
@@ -26727,7 +26727,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "2084",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Om Big Boss",
@@ -26738,7 +26738,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.75",
         "Stock":  "0",
         "ItemCode":  "2057",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Om Lenskart",
@@ -26749,7 +26749,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "2067",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Om Seltos",
@@ -26760,7 +26760,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "2069",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Om Verna",
@@ -26771,7 +26771,7 @@ const stockData = [
         "Item_SelfVal_Price":  "525",
         "Stock":  "0",
         "ItemCode":  "2068",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite RR Guide",
@@ -26782,7 +26782,7 @@ const stockData = [
         "Item_SelfVal_Price":  "378.75",
         "Stock":  "0",
         "ItemCode":  "2077",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite RS Fendi",
@@ -26793,7 +26793,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1462.5",
         "Stock":  "0",
         "ItemCode":  "3043",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SG Summer Choice",
@@ -26804,7 +26804,7 @@ const stockData = [
         "Item_SelfVal_Price":  "603.75",
         "Stock":  "0",
         "ItemCode":  "2080",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Anjali",
@@ -26815,7 +26815,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.75",
         "Stock":  "0",
         "ItemCode":  "2059",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Jasmine",
@@ -26826,7 +26826,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "2089",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Lemon",
@@ -26837,7 +26837,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "2088",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Madhubala",
@@ -26848,7 +26848,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "2087",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Neptune",
@@ -26859,7 +26859,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "2081",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Pinkey",
@@ -26870,7 +26870,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2083",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Shakira",
@@ -26881,7 +26881,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "2073",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite SNT Star",
@@ -26892,7 +26892,7 @@ const stockData = [
         "Item_SelfVal_Price":  "591",
         "Stock":  "0",
         "ItemCode":  "2086",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite VC NDTV",
@@ -26903,7 +26903,7 @@ const stockData = [
         "Item_SelfVal_Price":  "367.5",
         "Stock":  "0",
         "ItemCode":  "2060",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suite Wax Batik Bandni Rayon",
@@ -26914,7 +26914,7 @@ const stockData = [
         "Item_SelfVal_Price":  "423.75",
         "Stock":  "0",
         "ItemCode":  "2072",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sultan",
@@ -26925,7 +26925,7 @@ const stockData = [
         "Item_SelfVal_Price":  "45",
         "Stock":  "1972",
         "ItemCode":  "1716",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suman Pari Fab",
@@ -26936,7 +26936,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1481",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SUPER DUPER SVT",
@@ -26947,7 +26947,7 @@ const stockData = [
         "Item_SelfVal_Price":  "343.5",
         "Stock":  "0",
         "ItemCode":  "1463",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Suro ka saag",
@@ -26958,7 +26958,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "0",
         "ItemCode":  "1643",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SV Royal Stag",
@@ -26969,7 +26969,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "2",
         "ItemCode":  "2939",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Amar Suhag",
@@ -26980,7 +26980,7 @@ const stockData = [
         "Item_SelfVal_Price":  "573.75",
         "Stock":  "0",
         "ItemCode":  "1877",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Balma Garara",
@@ -26991,7 +26991,7 @@ const stockData = [
         "Item_SelfVal_Price":  "671.25",
         "Stock":  "0",
         "ItemCode":  "1502",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT BLACK SUITE",
@@ -27002,7 +27002,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2267",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT BLACKMAIL",
@@ -27013,7 +27013,7 @@ const stockData = [
         "Item_SelfVal_Price":  "476.25",
         "Stock":  "0",
         "ItemCode":  "2775",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Blockbuster",
@@ -27024,7 +27024,7 @@ const stockData = [
         "Item_SelfVal_Price":  "416.25",
         "Stock":  "0",
         "ItemCode":  "2166",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Butter Milk",
@@ -27035,7 +27035,7 @@ const stockData = [
         "Item_SelfVal_Price":  "536.25",
         "Stock":  "0",
         "ItemCode":  "1977",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Char Minar",
@@ -27046,7 +27046,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.5",
         "Stock":  "0",
         "ItemCode":  "2153",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Charminar",
@@ -27057,7 +27057,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "0",
         "ItemCode":  "1403",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Diamond Star",
@@ -27068,7 +27068,7 @@ const stockData = [
         "Item_SelfVal_Price":  "303.75",
         "Stock":  "0",
         "ItemCode":  "1543",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Doodh Malai",
@@ -27079,7 +27079,7 @@ const stockData = [
         "Item_SelfVal_Price":  "600",
         "Stock":  "0",
         "ItemCode":  "1931",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Dream Girl",
@@ -27090,7 +27090,7 @@ const stockData = [
         "Item_SelfVal_Price":  "705",
         "Stock":  "0",
         "ItemCode":  "1863",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT FERRARI",
@@ -27101,7 +27101,7 @@ const stockData = [
         "Item_SelfVal_Price":  "477.75",
         "Stock":  "0",
         "ItemCode":  "2754",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Fire Bolt",
@@ -27112,7 +27112,7 @@ const stockData = [
         "Item_SelfVal_Price":  "321",
         "Stock":  "0",
         "ItemCode":  "1274",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Gopi",
@@ -27123,7 +27123,7 @@ const stockData = [
         "Item_SelfVal_Price":  "592.5",
         "Stock":  "0",
         "ItemCode":  "1644",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Guddu Ki Darling",
@@ -27134,7 +27134,7 @@ const stockData = [
         "Item_SelfVal_Price":  "652.5",
         "Stock":  "0",
         "ItemCode":  "2168",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Masakali",
@@ -27145,7 +27145,7 @@ const stockData = [
         "Item_SelfVal_Price":  "326.25",
         "Stock":  "0",
         "ItemCode":  "1533",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT PALKHI",
@@ -27156,7 +27156,7 @@ const stockData = [
         "Item_SelfVal_Price":  "225",
         "Stock":  "152",
         "ItemCode":  "2515",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT PARIDHI",
@@ -27167,7 +27167,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-1",
         "ItemCode":  "2413",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Priyanka",
@@ -27178,7 +27178,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1631",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Queen",
@@ -27189,7 +27189,7 @@ const stockData = [
         "Item_SelfVal_Price":  "444.75",
         "Stock":  "0",
         "ItemCode":  "1435",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Roop Ki Rani",
@@ -27200,7 +27200,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.5",
         "Stock":  "0",
         "ItemCode":  "1271",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Royal Enfield",
@@ -27211,7 +27211,7 @@ const stockData = [
         "Item_SelfVal_Price":  "433.5",
         "Stock":  "0",
         "ItemCode":  "1384",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Svt Sapno Ki Rani",
@@ -27222,7 +27222,7 @@ const stockData = [
         "Item_SelfVal_Price":  "513.75",
         "Stock":  "0",
         "ItemCode":  "2405",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Seltos",
@@ -27233,7 +27233,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545.25",
         "Stock":  "0",
         "ItemCode":  "2985",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Shararat",
@@ -27244,7 +27244,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.5",
         "Stock":  "0",
         "ItemCode":  "1346",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Svt Simran",
@@ -27255,7 +27255,7 @@ const stockData = [
         "Item_SelfVal_Price":  "468.75",
         "Stock":  "0",
         "ItemCode":  "2406",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Svt Sophia",
@@ -27266,7 +27266,7 @@ const stockData = [
         "Item_SelfVal_Price":  "468.75",
         "Stock":  "0",
         "ItemCode":  "2400",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Star Shine",
@@ -27277,7 +27277,7 @@ const stockData = [
         "Item_SelfVal_Price":  "540",
         "Stock":  "0",
         "ItemCode":  "1345",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT Taj Mahal",
@@ -27288,7 +27288,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.5",
         "Stock":  "0",
         "ItemCode":  "2152",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SVT TROUSER",
@@ -27299,7 +27299,7 @@ const stockData = [
         "Item_SelfVal_Price":  "675",
         "Stock":  "0",
         "ItemCode":  "2016",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "SWEETY MT",
@@ -27310,7 +27310,7 @@ const stockData = [
         "Item_SelfVal_Price":  "467.25",
         "Stock":  "0",
         "ItemCode":  "1459",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Sweety SNT",
@@ -27321,7 +27321,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "1708",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Swift GK",
@@ -27332,7 +27332,7 @@ const stockData = [
         "Item_SelfVal_Price":  "658.5",
         "Stock":  "0",
         "ItemCode":  "1372",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Syed Arshiyan",
@@ -27343,7 +27343,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "0",
         "ItemCode":  "3476",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Tansen Garara SF",
@@ -27354,7 +27354,7 @@ const stockData = [
         "Item_SelfVal_Price":  "840",
         "Stock":  "0",
         "ItemCode":  "1500",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Tata GK",
@@ -27365,7 +27365,7 @@ const stockData = [
         "Item_SelfVal_Price":  "716.25",
         "Stock":  "0",
         "ItemCode":  "1493",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Thar GK",
@@ -27376,7 +27376,7 @@ const stockData = [
         "Item_SelfVal_Price":  "630",
         "Stock":  "0",
         "ItemCode":  "1495",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Tikli Dupatta",
@@ -27387,7 +27387,7 @@ const stockData = [
         "Item_SelfVal_Price":  "120",
         "Stock":  "241",
         "ItemCode":  "3539",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Toofan",
@@ -27398,7 +27398,7 @@ const stockData = [
         "Item_SelfVal_Price":  "712.5",
         "Stock":  "0",
         "ItemCode":  "1640",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Towel Medium",
@@ -27409,7 +27409,7 @@ const stockData = [
         "Item_SelfVal_Price":  "34.88",
         "Stock":  "107",
         "ItemCode":  "1719",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Towel Small",
@@ -27420,7 +27420,7 @@ const stockData = [
         "Item_SelfVal_Price":  "20",
         "Stock":  "1014",
         "ItemCode":  "2031",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Towel Winner",
@@ -27431,7 +27431,7 @@ const stockData = [
         "Item_SelfVal_Price":  "30",
         "Stock":  "1018",
         "ItemCode":  "3756",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Trouser",
@@ -27442,7 +27442,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "-2",
         "ItemCode":  "2730",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Tufan",
@@ -27453,7 +27453,7 @@ const stockData = [
         "Item_SelfVal_Price":  "480",
         "Stock":  "0",
         "ItemCode":  "1641",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Turkish Towel",
@@ -27464,7 +27464,7 @@ const stockData = [
         "Item_SelfVal_Price":  "65.25",
         "Stock":  "0",
         "ItemCode":  "1721",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Tycoon KC",
@@ -27475,7 +27475,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1736",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Usha GF",
@@ -27486,7 +27486,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1743",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Utsav Punjabi Kudi",
@@ -27497,7 +27497,7 @@ const stockData = [
         "Item_SelfVal_Price":  "213.75",
         "Stock":  "0",
         "ItemCode":  "3325",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Valentine SNT",
@@ -27508,7 +27508,7 @@ const stockData = [
         "Item_SelfVal_Price":  "459",
         "Stock":  "0",
         "ItemCode":  "1725",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vani Prema",
@@ -27519,7 +27519,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "1235",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vani Print",
@@ -27530,7 +27530,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1587",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vani Studio Jam Cotton Garara Sharara",
@@ -27541,7 +27541,7 @@ const stockData = [
         "Item_SelfVal_Price":  "647.25",
         "Stock":  "0",
         "ItemCode":  "1448",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vani Surya",
@@ -27552,7 +27552,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.75",
         "Stock":  "0",
         "ItemCode":  "1234",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Aadarshini",
@@ -27563,7 +27563,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1506",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Devgan",
@@ -27574,7 +27574,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1519",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Inaya",
@@ -27585,7 +27585,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1507",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Innova",
@@ -27596,7 +27596,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1513",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Jagrati",
@@ -27607,7 +27607,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1515",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Jaipriya",
@@ -27618,7 +27618,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1522",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Madhukan",
@@ -27629,7 +27629,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1511",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Manohar",
@@ -27640,7 +27640,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1512",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Mishri",
@@ -27651,7 +27651,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1510",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Misiri",
@@ -27662,7 +27662,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1523",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Monalisa",
@@ -27673,7 +27673,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1517",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Nirali",
@@ -27684,7 +27684,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1516",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Perfect Look",
@@ -27695,7 +27695,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1518",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Ramsha",
@@ -27706,7 +27706,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1521",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Sahiba",
@@ -27717,7 +27717,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1520",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Satluj",
@@ -27728,7 +27728,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1509",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Shalu",
@@ -27739,7 +27739,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1508",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Varnika Surjan",
@@ -27750,7 +27750,7 @@ const stockData = [
         "Item_SelfVal_Price":  "581.25",
         "Stock":  "0",
         "ItemCode":  "1514",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Aaina",
@@ -27761,7 +27761,7 @@ const stockData = [
         "Item_SelfVal_Price":  "461.25",
         "Stock":  "0",
         "ItemCode":  "3116",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vas Avni",
@@ -27772,7 +27772,7 @@ const stockData = [
         "Item_SelfVal_Price":  "478.12",
         "Stock":  "7",
         "ItemCode":  "3311",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS BAHAR",
@@ -27783,7 +27783,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "2130",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Dil Se",
@@ -27794,7 +27794,7 @@ const stockData = [
         "Item_SelfVal_Price":  "551.25",
         "Stock":  "0",
         "ItemCode":  "3316",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Firoti",
@@ -27805,7 +27805,7 @@ const stockData = [
         "Item_SelfVal_Price":  "635.625",
         "Stock":  "1",
         "ItemCode":  "3112",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Marry me",
@@ -27816,7 +27816,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.875",
         "Stock":  "8",
         "ItemCode":  "3110",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Mirzapur",
@@ -27827,7 +27827,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "3318",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Red Bul",
@@ -27838,7 +27838,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1063.125",
         "Stock":  "0",
         "ItemCode":  "3269",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Ruchika",
@@ -27849,7 +27849,7 @@ const stockData = [
         "Item_SelfVal_Price":  "534.375",
         "Stock":  "-1",
         "ItemCode":  "3317",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS Saloni",
@@ -27860,7 +27860,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "3111",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VAS SILKY",
@@ -27871,7 +27871,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "2009",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vas Upasana",
@@ -27882,7 +27882,7 @@ const stockData = [
         "Item_SelfVal_Price":  "435",
         "Stock":  "8",
         "ItemCode":  "3310",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Ajanta",
@@ -27893,7 +27893,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "1",
         "ItemCode":  "3231",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc big boss",
@@ -27904,7 +27904,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "13",
         "ItemCode":  "3389",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC ENJOY",
@@ -27915,7 +27915,7 @@ const stockData = [
         "Item_SelfVal_Price":  "380",
         "Stock":  "0",
         "ItemCode":  "3804",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Garima",
@@ -27926,7 +27926,7 @@ const stockData = [
         "Item_SelfVal_Price":  "260",
         "Stock":  "0",
         "ItemCode":  "3636",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Gulkad",
@@ -27937,7 +27937,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3457",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Heropanthi",
@@ -27948,7 +27948,7 @@ const stockData = [
         "Item_SelfVal_Price":  "311.25",
         "Stock":  "0",
         "ItemCode":  "1560",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC IPHONE",
@@ -27959,7 +27959,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2673",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Jhalak",
@@ -27970,7 +27970,7 @@ const stockData = [
         "Item_SelfVal_Price":  "455.25",
         "Stock":  "0",
         "ItemCode":  "2614",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC JIYA",
@@ -27981,7 +27981,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "2112",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Kanya Kumari",
@@ -27992,7 +27992,7 @@ const stockData = [
         "Item_SelfVal_Price":  "348.75",
         "Stock":  "-2",
         "ItemCode":  "2972",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Katil",
@@ -28003,7 +28003,7 @@ const stockData = [
         "Item_SelfVal_Price":  "427.5",
         "Stock":  "0",
         "ItemCode":  "3459",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Lower circuit",
@@ -28014,7 +28014,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "-18",
         "ItemCode":  "3388",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Mahek",
@@ -28025,7 +28025,7 @@ const stockData = [
         "Item_SelfVal_Price":  "360",
         "Stock":  "4",
         "ItemCode":  "3230",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Mango",
@@ -28036,7 +28036,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3458",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Mehbooba",
@@ -28047,7 +28047,7 @@ const stockData = [
         "Item_SelfVal_Price":  "489.38",
         "Stock":  "-1",
         "ItemCode":  "3455",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Mentos",
@@ -28058,7 +28058,7 @@ const stockData = [
         "Item_SelfVal_Price":  "363.375",
         "Stock":  "27",
         "ItemCode":  "3008",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Mumtaj",
@@ -28069,7 +28069,7 @@ const stockData = [
         "Item_SelfVal_Price":  "506.25",
         "Stock":  "0",
         "ItemCode":  "2439",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC NDTV",
@@ -28080,7 +28080,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "4",
         "ItemCode":  "2017",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC PAKISTANI WHITE HOUSE",
@@ -28091,7 +28091,7 @@ const stockData = [
         "Item_SelfVal_Price":  "375",
         "Stock":  "0",
         "ItemCode":  "2110",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Panipuri",
@@ -28102,7 +28102,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "4",
         "ItemCode":  "3507",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Panparag",
@@ -28113,7 +28113,7 @@ const stockData = [
         "Item_SelfVal_Price":  "342.75",
         "Stock":  "22",
         "ItemCode":  "2736",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Playstore",
@@ -28124,7 +28124,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "0",
         "ItemCode":  "3509",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Ragbi",
@@ -28135,7 +28135,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2596",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC SAMARIYA",
@@ -28146,7 +28146,7 @@ const stockData = [
         "Item_SelfVal_Price":  "395",
         "Stock":  "2",
         "ItemCode":  "3956",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Sarbati",
@@ -28157,7 +28157,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3456",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC SONIKUDI",
@@ -28168,7 +28168,7 @@ const stockData = [
         "Item_SelfVal_Price":  "315",
         "Stock":  "0",
         "ItemCode":  "2111",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC SUNFLOWER",
@@ -28179,7 +28179,7 @@ const stockData = [
         "Item_SelfVal_Price":  "300",
         "Stock":  "0",
         "ItemCode":  "3901",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vc Super Six",
@@ -28190,7 +28190,7 @@ const stockData = [
         "Item_SelfVal_Price":  "345",
         "Stock":  "1",
         "ItemCode":  "3508",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC UPDATE",
@@ -28201,7 +28201,7 @@ const stockData = [
         "Item_SelfVal_Price":  "365.25",
         "Stock":  "0",
         "ItemCode":  "2865",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC Variety",
@@ -28212,7 +28212,7 @@ const stockData = [
         "Item_SelfVal_Price":  "376.5",
         "Stock":  "0",
         "ItemCode":  "2586",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC WHITE HOUSE",
@@ -28223,7 +28223,7 @@ const stockData = [
         "Item_SelfVal_Price":  "405",
         "Stock":  "0",
         "ItemCode":  "2129",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VC WWE",
@@ -28234,7 +28234,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2744",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VELVET D GOWN",
@@ -28245,7 +28245,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1237.5",
         "Stock":  "0",
         "ItemCode":  "2024",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vf Jackpot",
@@ -28256,7 +28256,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1305",
         "Stock":  "0",
         "ItemCode":  "3283",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VF SILLY SILLY",
@@ -28267,7 +28267,7 @@ const stockData = [
         "Item_SelfVal_Price":  "445",
         "Stock":  "8",
         "ItemCode":  "4028",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vimal Fortuner",
@@ -28278,7 +28278,7 @@ const stockData = [
         "Item_SelfVal_Price":  "295",
         "Stock":  "66",
         "ItemCode":  "3706",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vimal Olive",
@@ -28289,7 +28289,7 @@ const stockData = [
         "Item_SelfVal_Price":  "225",
         "Stock":  "6",
         "ItemCode":  "3644",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VIP",
@@ -28300,7 +28300,7 @@ const stockData = [
         "Item_SelfVal_Price":  "87.75",
         "Stock":  "-7",
         "ItemCode":  "1723",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Vistara KC",
@@ -28311,7 +28311,7 @@ const stockData = [
         "Item_SelfVal_Price":  "1333.5",
         "Stock":  "0",
         "ItemCode":  "1737",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VS Indu",
@@ -28322,7 +28322,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1311",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VS Monisha",
@@ -28333,7 +28333,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1312",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VS ORGENZA",
@@ -28344,7 +28344,7 @@ const stockData = [
         "Item_SelfVal_Price":  "637.5",
         "Stock":  "0",
         "ItemCode":  "2013",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VS Varnika",
@@ -28355,7 +28355,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1314",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VS Varnita",
@@ -28366,7 +28366,7 @@ const stockData = [
         "Item_SelfVal_Price":  "517.5",
         "Stock":  "0",
         "ItemCode":  "1313",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VT Anokhi",
@@ -28377,7 +28377,7 @@ const stockData = [
         "Item_SelfVal_Price":  "771",
         "Stock":  "0",
         "ItemCode":  "1320",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VT Drasti Organza",
@@ -28388,7 +28388,7 @@ const stockData = [
         "Item_SelfVal_Price":  "382.5",
         "Stock":  "0",
         "ItemCode":  "1986",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VT Harshita",
@@ -28399,7 +28399,7 @@ const stockData = [
         "Item_SelfVal_Price":  "922.5",
         "Stock":  "8",
         "ItemCode":  "3007",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VT Missile",
@@ -28410,7 +28410,7 @@ const stockData = [
         "Item_SelfVal_Price":  "371.25",
         "Stock":  "0",
         "ItemCode":  "1538",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VT Sallar",
@@ -28421,7 +28421,7 @@ const stockData = [
         "Item_SelfVal_Price":  "703.5",
         "Stock":  "0",
         "ItemCode":  "1321",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VT Sunrise",
@@ -28432,7 +28432,7 @@ const stockData = [
         "Item_SelfVal_Price":  "731.25",
         "Stock":  "-3",
         "ItemCode":  "3250",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "VV Eid Mubarak",
@@ -28443,7 +28443,7 @@ const stockData = [
         "Item_SelfVal_Price":  "515",
         "Stock":  "0",
         "ItemCode":  "3634",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Watermelon SNT",
@@ -28454,7 +28454,7 @@ const stockData = [
         "Item_SelfVal_Price":  "596.25",
         "Stock":  "0",
         "ItemCode":  "1746",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Aaina",
@@ -28465,7 +28465,7 @@ const stockData = [
         "Item_SelfVal_Price":  "601.875",
         "Stock":  "-2",
         "ItemCode":  "3336",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Ajgar",
@@ -28476,7 +28476,7 @@ const stockData = [
         "Item_SelfVal_Price":  "562.5",
         "Stock":  "4",
         "ItemCode":  "3245",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WELCOME BEGAM JAAN",
@@ -28487,7 +28487,7 @@ const stockData = [
         "Item_SelfVal_Price":  "505",
         "Stock":  "1",
         "ItemCode":  "3653",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Begumjaan",
@@ -28498,7 +28498,7 @@ const stockData = [
         "Item_SelfVal_Price":  "601.875",
         "Stock":  "3",
         "ItemCode":  "3462",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Dhoom Dhadaka",
@@ -28509,7 +28509,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "8",
         "ItemCode":  "3335",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Do Pati",
@@ -28520,7 +28520,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "0",
         "ItemCode":  "3084",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Dream Girl",
@@ -28531,7 +28531,7 @@ const stockData = [
         "Item_SelfVal_Price":  "646.875",
         "Stock":  "8",
         "ItemCode":  "3167",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Dull Sentun",
@@ -28542,7 +28542,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "4",
         "ItemCode":  "3434",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Ganga Jamuna",
@@ -28553,7 +28553,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "4",
         "ItemCode":  "3166",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Gulabo",
@@ -28564,7 +28564,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "10",
         "ItemCode":  "3401",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Gulaboo",
@@ -28575,7 +28575,7 @@ const stockData = [
         "Item_SelfVal_Price":  "579.375",
         "Stock":  "4",
         "ItemCode":  "3246",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Gulshan",
@@ -28586,7 +28586,7 @@ const stockData = [
         "Item_SelfVal_Price":  "641.25",
         "Stock":  "4",
         "ItemCode":  "3431",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Hanny Banny",
@@ -28597,7 +28597,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "8",
         "ItemCode":  "3334",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Hany Bany",
@@ -28608,7 +28608,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "4",
         "ItemCode":  "3248",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Hello Baby",
@@ -28619,7 +28619,7 @@ const stockData = [
         "Item_SelfVal_Price":  "624.375",
         "Stock":  "9",
         "ItemCode":  "3243",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Khajoor",
@@ -28630,7 +28630,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "-1",
         "ItemCode":  "3165",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Khajur",
@@ -28641,7 +28641,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "13",
         "ItemCode":  "3081",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Lotus",
@@ -28652,7 +28652,7 @@ const stockData = [
         "Item_SelfVal_Price":  "624.375",
         "Stock":  "8",
         "ItemCode":  "3083",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WELCOME MASTMALAI",
@@ -28663,7 +28663,7 @@ const stockData = [
         "Item_SelfVal_Price":  "505",
         "Stock":  "0",
         "ItemCode":  "3080",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome New Gulaboo",
@@ -28674,7 +28674,7 @@ const stockData = [
         "Item_SelfVal_Price":  "495",
         "Stock":  "0",
         "ItemCode":  "3430",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Pardesi",
@@ -28685,7 +28685,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "16",
         "ItemCode":  "3086",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Rangoli",
@@ -28696,7 +28696,7 @@ const stockData = [
         "Item_SelfVal_Price":  "590.625",
         "Stock":  "-3",
         "ItemCode":  "3238",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Sada Sukhi",
@@ -28707,7 +28707,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "1",
         "ItemCode":  "3369",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Sadabahar",
@@ -28718,7 +28718,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "12",
         "ItemCode":  "3085",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Sandaar",
@@ -28729,7 +28729,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "0",
         "ItemCode":  "3082",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Shandar",
@@ -28740,7 +28740,7 @@ const stockData = [
         "Item_SelfVal_Price":  "618.75",
         "Stock":  "16",
         "ItemCode":  "3247",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome She girl",
@@ -28751,7 +28751,7 @@ const stockData = [
         "Item_SelfVal_Price":  "585",
         "Stock":  "3",
         "ItemCode":  "3370",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Sonikudi",
@@ -28762,7 +28762,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "4",
         "ItemCode":  "3255",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Sonpari",
@@ -28773,7 +28773,7 @@ const stockData = [
         "Item_SelfVal_Price":  "624.375",
         "Stock":  "0",
         "ItemCode":  "3127",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Teekhi Mirch",
@@ -28784,7 +28784,7 @@ const stockData = [
         "Item_SelfVal_Price":  "607.5",
         "Stock":  "12",
         "ItemCode":  "3087",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Welcome Tikhi Mirchi",
@@ -28795,7 +28795,7 @@ const stockData = [
         "Item_SelfVal_Price":  "613.125",
         "Stock":  "-4",
         "ItemCode":  "3244",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WHITE 1 ZARKAN",
@@ -28806,7 +28806,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "12",
         "ItemCode":  "3862",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WHITE 2 TAI",
@@ -28817,7 +28817,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "16",
         "ItemCode":  "3863",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WHITE 3 LAKHNAVI",
@@ -28828,7 +28828,7 @@ const stockData = [
         "Item_SelfVal_Price":  "480",
         "Stock":  "4",
         "ItemCode":  "3864",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WHITE 4 PRINT GALA",
@@ -28839,7 +28839,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "4",
         "ItemCode":  "3865",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WHITE 5 PRINT GALA",
@@ -28850,7 +28850,7 @@ const stockData = [
         "Item_SelfVal_Price":  "500",
         "Stock":  "4",
         "ItemCode":  "3866",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "WHITE CHICKEN",
@@ -28861,7 +28861,7 @@ const stockData = [
         "Item_SelfVal_Price":  "545",
         "Stock":  "0",
         "ItemCode":  "3654",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "White Pari",
@@ -28872,7 +28872,7 @@ const stockData = [
         "Item_SelfVal_Price":  "523.125",
         "Stock":  "0",
         "ItemCode":  "3268",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "White Star",
@@ -28883,7 +28883,7 @@ const stockData = [
         "Item_SelfVal_Price":  "421.5",
         "Stock":  "0",
         "ItemCode":  "2920",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Yash Cotton Dupatta",
@@ -28894,7 +28894,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "11",
         "ItemCode":  "3199",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YC Chaya",
@@ -28905,7 +28905,7 @@ const stockData = [
         "Item_SelfVal_Price":  "689.625",
         "Stock":  "0",
         "ItemCode":  "3263",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YC March Ending",
@@ -28916,7 +28916,7 @@ const stockData = [
         "Item_SelfVal_Price":  "689.625",
         "Stock":  "1",
         "ItemCode":  "3261",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YC Nafisa",
@@ -28927,7 +28927,7 @@ const stockData = [
         "Item_SelfVal_Price":  "689.625",
         "Stock":  "0",
         "ItemCode":  "3262",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YC(Yashika Creation) Nimbu Soda",
@@ -28938,7 +28938,7 @@ const stockData = [
         "Item_SelfVal_Price":  "689.625",
         "Stock":  "0",
         "ItemCode":  "3264",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Yellow Gumnam",
@@ -28949,7 +28949,7 @@ const stockData = [
         "Item_SelfVal_Price":  "258.75",
         "Stock":  "0",
         "ItemCode":  "2543",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YELLOW SUITE",
@@ -28960,7 +28960,7 @@ const stockData = [
         "Item_SelfVal_Price":  "0",
         "Stock":  "0",
         "ItemCode":  "2523",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Akangsha",
@@ -28971,7 +28971,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3201",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Bislerry",
@@ -28982,7 +28982,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "2",
         "ItemCode":  "3377",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Citizen",
@@ -28993,7 +28993,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3200",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Delhi",
@@ -29004,7 +29004,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3204",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Fashion Store",
@@ -29015,7 +29015,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "1",
         "ItemCode":  "3208",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF jeevan Dhara",
@@ -29026,7 +29026,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "-1",
         "ItemCode":  "3381",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Mango Raas",
@@ -29037,7 +29037,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "-1",
         "ItemCode":  "3380",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Neem Rose",
@@ -29048,7 +29048,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3210",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Prem Palki",
@@ -29059,7 +29059,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3205",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Saffron",
@@ -29070,7 +29070,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "3",
         "ItemCode":  "3382",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Safron",
@@ -29081,7 +29081,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3206",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Sang Dil",
@@ -29092,7 +29092,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "3",
         "ItemCode":  "3202",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Sarvana",
@@ -29103,7 +29103,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "1",
         "ItemCode":  "3379",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF sharbat",
@@ -29114,7 +29114,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "0",
         "ItemCode":  "3378",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Sunaina",
@@ -29125,7 +29125,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "1",
         "ItemCode":  "3209",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Trishika",
@@ -29136,7 +29136,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "0",
         "ItemCode":  "3203",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Varsha Devi",
@@ -29147,7 +29147,7 @@ const stockData = [
         "Item_SelfVal_Price":  "410.625",
         "Stock":  "-12",
         "ItemCode":  "3207",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "YF Wonder girl",
@@ -29158,7 +29158,7 @@ const stockData = [
         "Item_SelfVal_Price":  "450",
         "Stock":  "3",
         "ItemCode":  "3376",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Zara Aheri Suit",
@@ -29169,7 +29169,7 @@ const stockData = [
         "Item_SelfVal_Price":  "225",
         "Stock":  "63",
         "ItemCode":  "3574",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Zari Pashmina",
@@ -29180,7 +29180,7 @@ const stockData = [
         "Item_SelfVal_Price":  "30",
         "Stock":  "574",
         "ItemCode":  "3516",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     },
     {
         "ItemName":  "Zorro Eva GF",
@@ -29191,9 +29191,9 @@ const stockData = [
         "Item_SelfVal_Price":  "877.5",
         "Stock":  "0",
         "ItemCode":  "1349",
-        "LastSync":  "04-12-2025 05:01:07 PM"
+        "LastSync":  "04-12-2025 05:02:07 PM"
     }
 ];
-const lastUpdated = "2025-12-04 17:01:07";
+const lastUpdated = "2025-12-04 17:02:07";
 window.stockData = stockData;
 window.lastUpdated = lastUpdated;
